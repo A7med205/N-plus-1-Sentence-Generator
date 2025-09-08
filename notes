@@ -1,5 +1,0 @@
-pip install torch --index-url https://download.pytorch.org/whl/cpu
-pip install stanza
-pip install openai
-
-export OPENAI_API_KEY="your_api_key_here"

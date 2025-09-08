@@ -12,7 +12,7 @@ Implements a pipeline to:
 
 Notes:
 - Input list files are named like "1.txt", "2.text", "3.text", etc.
-- We do not modify the original file. We always create a new copy with its leading number incremented.
+- The original file is not modified. A new copy with its leading number incremented is always created.
 - This script depends on:
     - openai (>=1.0.0): pip install openai
     - stanza: pip install stanza
@@ -38,8 +38,6 @@ import re
 import sys
 from dataclasses import dataclass
 from typing import Dict, List, Optional, Sequence, Tuple
-
-# --- Optional imports with graceful handling ---
 try:
     import stanza  # type: ignore
 except Exception:  # pragma: no cover
