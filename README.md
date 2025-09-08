@@ -20,7 +20,7 @@ The n+1 principle means that each new sentence should contain only one additiona
   4. If extra new words appear, they are **added to the list before the current lemma**, ensuring adherence to the n+1 rule.
   5. Updates the list and continues the process.
 
-**Why this approach?**
+### **Why this approach?**
 
 * Complete adherence to the frequency-based order while producing n+1 sentences can result in awkward sounding sentences.
 * Generating 10 sentences that simply include our current word, filtering for the one with least new words and updating the list accordingly results in a high level of adherence (\~88% adherence to list in English after 100 steps) with relatively low API costs (~$0.20 / 100 steps for English with gpt-5-mini) without being overly strict or having to break the n+1 rule.
