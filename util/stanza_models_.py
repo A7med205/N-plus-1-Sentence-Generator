@@ -11,7 +11,8 @@ languages = {
     #"ru": "Russian",
     #"pt": "Portuguese",
     #"ko": "Korean",
-    "en": "English"
+    #"en": "English",
+    "ar": "Arabic"
 }
 
 # Download models
