@@ -3,7 +3,7 @@ import stanza
 # List of languages (Stanza codes)
 languages = {
     #"fr": "French",
-    #"zh": "Mandarin Chinese",
+    #"zh-hans": "Mandarin Chinese (Simplified)",
     #"es": "Spanish",
     #"de": "German",
     #"it": "Italian",
@@ -12,7 +12,7 @@ languages = {
     #"pt": "Portuguese",
     #"ko": "Korean",
     #"en": "English",
-    "ar": "Arabic"
+    #"ar": "Arabic"
 }
 
 # Download models
