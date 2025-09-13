@@ -65,9 +65,10 @@ def process_file(input_file, output_file, lang, continue_mode):
 languages = ["de","es","pt","ru","ja","ko","zh-hans","fr","it"]
 
 for i in languages:
-    temp = f"{i}_sentences_with_lemmas.txt"
-    infile = os.path.join("/home/salmon/anki/lemmatize/git goon/N-plus-1-Sentence-Generator/corpora/", i, "sentences_only.txt")
-    outfile = os.path.join("/home/salmon/anki/lemmatize/git goon/N-plus-1-Sentence-Generator/corpora/", i, temp)
+    temp1 = f"{i}_sentences_with_lemmas.txt"
+    temp2 = f"{i}_sentences_only.txt"
+    infile = os.path.join("/home/salmon/anki/lemmatize/git goon/N-plus-1-Sentence-Generator/corpora/", i, temp2)
+    outfile = os.path.join("/home/salmon/anki/lemmatize/git goon/N-plus-1-Sentence-Generator/corpora/", i, temp1)
     print(infile)
     print(outfile)
     process_file(infile, outfile, i, True)
