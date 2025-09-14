@@ -52,7 +52,7 @@ def process_file(input_file, output_file, lang, continue_mode):
             lemmas = []
             for sent in doc.sentences:
                 for word in sent.words:
-                    lemmas.append(word.lemma)
+                    lemmas.append(word.lemma if word.lemma is not None else word.text)
 
             # Write original + lemmas
             outfile.write(f"{sentence}\t{' '.join(lemmas)}\n")
@@ -62,7 +62,7 @@ def process_file(input_file, output_file, lang, continue_mode):
     print(f"Done! Total lines processed: {count + start_line}")
 
     
-languages = ["de","es","pt","ru","ja","ko","zh-hans","fr","it"]
+languages = ["pt","ru","ja","ko","zh-hans","fr","it"]
 
 for i in languages:
     temp1 = f"{i}_sentences_with_lemmas.txt"
