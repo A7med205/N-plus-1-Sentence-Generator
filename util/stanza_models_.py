@@ -9,7 +9,7 @@ languages = {
     #"it": "Italian",
     #"ja": "Japanese",
     #"ru": "Russian",
-    #"pt": "Portuguese",
+    "pt": "Portuguese",
     #"ko": "Korean",
     #"en": "English",
     #"ar": "Arabic"
