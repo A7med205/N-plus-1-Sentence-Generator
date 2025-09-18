@@ -70,26 +70,16 @@ Each flashcard is **HTML-based** (Anki-compatible).
 
 **Front:**
 
-<div style="text-align:center;">
-  <p><b>das Haus</b> (Häuser)</p>
-  <p>
-    <span style="color:#008080;">Er</span> 
-    <span style="color:#B22222;">kauft</span> 
-    <span style="color:#696969;">ein</span> 
-    <u><span style="color:#2E8B57;">Haus</span></u> 
-    <span style="color:#696969;">für</span> 
-    <span style="color:#696969;">seine</span> 
-    <span style="color:#2E8B57;">Familie</span>.
-  </p>
-</div>
+<p align="center">
+  <img src="de_front.svg" alt="das Haus example" />
+</p>
+
 
 **Back:**
 
-<div style="text-align:center;">
-  <p><b>Haus</b> – house (building for living in)</p>
-  <p>He buys a house for his family.</p>
-  <p>[Sentence Audio]</p>
-</div>
+<p align="center">
+  <img src="de_back.svg" alt="das Haus example" />
+</p>
 
 ---
 
@@ -97,29 +87,15 @@ Each flashcard is **HTML-based** (Anki-compatible).
 
 **Front:**
 
-<div style="text-align:center;">
-  <p><b>食べる</b></p>
-  <p>
-    <span style="color:#FF8C00;">毎日</span> 
-    <u><span style="color:#B22222;">食べる</span></u> 
-    <span style="color:#2E8B57;">野菜</span> 
-    <span style="color:#696969;">を</span> 
-    <span style="color:#B22222;">食べる</span> 
-    <span style="color:#696969;">こと</span> 
-    <span style="color:#696969;">が</span> 
-    <span style="color:#1E90FF;">大切</span> 
-    <span style="color:#696969;">です</span>。
-  </p>
-</div>
+<p align="center">
+  <img src="ja_front.svg" alt="das Haus example" />
+</p>
 
 **Back:**
 
-<div style="text-align:center;">
-  <p><b>たべる (taberu)</b> – to eat</p>
-  <p>食 (eat) + べる</p>
-  <p>It is important to eat vegetables every day.</p>
-  <p>[Sentence Audio]</p>
-</div>
+<p align="center">
+  <img src="ja_back.svg" alt="das Haus example" />
+</p>
 
 ---
 

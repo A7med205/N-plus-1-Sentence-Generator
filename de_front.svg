@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="120">
+  <style>
+    .title { font: bold 20px sans-serif; }
+    .text { font: 18px sans-serif; }
+  </style>
+  
+  <!-- Centered text group -->
+  <g text-anchor="middle">
+    <!-- First line -->
+    <text x="50%" y="30" class="title">das Haus (Häuser)</text>
+
+    <!-- Second line -->
+    <text x="50%" y="70" class="text">
+      <tspan fill="#008080">Er </tspan>
+      <tspan fill="#B22222">kauft </tspan>
+      <tspan fill="#696969">ein </tspan>
+      <tspan text-decoration="underline" fill="#2E8B57">Haus</tspan>
+      <tspan fill="#696969"> für seine </tspan>
+      <tspan fill="#2E8B57">Familie</tspan>.
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="180">
+  <style>
+    .title { font: bold 20px sans-serif; }
+    .text { font: 18px sans-serif; }
+    .small { font: 16px sans-serif; fill: #555; }
+  </style>
+
+  <g text-anchor="middle">
+    <text x="50%" y="30" class="title">たべる (taberu) – to eat</text>
+    <text x="50%" y="65" class="text">食 (eat) + べる</text>
+    <text x="50%" y="100" class="text">It is important to eat vegetables every day.</text>
+    <text x="50%" y="145" class="small">[Sentence Audio]</text>
+  </g>
+</svg>

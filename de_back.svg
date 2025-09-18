@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="140">
+  <style>
+    .title { font: bold 20px sans-serif; }
+    .text { font: 18px sans-serif; }
+    .small { font: 16px sans-serif; fill: #555; }
+  </style>
+
+  <g text-anchor="middle">
+    <text x="50%" y="30" class="title">Haus – house (building for living in)</text>
+    <text x="50%" y="65" class="text">He buys a house for his family.</text>
+    <text x="50%" y="105" class="small">[Sentence Audio]</text>
+  </g>
+</svg>

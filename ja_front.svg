@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="140">
+  <style>
+    .title { font: bold 22px sans-serif; }
+    .text { font: 20px sans-serif; }
+  </style>
+
+  <g text-anchor="middle">
+    <!-- Title -->
+    <text x="50%" y="35" class="title">食べる</text>
+
+    <!-- Colored sentence -->
+    <text x="50%" y="80" class="text">
+      <tspan fill="#FF8C00">毎日 </tspan>
+      <tspan text-decoration="underline" fill="#B22222">食べる </tspan>
+      <tspan fill="#2E8B57">野菜 </tspan>
+      <tspan fill="#696969">を </tspan>
+      <tspan fill="#B22222">食べる </tspan>
+      <tspan fill="#696969">こと が </tspan>
+      <tspan fill="#1E90FF">大切 </tspan>
+      <tspan fill="#696969">です。</tspan>
+    </text>
+  </g>
+</svg>
