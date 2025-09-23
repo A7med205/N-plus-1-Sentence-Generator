@@ -31,15 +31,15 @@ This open project aims to provides **3,000 frequency-based vocabulary flashcards
 | Language          | Status |
 |-------------------|--------|
 | English           | ✅✅❌❌❌ |
-| French            | ✅❌❌❌❌ |
-| Mandarin Chinese  | ✅❌❌❌❌ |
+| French            | ✅✅❌❌❌ |
+| Mandarin Chinese  | ✅✅❌❌❌ |
 | Spanish           | ✅✅❌❌❌ |
 | German            | ✅✅❌❌❌ |
 | Italian           | ✅✅❌❌❌ |
 | Japanese          | ✅✅❌❌❌ |
 | Russian           | ✅❌❌❌❌ |
 | Portuguese        | ✅✅❌❌❌ |
-| Korean            | ✅❌❌❌❌ |
+| Korean            | ✅✅❌❌❌ |
 
 
 ### Phase Two – Deck Building
