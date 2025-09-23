@@ -1,3981 +1,3981 @@
-der	437349
-sein	264410
-ich	239712
-haben	147701
-ein	141868
-sie	128627
-du	110638
-nicht	107202
-Tom	106434
-zu	94181
-in	87197
-er	82843
-es	72565
-werden	62321
-und	60405
-wir	53493
-können	46762
-sich	38295
-dass	38011
-auf	37150
-mit	36861
-an	35848
-mein	35427
-ihr	34567
-dieser	34003
-was	33729
-wie	31660
-von	30467
-Maria	26605
-sagen	25663
-als	24634
-kein	23949
-so	23090
-gut	22931
-wollen	22888
-für	22819
-wenn	21818
-man	21340
-gehen	21037
-alle	20947
-machen	20755
-müssen	20289
-noch	20197
-sehen	18444
-aus	18339
-kommen	18099
-viel	18063
-geben	17583
-um	17503
-wissen	17118
-tun	16924
-nach	16066
-dein	16002
-sollen	15428
-sehr	14577
-nur	14017
-mögen	14013
-aber	13604
-mehr	12918
-schon	12721
-hier	12533
-immer	12467
-bei	12452
-etwas	11845
-vor	11325
-auch	11188
-lassen	10642
-sprechen	9961
-warum	9956
-Haus	9865
-Mensch	9588
-über	9557
-bitten	9548
-nichts	9537
-glauben	9312
-heute	9076
-wer	8982
-jeder	8811
-groß	8811
-oder	8623
-anderer	8528
-ganz	8492
-Jahr	8374
-wo	8271
-Zeit	8233
-finden	8111
-Tag	8089
-unser	8026
-da	7950
-denken	7827
-jetzt	7688
-nie	7587
-daß	7501
-essen	7393
-doch	7175
-Kind	7067
-brauchen	6870
-Leben	6865
-nehmen	6730
-helfen	6613
-alt	6283
-Buch	6244
-wieder	6065
-Mann	5870
-Geld	5864
-Frau	5802
-einmal	5706
-kaufen	5696
-neu	5695
-Freund	5602
-wirklich	5523
-kennen	5475
-lernen	5428
-erst	5419
-schön	5376
-bleiben	5325
-stehen	5313
-fahren	5311
-mal	5148
-leben	5122
-ohne	5098
-hören	4977
-verstehen	4925
-halten	4896
-dann	4893
-Sie	4878
-zwei	4849
-lieben	4811
-welcher	4793
-drei	4731
-bis	4677
-gerne	4665
-selbst	4647
-durch	4634
-letzt	4568
-schreiben	4521
-bringen	4486
-gerade	4479
-fragen	4460
-Arbeit	4423
-denn	4414
-arbeiten	4403
-lang	4369
-Welt	4355
-spielen	4324
-einfach	4293
-lesen	4290
-klein	4250
-Auto	4240
-Wort	4169
-warten	4151
-niemand	4132
-Vater	4000
-oft	3977
-Mary	3945
-ob	3933
-jemand	3909
-dürfen	3874
-Hund	3780
-Sprache	3647
-Leute	3646
-trinken	3627
-ab	3618
-gehören	3604
-Frage	3572
-wann	3552
-bekommen	3551
-versuchen	3523
-Boston	3465
-lange	3451
-weil	3438
-Mutter	3421
-scheinen	3413
-Problem	3379
-schnell	3377
-dort	3375
-Schule	3329
-liegen	3310
-morgen	3279
-Französisch	3262
-damit	3241
-Uhr	3229
-verlieren	3222
-Land	3183
-nah	3179
-unter	3174
-spät	3157
-schlafen	3124
-sicher	3050
-tragen	3047
-seit	3043
-stellen	3008
-wenig	3004
-wohnen	2998
-reden	2981
-vergessen	2950
-beide	2950
-gleich	2941
-gestern	2929
-Wasser	2928
-Woche	2920
-Stadt	2869
-Auge	2850
-schlecht	2846
-Hand	2842
-wahr	2835
-Satz	2806
-sondern	2774
-Abend	2765
-Zimmer	2760
-heißen	2750
-vielleicht	2729
-sterben	2712
-zurück	2683
-schwer	2677
-gern	2676
-euer	2676
-allein	2670
-passieren	2658
-gar	2649
-davon	2633
-jung	2607
-einzig	2598
-Mädchen	2593
-suchen	2550
-glücklich	2541
-einige	2535
-ja	2522
-weit	2495
-hoffen	2494
-sitzen	2486
-zeigen	2469
-Bruder	2468
-ziehen	2468
-Stunde	2461
-Angst	2445
-Morgen	2441
-Wahrheit	2429
-Nacht	2409
-Weg	2399
-wichtig	2396
-wohl	2395
-Fehler	2380
-fühlen	2360
-Name	2358
-erzählen	2357
-Mal	2334
-Tür	2330
-fast	2326
-richtig	2325
-Katze	2322
-leicht	2310
-gegen	2307
-Johannes	2264
-zusammen	2254
-deutsch	2252
-Liebe	2230
-setzen	2208
-lieb	2202
-treffen	2196
-Hilfe	2192
-laufen	2190
-genug	2183
-gefallen	2171
-Eltern	2159
-eigen	2152
-Gott	2145
-Englisch	2141
-recht	2135
-Ding	2125
-daran	2119
-Schwester	2115
-schaffen	2113
-wünschen	2089
-erinnern	2087
-darüber	2083
-Ende	2068
-Brief	2037
-je	2036
-hoch	2035
-zwischen	2016
-Geschichte	2012
-darauf	2006
-Junge	1986
-paar	1977
-beginnen	1973
-fangen	1957
-dafür	1955
-während	1944
-bald	1932
-Zug	1932
-dazu	1928
-Kaffee	1926
-bestehen	1887
-gewinnen	1865
-früher	1862
-Sache	1857
-verlassen	1831
-Herz	1826
-Familie	1822
-Meinung	1821
-stimmen	1807
-führen	1800
-Sohn	1793
-Bett	1791
-genau	1789
-Herr	1789
-Glück	1784
-legen	1769
-Australien	1767
-besuchen	1764
-Straße	1763
-Monat	1762
-Lehrer	1734
-nein	1732
-überhaupt	1728
-Baum	1718
-früh	1708
-Dank	1704
-rufen	1698
-Arzt	1678
-stark	1675
-dabei	1665
-Kopf	1655
-wegen	1651
-voll	1646
-heiraten	1618
-kurz	1615
-weg	1603
-schlagen	1602
-eigentlich	1594
-nennen	1591
-fallen|gefallen	1590
-zehn	1586
-Antwort	1583
-fertig	1582
-Grund	1571
-meist	1566
-bisschen	1562
-öffnen	1561
-kalt	1560
-freuen	1550
-Fenster	1545
-kaum	1532
-Film	1531
-schließen	1530
-falsch	1529
-meinen	1525
-Spiel	1524
-bezahlen	1523
-hin	1520
-Tod	1520
-Freundin	1519
-bevor	1513
-erwarten	1511
-Idee	1510
-Minute	1505
-schwimmen	1495
-erklären	1487
-ändern	1473
-fünf	1473
-singen	1470
-ziemlich	1466
-fallen	1450
-Haar	1445
-solcher	1444
-Tisch	1439
-Sorge	1433
-sofort	1432
-Können	1422
-schauen	1419
-hassen	1417
-Bus	1414
-regnen	1413
-Fuß	1410
-manchmal	1408
-krank	1397
-hinter	1395
-Tochter	1394
-sonst	1393
-geschehen	1392
-beschäftigen	1390
-Essen	1384
-Seite	1380
-nun	1375
-anrufen	1368
-anfangen	1364
-Erde	1355
-Bild	1354
-aufhören	1350
-interessieren	1349
-benutzen	1342
-müde	1339
-Sonne	1324
-möglich	1323
-bereits	1317
-erreichen	1298
-versprechen	1297
-erkennen	1262
-ankommen	1254
-Garten	1253
-verkaufen	1251
-verbringen	1250
-leid	1244
-schwierig	1243
-lachen	1235
-Deutschland	1234
-Himmel	1231
-Plan	1224
-Musik	1215
-Fall	1215
-niemals	1214
-also	1214
-weiter	1214
-übersetzen	1213
-langsam	1212
-kosten	1211
-rot	1208
-Nachricht	1206
-draußen	1206
-frei	1199
-reich	1199
-Tier	1194
-Licht	1191
-schicken	1189
-Stelle	1183
-Krieg	1182
-weißen	1182
-Gefühl	1176
-fehlen	1175
-befinden	1174
-Ja	1170
-Japan	1168
-Spaß	1164
-endlich	1160
-verdienen	1159
-Art	1152
-erfahren	1149
-Wissen	1149
-Wein	1146
-Blume	1146
-Wagen	1146
-Schuh	1144
-mancher	1142
-Platz	1140
-küssen	1140
-gebären	1139
-Traum	1130
-vier	1124
-werfen	1117
-bedeuten	1116
-weinen	1116
-anders	1113
-Schüler	1111
-laut	1107
-Erfolg	1107
-du?	1105
-entscheiden	1092
-klar	1092
-los	1090
-Gesicht	1090
-studieren	1088
-Brot	1088
-treffen|triefen	1086
-Gedanke	1086
-Fluß	1085
-brechen	1074
-wahrscheinlich	1071
-Fahrrad	1069
-lösen	1067
-bestimmt	1067
-Arm	1065
-Wetter	1064
-weißen|wissen	1064
-jener	1064
-her	1061
-Mach	1057
-natürlich	1057
-Fisch	1055
-völlig	1054
-Recht	1053
-außer	1045
-fliegen	1045
-fürchten	1044
-Esperanto	1041
-Polizei	1039
-steigen	1037
-Vogel	1024
-Pferd	1018
-Ihr	1013
-französisch	1012
-Apfel	1010
-kochen	1006
-schwarz	1003
-denken|gedenken	1001
-lügen	1000
-kümmern	998
-Sinn	997
-bauen	993
-Person	991
-Menge	981
-gewöhnlich	981
-Bier	976
-Zukunft	961
-Lied	960
-antworten	958
-Kleid	958
-nett	955
-weiß	953
-interessant	952
-überraschen	951
-echt	951
-Alter	950
-zweit	950
-Sami	950
-waschen	947
-Sommer	946
-wählen	944
-entschuldigen	939
-verlieben	938
-kennenlernen	935
-Lust	935
-dauern	933
-bereit	933
-halb	931
-Geschenk	930
-heiß	928
-Schlüssel	928
-selten	927
-hängen	926
-egal	923
-Meer	922
-Telefon	921
-Reise	920
-Milch	918
-Staat	915
-folgen	912
-Stimme	911
-holen	909
-Teil	908
-zwar	905
-leider	903
-schenken	900
-teuer	899
-schmecken	898
-Ziel	898
-Wald	894
-stehlen	893
-wachsen	893
-passen	889
-Feuer	885
-Preis	885
-Bahnhof	882
-Regen	881
-Tee	880
-wohin	878
-fallen|fällen	878
-tot	873
-Freude	865
-etwa	865
-leiden	863
-Gestern	863
-Unfall	861
-darin	857
-tanzen	854
-darum	847
-Schuld	844
-Unterschied	843
-handeln	843
-Entscheidung	841
-bemerken	840
-vorbei	837
-gefährlich	835
-leihen	834
-sechs	833
-neben	832
-erhalten	832
-nachdem	832
-plötzlich	831
-Bein	829
-Dollar	826
-obwohl	825
-fest	824
-Moment	823
-Wohnung	823
-König	821
-woher	820
-Park	819
-Glas	819
-reichen	818
-leisten	814
-Rede	811
-Montag	810
-besitzen	809
-Krankenhaus	809
-warm	809
-Kuchen	807
-erlauben	806
-ansehen	804
-verletzen	804
-Student	802
-sieben	802
-Büro	802
-Geist	800
-Lage	799
-stecken	796
-ständig	793
-Natur	791
-klug	791
-Stück	788
-Weise	788
-Computer	786
-tief	786
-Nachbar	781
-treten	779
-Farbe	779
-einladen	778
-Zeitung	777
-ruhig	777
-Feind	777
-vertrauen	776
-besonders	773
-Ohr	771
-statt	769
-Bitte	769
-Wind	767
-froh	767
-gegenüber	766
-Boden	759
-reisen	758
-dorthin	758
-Winter	757
-zufrieden	756
-beantworten	755
-Tasche	754
-überall	753
-süß	753
-Mund	752
-vorstellen	752
-Dorf	751
-Ei	750
-Hotel	746
-Berg	746
-sogar	745
-Elke	745
-Aufgabe	744
-dumm	741
-Luft	741
-Hut	741
-Foto	739
-funktionieren	737
-blau	737
-Stern	737
-Geheimnis	736
-Abendessen	734
-eher	734
-arm	734
-traurig	733
-Glaube	733
-Wochenende	731
-Ort	731
-stolz	730
-Schiff	729
-erledigen	729
-Nähe	728
-rauchen	726
-betrachten	724
-träumen	722
-offen	722
-Erfahrung	721
-Rat	720
-alleine	720
-bloß	718
-beschließen	714
-Prüfung	712
-Hoffnung	712
-danken	711
-selber	708
-ehrlich	708
-Raum	707
-verwenden	707
-Tatoeba	707
-Küche	706
-töten	705
-verheiraten	705
-Geburtstag	704
-Kunst	703
-Thema	701
-hart	697
-genauso	695
-weder	695
-verschwinden	695
-Restaurant	695
-wieviel	693
-gelingen	692
-rein	691
-Situation	691
-bös	690
-Wolle	690
-japanisch	687
-zählen	687
-Schnee	686
-retten	684
-Ahnung	682
-Hunger	680
-Wahl	680
-dunkel	678
-schlimm	675
-Geschäft	674
-damals	673
-verstecken	669
-Chef	669
-berühmt	668
-zuerst	668
-Stein	668
-Paris	666
-Tasse	666
-aufstehen	665
-Volk	665
-heraus	664
-Ruhe	663
-vermissen	662
-Schwierigkeit	662
-Sonntag	662
-lustig	661
-ernst	660
-verrückt	658
-bekennen	657
-Ordnung	656
-Blick	656
-Hausaufgabe	655
-Witz	655
-Wörterbuch	653
-Fleisch	652
-wütend	650
-Gesetz	649
-Kraft	647
-desto	645
-Seele	643
-acht	642
-wirken	642
-Firma	642
-Gesundheit	640
-herum	640
-Sage	640
-Bank	640
-derselbe	640
-merken	638
-Körper	638
-Roman	638
-lächeln	638
-derjenige	638
-Hör	637
-menschlich	635
-bewegen	634
-gelten	634
-erscheinen	633
-Versuch	632
-englisch	630
-unbedingt	629
-Chance	628
-Laden	628
-unterhalten	627
-Gebäude	626
-annehmen	625
-hübsch	624
-Angelegenheit	624
-verändern	623
-Party	623
-fressen	618
-Nachmittag	618
-seltsam	617
-Kirche	617
-Europa	616
-Zahn	615
-Frühstück	615
-Flugzeug	614
-irren	612
-Mama	611
-Politiker	611
-Karte	610
-Möglichkeit	609
-ausgehen	609
-verschieden	609
-reparieren	609
-teilen	608
-klingen	608
-Klasse	607
-aussehen	607
-Freiheit	605
-Schau	604
-schätzen	604
-Schmerz	603
-Strand	603
-nachdenken	602
-dreißig	602
-danach	600
-gesund	600
-freundlich	598
-zahlen	597
-Beispiel	595
-irgendwo	592
-still	591
-rennen	590
-Übersetzung	590
-ach	589
-Gesellschaft	588
-Lüge	588
-wußen	588
-geh	585
-Krankheit	585
-dick	584
-Ergebnis	584
-behandeln	582
-Mond	581
-leer	581
-frisch	581
-Gefahr	580
-Wand	579
-Halt	579
-Frankreich	578
-Urlaub	578
-zwingen	576
-Anfang	575
-Mühe	574
-Finger	571
-Gefängnis	571
-trauen	571
-Regierung	570
-schrecklich	570
-unmöglich	569
-aufgeben	568
-grün	568
-miteinander	568
-deshalb	567
-Bescheid	567
-behaupten	566
-Lehrerin	566
-Hauptstadt	563
-springen	562
-wert	561
-Zahl	561
-streiten	560
-zurückkommen	559
-Lösung	558
-Onkel	558
-irgendein	557
-vorsichtig	557
-jedoch	556
-schneiden	555
-beibringen	554
-Ruf	553
-hingehen	553
-John	553
-sag	552
-oben	551
-umbringen	551
-geraten	550
-Ausland	547
-Teufel	547
-dagegen	546
-vereinigt	544
-verpassen	543
-Gast	541
-weh	541
-Frieden	540
-Million	539
-gemeinsam	538
-Würde	538
-Dame	537
-behalten	536
-Stuhl	535
-schreien	534
-Augenblick	534
-Brille	532
-Gehen	532
-stören	531
-Nase	531
-genießen	530
-Gelegenheit	530
-Fernsehen	528
-Präsident	528
-Amerika	527
-spazieren	527
-sobald	527
-bieten	527
-bereiten	523
-Wunsch	521
-einander	521
-Flasche	519
-Großvater	519
-Mut	518
-unterscheiden	517
-kämpfen	517
-solange	516
-häufig	516
-hierher	516
-Rauchen	512
-Jahrhundert	511
-Schritt	511
-China	511
-Schlaf	507
-Bibliothek	507
-Messer	506
-Mögen	505
-Komm	505
-fassen	503
-benötigen	501
-bestellen	499
-toll	499
-Eis	498
-Hemd	498
-überlegen	497
-Punkt	496
-Insel	496
-See	496
-langweilig	495
-entdecken	494
-kriegen	494
-Kino	493
-Mittagessen	493
-jemals	493
-Planet	491
-Tennis	491
-verlangen	490
-Macht	489
-Weihnacht|Weihnachten	489
-Vorschlag	489
-Form	488
-Politik	486
-begegnen	483
-drücken	483
-drehen	482
-raten	481
-Thomas	481
-Baby	480
-Eindruck	477
-Träne	475
-sorgen	472
-Brücke	472
-Mittag	471
-zwanzig	470
-Absicht	468
-schließlich	468
-enthalten	464
-Denken	464
-Schönheit	463
-perfekt	462
-Zucker	462
-Unterricht	461
-Polizist	461
-raus	460
-Flughafen	459
-Bericht	459
-Verstand	457
-backen	457
-indem	456
-mitbringen	455
-beenden	455
-Freundschaft	455
-Suppe	454
-fleißig	454
-gewiß	453
-riechen	453
-Mantel	453
-fern	452
-kaputt	450
-Medikament	449
-Projekt	448
-betreten	447
-amerikanisch	446
-stets	445
-enden	444
-trotzdem	444
-Wert	444
-Schreibtisch	444
-eben	444
-weniger	443
-Wirklichkeit	443
-Dach	443
-Gespräch	442
-Klavier	442
-Papier	442
-begehen	441
-deswegen	441
-allzu	441
-schneien	441
-Feier	441
-aufgrund	441
-daher	440
-wechseln	440
-willen	439
-betrunken	439
-verbieten	439
-nötig	438
-Universität	438
-Rücken	438
-Zweifel	438
-zweimal	437
-ungefähr	437
-Schicksal	437
-bilden	436
-Bedeutung	436
-Lesen	434
-na	433
-hungrig	433
-Kleidung	433
-Gut	432
-wecken	432
-empfehlen	432
-schießen	432
-beißen	431
-Hälfte	431
-Vergangenheit	429
-Gruppe	429
-ewig	428
-ähnlich	427
-treiben	427
-ertragen	427
-Papa	427
-Tat	426
-Paß	426
-Interesse	425
-Konzert	425
-Regel|Regeln	424
-Pflicht	424
-Eichhörnchen	424
-Grenze	423
-wiedersehen	423
-tatsächlich	422
-Text	422
-Maus	422
-übrig	421
-verbessern	421
-zurückkehren	421
-Oktober	421
-Großmutter	420
-heben	420
-morgens	419
-zerstören	418
-Beziehung	418
-Koffer	418
-hundert	418
-Artikel	417
-Waffe	417
-Liste	417
-einsam	416
-streichen	416
-normalerweise	415
-wieso	414
-Wart	413
-Entschuldigung	413
-angenehm	413
-schweigen	413
-leise	412
-Versprechen	411
-Wolf	411
-London	410
-zufällig	410
-entfernt	410
-trennen	410
-Loch	410
-nutzen	409
-Frühling	409
-Information	408
-Ball	408
-Amerikaner	408
-europäisch	408
-Lächeln	407
-Blut	407
-Folge	407
-müßen	407
-Gedicht	406
-Geduld	406
-Soldat	405
-täglich	405
-Fernseher	405
-sammeln	404
-Taxi	404
-unterrichten	404
-Anna	404
-beobachten	402
-Lärm	401
-erfolgreich	401
-verraten	400
-fort	400
-einschlafen	400
-sowohl	400
-Reich	400
-laß	399
-zuhören	398
-da?	398
-herrschen	397
-üben	397
-anziehen	397
-Rußland	397
-Tor	396
-Verhalten	395
-Fähigkeit	395
-Blatt	395
-Euro	394
-nervös	394
-30	393
-Erklärung	392
-Fußball	392
-kehren	392
-dritt	391
-Gemüse	390
-Besuch	390
-Wolke	389
-ergeben	389
-trotz	388
-lehren	388
-entstehen	388
-bereuen	387
-ärgern	385
-geht	385
-Rolle	385
-offensichtlich	384
-Frucht	383
-nachts	382
-Wissenschaft	382
-bewußt	382
-warnen	382
-Rose	382
-wach	381
-zeihen|ziehen	381
-achten	381
-enttäuscht	380
-planen	380
-begleiten	380
-Job	380
-Internet	379
-sauber	378
-verursachen	378
-Kamera	378
-besonder	378
-Ehe	378
-überzeugt	377
-Treffen	377
-gleichen	377
-Gitarre	376
-Adresse	376
-probieren	376
-irgendwie	376
-Werk	375
-entlassen	375
-Pflanze	374
-intelligent	373
-komm	372
-Meter	372
-erfüllen	371
-billig	371
-rechtzeitig	371
-persönlich	370
-Mannschaft	369
-Jugend	369
-Tatsache	369
-politisch	368
-mindestens	367
-streng	367
-worum	367
-Patient	366
-verzeihen	366
-dran	365
-vorbereiten	365
-wunderschön	365
-öffentlich	365
-feiern	365
-bezeichnen	365
-einkaufen	364
-hallo	364
-Lachen	363
-Kühlschrank	362
-Religion	361
-chinesisch	361
-Richtung	361
-Sturm	360
-begreifen	360
-bemühen	360
-hinaus	360
-Dummheit	360
-abnehmen	359
-irgendwelcher	359
-Pause	359
-mitteilen	359
-Sicherheit	359
-Pizza	359
-direkt	359
-vergehen	358
-Radio	358
-schützen	358
-Anwalt	358
-Beste	358
-melden	358
-Vergnügen	357
-wenden	357
-verspäten	357
-wenigstens	357
-Japanisch	356
-notwendig	356
-Käse	356
-Angebot	356
-Reihe	356
-existieren	355
-Gold	355
-zuvor	355
-Berlin	355
-normal	354
-Kuh	354
-pünktlich	353
-Kiste	353
-dahin	352
-betragen	352
-aufpassen	351
-Herbst	351
-russisch	351
-beherrschen	350
-Wunder	350
-überleben	349
-unten	348
-weigern	347
-Sport	347
-vermeiden	346
-möglicherweise	346
-Museum	346
-abschließen	346
-erleben	346
-putzen	345
-Schlange	345
-beeilen	344
-aufhalten	344
-vollkommen	343
-soweit	343
-zeichnen	342
-modern	341
-England	341
-Maschine	340
-Rechnung	340
-brennen	340
-Menschheit	340
-Unternehmen	340
-Fortschritt	339
-Italien	339
-Ware	339
-Feld	339
-vergangen	338
-schwach	338
-unterstützen	338
-pro	337
-dennoch	337
-Hose	336
-Erinnerung	336
-wagen	336
-neun	335
-rechnen	335
-mitnehmen	335
-Regel	335
-dankbar	335
-Weiß	335
-links	334
-Elefant	334
-Holz	334
-Schulter	334
-Schluß	334
-wiederholen	333
-Marie	333
-Reis	333
-Schatten	333
-Paar	332
-Sofa	332
-Nummer	332
-benehmen	332
-Zufall	331
-New	331
-Schloß	331
-beweisen	330
-Keks	330
-Schokolade	330
-gering	330
-davor	330
-herausfinden	329
-füttern	329
-Aufmerksamkeit	329
-Dieb	329
-oh	328
-Gericht	328
-schade	327
-blind	327
-hinterlassen	327
-ebenso	327
-spüren	326
-langweilen	326
-Mitglied	326
-fremd	326
-Bauer	326
-unternehmen	326
-faul	325
-gelb	325
-äußerst	325
-20	324
-italienisch	324
-Spiegel	324
-sagt	324
-Universum	323
-hell	322
-Ecke	322
-sparen	322
-zuhause	322
-beschreiben	321
-Wesen	321
-Muttersprache	321
-total	320
-Kunde	320
-packen	320
-überzeugen	320
-dienen	320
-verbinden	319
-teilnehmen	319
-irgendwann	318
-10	318
-Tante	318
-Schach	318
-riesig	318
-vorher	318
-Lauf	317
-Rest	317
-Beweis	317
-Wissenschaftler	317
-bisher	317
-übernehmen	317
-schmutzig	317
-Opfer	316
-brauchen|gebrauchen	314
-Streit	314
-drüben	314
-wersen	314
-Kultur	314
-absolut	314
-Layla	314
-entwickeln	313
-Salz	313
-dreimal	313
-ausmachen	313
-verbergen	313
-Lernen	312
-Sitzung	311
-gesamt	311
-Wille	310
-erfinden	310
-Gegend	310
-großartig	309
-Bär	309
-scharf	309
-Autor	309
-Ansicht	309
-Huhn	308
-laden	308
-Theorie	307
-Fremdsprache	307
-Schirm	307
-Spanisch	307
-Telefonnummer	307
-löschen	307
-Ziri	307
-Typ	306
-Mauer	306
-heutzutage	306
-Verbrechen	306
-worüber	306
-schulden	305
-frühstücken	305
-umgehen	304
-Löwe	303
-Alkohol	303
-unglücklich	301
-empfinden	301
-Vertrauen	301
-nützlich	300
-Haut	300
-entweder	300
-pflegen	300
-Laune	300
-verbrennen	300
-Ausdruck	299
-eifersüchtig	299
-Markt	298
-Gerücht	298
-Rom	297
-fordern	297
-Beruf	297
-Rechner	297
-Obst	296
-bewundern	296
-ausgeben	296
-Zustand	296
-eng	295
-Weisheit	295
-richten	295
-niemande	295
-Tokio	295
-Schaf	294
-diskutieren	294
-wovon	294
-blicken	294
-Hochzeit	293
-per	293
-Prozent	293
-hässlich	293
-besprechen	293
-heutig	293
-seiden	293
-Charakter	292
-York	292
-aufwachsen	292
-fließend	292
-irgendetwas	291
-kompliziert	291
-jemande	291
-berühren	291
-Freitag	291
-malen	291
-bewahren	291
-ignorieren	291
-lauten	291
-Künstler	290
-greifen	290
-Unglück	290
-beschweren	289
-verhalten	289
-stoßen	289
-Stock	289
-anschauen	288
-Mathematik	288
-akzeptieren	288
-Medizin	288
-befreunden	288
-Kartoffel	287
-sprich	287
-Hören	287
-zustimmen	287
-stürzen	286
-unglaublich	286
-erwischen	286
-füllen	286
-ausdrücken	285
-Boot	285
-Zweck	285
-USA	285
-parken	285
-Kilometer	285
-Regenschirm	285
-Zunge	285
-reißen	285
-wunderbar	284
-Russisch	284
-Affe	283
-schuldig	283
-Steuer	283
-rechts	283
-Yen	283
-Zeichen	282
-Gewalt	282
-Gehirn	281
-halbe	281
-unschuldig	281
-international	281
-sauer	281
-bestrafen	281
-höflich	280
-beeindrucken	280
-Fliege	280
-schämen	280
-gucken	280
-Algerien	280
-Hals	279
-pflanzen	279
-entfernen	279
-verirren	278
-Brasilien	278
-Partei	278
-Risiko	277
-herein	277
-Reichtum	276
-vermutlich	275
-Schreiben	275
-Gedächtnis	275
-Supermarkt	275
-Vorteil	274
-schüchtern	274
-lehnen	274
-glaubst	274
-Narr	273
-Gegenteil	273
-einverstanden	273
-zwölf	273
-Bleistift	273
-anscheinend	273
-ähneln	273
-stammen	273
-Kommentar	273
-beinahe	272
-weggehen	272
-Fest	272
-Dokument	272
-Geräusch	271
-Gras	271
-Oma	271
-Deutsche	270
-verantwortlich	270
-Grad	270
-Treppe	270
-Methode	270
-klingeln	269
-hinein	269
-Kampf	269
-Arbeiter	268
-überlassen	268
-Bahn	268
-Ärztin	268
-wofür	268
-Überraschung	267
-aufnehmen	267
-einstellen	267
-hinten	267
-Umstand	267
-abholen	266
-Post	266
-Zigarette	266
-Gewissen	266
-Maß	266
-zugeben	265
-Teller	265
-lohnen	265
-satt	264
-komisch	264
-deutlich	264
-Vorstellung	263
-bestimmen	263
-Kollege	263
-grau	263
-Bad	263
-Mitte	263
-tausend	263
-Vertrag	263
-soviel	263
-ablehnen	262
-Spieler	262
-Schaden	262
-belieben	262
-Japaner	261
-gleichzeitig	261
-Strom	261
-Schatz	261
-drin	261
-dicht	261
-Talent	261
-Theater	261
-Produkt	260
-dringend	259
-Suche	259
-aufmerksam	259
-Hölle	259
-Ehemann	258
-Butter	258
-gießen	258
-Größe	258
-Flug	257
-<SOS>n	257
-Sand	257
-Ehre	257
-vernünftig	257
-Fuchs	257
-Spanien	256
-Mittel	256
-Kindheit	256
-Sieg	256
-Kanadier	256
-letztemal	256
-Ratschlag	255
-Marys	255
-erheben	254
-Schwein	254
-vergeben	253
-schlau	253
-Anzug	253
-Demokratie	252
-Intelligenz	252
-Sekunde	252
-Decke	252
-köstlich	252
-wozu	252
-Tugend	252
-daraus	251
-Weile	251
-inzwischen	251
-überqueren	251
-dasselbe	250
-Test	250
-Dichter	250
-Ring	250
-wiegen	250
-ehe	250
-tu	249
-Neuigkeit	249
-Geschmack	249
-Kanada	249
-trocken	249
-Krawatte	249
-unterschreiben	249
-Getränk	248
-Chinesisch	248
-Samstag	248
-Ken	248
-besorgt	248
-Schweigen	248
-Rad	248
-blöd	247
-verfügen	246
-beten	246
-Trinken	245
-verhindern	245
-Entwicklung	245
-vorhaben	245
-erwähnen	245
-verwandeln	245
-irgendwas	245
-Liisa	245
-anlügen	244
-uber	244
-Jacke	244
-Buchstabe	244
-unterwegs	244
-untersuchen	243
-Schachtel	243
-Kopfschmerz	243
-Studium	243
-Professor	242
-Grab	242
-Nation	242
-Genie	242
-korrigieren	241
-längst	241
-drinnen	241
-befolgen	241
-Prinzessin	240
-neigen	240
-herstellen	240
-Kerze	240
-verlaufen	240
-O	240
-gemein	240
-dadurch	239
-fröhlich	239
-Temperatur	239
-vollständig	239
-Handy	239
-Neu	239
-kündigen	239
-Erdbeben	239
-bedanken	239
-Bart	238
-Energie	238
-Muss	238
-Heimat	238
-schaden	237
-Zeitschrift	237
-Arbeit|Arbeiten	237
-Fahrer	237
-gegenseitig	236
-verfolgen	236
-Dunkelheit	236
-Spinne	235
-jagen	235
-zerbrechen	235
-Socke	235
-Stift	235
-Gegenwart	235
-senden	234
-rund	234
-Durst	234
-/	234
-aufwachen	233
-Idiot	233
-wem	233
-furchtbar	233
-worauf	233
-angeln	232
-verschieben	231
-Schriftsteller	231
-hierherkommen	231
-Kuß	231
-erschrecken	230
-nahe	230
-praktisch	230
-klopfen	230
-abends	230
-vergleichen	230
-Diskussion	230
-Programm	229
-Termin	229
-gelangen	229
-herzlich	228
-ernsthaft	228
-Ferien	227
-Tate	227
-Sie?	227
-Wirtschaft	227
-Spaziergang	227
-allmählich	226
-Honig	226
-Humor	226
-entlang	226
-Kerl	226
-Engel	225
-Bildung	225
-Frosch	225
-Erlaubnis	225
-Ärger	225
-sicherlich	225
-Königin	224
-Vergleich	224
-Pullover	224
-begeistern	224
-Biene	224
-Knopf	224
-Video	224
-Esel	224
-Markku	224
-Erkältung	223
-Not	223
-Begriff	222
-Schauspieler	222
-Stärke	222
-Dienst	222
-Fahren	222
-folgend	221
-mutig	221
-Netz	221
-weise	221
-Hügel	221
-Lippe	221
-golden	221
-weisen	221
-Insekt	221
-Verantwortung	221
-willkommen	221
-100	220
-Publikum	220
-einst	220
-Doktor	220
-schieben	220
-dünn	220
-Keller	220
-antun	220
-enttäuschen	219
-beruhigen	219
-Nebel	219
-wiederkommen	219
-hierbleiben	219
-Kauf	219
-landen	218
-bedauern	218
-breit	218
-scheitern	218
-günstig	218
-nackt	218
-klettern	217
-bedecken	217
-fünfzig	217
-Verbindung	217
-ersetzen	217
-Arbeitsplatz	217
-erneut	217
-heilig	217
-reagieren	217
-belügen	217
-Schmetterling	216
-Sehen	216
-Gewohnheit	216
-Afrika	216
-ergreifen	216
-Mangel	216
-wertvoll	216
-ungarisch	216
-Leidenschaft	215
-Gebiet	215
-Bewegung	215
-Gefallen	215
-gründen	215
-stechen	215
-womit	215
-unrecht	215
-Toilette	214
-Magen	214
-bekannt	214
-Bob	214
-Kälte	214
-wöhnen	214
-verbreiten	214
-kleiden	214
-erschöpfen	214
-besorgen	214
-vorne	214
-Ereignis	213
-reiten	213
-Hitze	213
-bellen	213
-Datum	213
-baden	212
-Kritik	212
-rasch	212
-Gepäck	211
-Geruch	211
-Held	211
-hervor	211
-widmen	210
-Knie	210
-vorschlagen	210
-doppelt	210
-Aussicht	210
-entkommen	210
-anbieten	209
-Banane	209
-niedrig	209
-Böse	209
-begeben	209
-Bürger	208
-regelmäßig	208
-Mail	208
-aussprechen	208
-braun	208
-gewöhnen	208
-zubereiten	208
-innerhalb	208
-mächtig	208
-nochmal	207
-fügen	207
-System	207
-respektieren	207
-kritisieren	206
-Fahrkarte	206
-Ferne	206
-geeignet	206
-Vernunft	206
-allgemein	206
-neugierig	205
-weiterhin	205
-Bevölkerung	205
-Vergessen	205
-ausleihen	205
-weich	205
-nämlich	205
-unhöflich	204
-überprüfen	204
-Schwert	204
-Gewicht	204
-Wunde	204
-Schwimmen	204
-ruhen	204
-beleidigen	204
-unterschiedlich	204
-Irrtum	203
-betreffen	203
-Ehefrau	203
-Puppe	203
-Peter	203
-Mord	203
-überwinden	203
-Wohnzimmer	203
-ausgezeichnet	202
-abgeben	202
-sozial	202
-Koch	202
-umarmen	202
-Dummkopf	201
-Hobby	201
-Schlag	201
-erweisen	201
-Union	201
-seien	200
-Kurs	200
-Fabrik	200
-erholen	200
-mitkommen	200
-Schrank	199
-Höhe	199
-schwanger	199
-ernähren	199
-einzeln	199
-Tourist	199
-umgeben	199
-eilig	199
-drohen	199
-Teppich	199
-Bauch	199
-umsonst	199
-Ausländer	198
-verderben	198
-Gemälde	198
-bestätigen	198
-rühren	198
-Golf	198
-Flügel	198
-erwachsen	198
-Scherz	198
-lecker	198
-Meister	198
-woran	198
-Ursache	197
-verurteilen	197
-konzentrieren	197
-lächerlich	197
-fähig	197
-wen	197
-meistens	197
-Unterstützung	197
-Kenntnis	197
-Mahlzeit	196
-verschwenden	196
-Quelle	196
-knapp	196
-täuschen	196
-beschützen	196
-verständlich	196
-wehen	196
-Mitarbeiter	196
-Lügner	196
-Kaninchen	195
-wandern	195
-Franzose	195
-geduldig	195
-duschen	195
-Vermögen	195
-ausschalten	195
-sinken	195
-Einladung	195
-beeindruckt	195
-Ofen	195
-Respekt	195
-Schlafzimmer	195
-gebrauchen	195
-Zahnarzt	194
-Team	194
-mitten	194
-vermuten	193
-Wäsche	193
-verwirrt	193
-korrekt	193
-geheim	193
-Armut	193
-nass	193
-Jugendliche	193
-amüsieren	193
-nähern	192
-Rock	192
-sanft	192
-Hof	192
-grüßen	192
-unterbrechen	192
-nieder	192
-geistig	192
-Muttersprachler	192
-Müller	192
-Zeug	191
-Verlust	191
-verärgert	191
-lebend	191
-Opa	191
-Fremde	191
-auffallen	191
-irgend	191
-lessen	191
-nützen	190
-Gleiche	190
-Nagel	190
-Zoo	190
-ausruhen	190
-Fieber	190
-Akzent	190
-begrüßen	190
-Zaun	190
-0	190
-erschießen	189
-Ozean	189
-Region	189
-erkälten	189
-Sänger	189
-verteidigen	189
-Unrecht	189
-Salat	189
-Bleibe	189
-binden	189
-fließen	189
-Münze	189
-Mars	189
-Mobiltelefon	189
-erfordern	188
-Mitternacht	188
-Lebensmittel	188
-Kontakt	188
-Kosten	188
-zunächst	188
-ausführen	188
-wachen	188
-entsprechen	187
-Detail	187
-veröffentlichen	187
-Strafe	187
-Wange	187
-Figur	187
-Führerschein	187
-Befehl	187
-Müll	187
-Orange	186
-Miete	186
-Paket	186
-betrügen	186
-link	185
-Rätsel	185
-Ton	185
-schwören	185
-Baseball	185
-vorbeikommen	185
-vierzig	185
-Ewigkeit	185
-bedienen	184
-Mode	184
-angehen	184
-heilen	184
-Erwachsene	184
-überreden	184
-versetzen	184
-Schutz	184
-scheiden	184
-Welle	184
-ungewöhnlich	184
-heimlich	184
-Generation	183
-verwechseln	183
-Verfügung	183
-hereinkommen	183
-schuld	183
-Schild	183
-übertreiben	183
-ausziehen	183
-Los	182
-fernsehen	182
-Leiter	182
-Falle	182
-sorgfältig	182
-Regal	182
-Brust	181
-hinzu	181
-Wut	181
-wetten	181
-stinken	181
-typisch	181
-Tausend	181
-entgegen	181
-Facebook	181
-5	180
-Aufzug	180
-Realität	180
-hervorragend	180
-Furcht	180
-sehnen	180
-Karl	180
-Motor	180
-Acht	180
-bescheiden	180
-Tun	180
-3	179
-bequem	179
-Brunnen	179
-Veränderung	178
-fein	178
-Einfluß	178
-Werkzeug	178
-drauf	178
-Phantasie	178
-hauen	177
-anhalten	177
-besiegen	177
-liefern	177
-Blitz	176
-Band	176
-Freizeit	176
-Garage	176
-versichern	176
-atmen	176
-Gang	176
-merkwürdig	175
-lediglich	175
-Verwandte|Verwandter	175
-Ukraine	175
-Handtuch	174
-absagen	174
-Motorrad	174
-herkommen	174
-Herausforderung	174
-fliehen	174
-einfallen	174
-Türe	173
-zurückgeben	173
-Möchten	173
-50	173
-entgehen	173
-erwidern	173
-eröffnen	173
-Vorsicht	173
-starten	173
-hingegen	172
-Indien	172
-schalten	172
-blühen	172
-loben	172
-Sack	172
-eingehen	171
-telefonieren	171
-tauchen	171
-nerven	171
-Kilo	171
-verzichten	171
-künstlich	171
-Milliarde	171
-Jane	170
-positiv	170
-Kochen	170
-Geburt	170
-Stille	170
-zulassen	170
-Gegner	169
-Verkehr	169
-Verspätung	169
-Versuch|Versuchen	169
-bezweifeln	169
-Jungs	169
-teil	169
-auskommen	169
-empfangen	169
-ermöglichen	169
-Argument	169
-Pilz	169
-peinlich	169
-nachsehen	169
-lebendig	168
-Hase	168
-fünfzehn	168
-aussuchen	168
-Haß	168
-klagen	168
-Wüste	168
-zumindest	167
-wundern	167
-abhalten	167
-treu	167
-Erdbeere	167
-klassisch	167
-Schweiz	167
-angreifen	167
-kontrollieren	167
-griechisch	167
-Prinz	167
-aktiv	167
-ordentlich	167
-anstellen	167
-seitdem	167
-rasieren	167
-Beginn	167
-absichtlich	166
-Sünde	166
-Süßigkeit	166
-wesser	166
-April	166
-15	166
-wonach	166
-heftig	166
-Inhalt	166
-beklagen	166
-Mücke	166
-zuviel	166
-2013	166
-zweifeln	165
-Öffentlichkeit	165
-Titel	165
-runter	165
-Nutzen	165
-ermorden	165
-schmerzen	165
-Ausnahme	165
-übel	165
-Urteil	165
-gestehen	165
-Bedingung	164
-messen	164
-Qualität	164
-horchen	164
-Teich	164
-Tagebuch	164
-Paul	164
-wild	164
-erwerben	164
-extrem	163
-selbstverständlich	163
-dank	163
-neulich	163
-Gerät	163
-Gebrauch	163
-Literatur	163
-Dienstag	163
-finanziell	163
-Armee	163
-erhöhen	163
-bedrohen	163
-Griechenland	163
-entschlossen	163
-gedenken	163
-2	162
-Rasen	162
-Viertel	162
-Aussehen	162
-Klima	162
-Löffel	162
-Richtige	162
-fotografieren	162
-verhaften	162
-Nerv|Nerven	161
-wissenschaftlich	161
-eintreten	161
-Bord	161
-Bill	161
-unbekannt	161
-Gehalt	161
-Anruf	161
-Atem	161
-all	161
-‚	161
-Gegenstand	160
-Verhältnis	160
-unabhängig	160
-mieten	160
-mischen	160
-bevorzugen	160
-Tote	160
-Spielzeug	160
-aufräumen	160
-starren	160
-Schuß	160
-Anblick	160
-Zeitpunkt	160
-Krise	160
-ober	160
-Hahn	160
-Hans	160
-Yanni	160
-leuchten	159
-Mai	159
-Übung	159
-jederzeit	159
-Österreich	159
-Anspruch	159
-herunter	159
-Umgebung	159
-Stil	159
-regieren	159
-festnehmen	159
-durchs	158
-Schwanz	158
-derzeit	158
-Tomate	158
-zögern	158
-keinerlei	158
-feststellen	158
-Kreis	158
-Tom?	158
-beabsichtigen	157
-Eile	157
-de!	157
-zittern	157
-weitermachen	157
-Paradies	157
-Nahrung	156
-unendlich	156
-Gewinn	156
-Krebs	156
-feuern	156
-Turm	156
-Märchen	156
-Anne	156
-attraktiv	156
-Café	156
-informieren	156
-widersprechen	156
-Summe	155
-E	155
-Schwäche	155
-Tiger	155
-Weltkrieg	155
-Fahrt	155
-Flamme	155
-aufrichtig	155
-spanisch	155
-diesmal	155
-voraus	155
-grausam	155
-freiwillig	154
-britisch	154
-Bewußtsein	154
-befreien	154
-Möbel	154
-Vorhang	154
-Gipfel	154
-Schlimmst	153
-Stoff	153
-Leid	153
-Cousin	153
-Kontrolle	153
-hoffentlich	153
-taub	152
-Gerechtigkeit	152
-zuletzt	152
-Weihnachtsmann	152
-Müssen	152
-eilen	152
-nirgends	152
-Bereich	152
-fürser	152
-2.3	152
-Juni	151
-Note	151
-Krankenschwester	151
-falls	151
-Reifen	151
-Portemonnaie	151
-umziehen	151
-unangenehm	151
-Tōkyō	151
-zufolge	151
-Appetit	150
-Leistung	150
-Handschuh	150
-kühl	150
-verwandt	150
-Bring	150
-zahlreich	150
-Süden	150
-Tempel	150
-aufgeregt	150
-Staub	150
-Sklave	150
-Rauch	150
-räumen	150
-Höhle	149
-Aussage	149
-einnehmen	149
-beschuldigen	149
-Westen	149
-Linie	149
-außerhalb	149
-Kneipe	149
-entschließen	148
-Bemerkung	148
-Allgemeine	148
-Kapitän	148
-auswendig	148
-Mist	148
-Besitz	148
-weitergehen	148
-Wirkung	148
-letztlich	148
-komplett	148
-Weib	148
-Ungarn	148
-elf	147
-sogenannt	147
-Sicht	147
-färben	147
-übermorgen	147
-Richter	147
-Philosophie	147
-kommend	147
-Rand	146
-Abschied	146
-übernachten	146
-Briefmarke	146
-Journalist	146
-aufbrechen	146
-Abschluß	146
-Latein	146
-Klassenzimmer	146
-Schauspielerin	146
-aufmachen	146
-halt	146
-dich	146
-weshalb	146
-äußern	146
-klappen	146
-Algier	146
-Lohn	145
-1	145
-Rezept	145
-friedlich	145
-lauschen	145
-Duft	145
-übergeben	145
-spenden	145
-Ufer	145
-Medium	145
-ahnen	145
-Toki	145
-Änderung	144
-kostenlos	144
-magst	144
-Musiker	144
-erfreuen	144
-Bau	144
-Angewohnheit	144
-Verzeihung	144
-Tee?	144
-13	144
-vorkommen	144
-Maske	144
-Armbanduhr	143
-anwenden	143
-ansprechen	143
-vertreiben	143
-Landschaft	143
-Philosoph	143
-berichten	143
-Badezimmer	143
-gehe	143
-Selbstmord	142
-Horizont	142
-Erwartung	142
-bitter	142
-Schrei	142
-herrlich	142
-Osten	142
-km	142
-Druck	142
-Verständnis	142
-Kaiser	142
-Lampe	142
-inner	142
-Mehrheit	141
-Januar	141
-durchaus	141
-verreisen	141
-Einsamkeit	141
-stundenlang	141
-Knochen	141
-voran	141
-anfangs	141
-Norden	141
-Dan	141
-vertragen	141
-unwahrscheinlich	140
-Bessere	140
-Smith	140
-Bürgermeister	140
-Iss	140
-beneiden	140
-Zwilling	140
-Scheibe	140
-Taube	140
-versagen	140
-Übel	140
-Faktum	140
-begraben	140
-rechen	140
-genügen	140
-beziehen	140
-klauen	140
-bestreiten	140
-Stefan	140
-Geschwister	139
-adoptieren	139
-Eigenschaft	139
-Stimmung	139
-Angestellte	139
-Experiment	139
-schütteln	139
-Bemühung	139
-stattfinden	139
-ausstehen	139
-Grammatik	139
-vertraut	139
-Konferenz	139
-Tal	139
-erleiden	139
-Verdacht	139
-vermag	139
-zusammenarbeiten	139
-Berg|Bergen	138
-beeinflussen	138
-Ernst	138
-Bedürfnis	138
-entspannen	138
-Dr.	138
-Meile	138
-Flagge	138
-erstaunlich	138
-Zuhause	138
-gewaltig	138
-Revolution	138
-Komma	138
-erforderlich	138
-genügend	137
-Geschirr	137
-leiten	137
-erschaffen	137
-beliebt	137
-Wahnsinn	137
-hinauf	137
-vornehmen	137
-beurteilen	137
-offiziell	137
-hinunter	137
-Okay	137
-Last	137
-ausprobieren	136
-beruhen	136
-Katastrophe	136
-loswerden	136
-Vorurteil	136
-Stirn	136
-Atmosphäre	136
-decken	136
-Großeltern	136
-zusehen	136
-da.	136
-Ente	136
-Pona	136
-Dusche	135
-Anzahl	135
-verdanken	135
-Niederlage	135
-Willkommen	135
-ausbrechen	135
-Gruß	135
-darstellen	135
-romantisch	135
-historisch	135
-zugleich	135
-sämtlich	135
-Ganze	134
-Experte	134
-Wurzel	134
-Vergiss	134
-reif	134
-anwesend	134
-Ausgabe	134
-Heirat	134
-produzieren	134
-Unsinn	134
-Abstand	134
-erlernen	134
-gegenwärtig	134
-sei	134
-dar	134
-Botschaft	134
-Rate	134
-Wiese	134
-Objekt	134
-Stand	134
-auswählen	133
-Pistole	133
-Küste	133
-erzeugen	133
-Jesus	133
-feucht	133
-erwachen	133
-sowie	133
-Sitz	133
-Bibel	133
-gründlich	133
-möglichst	133
-wahnsinnig	133
-Parlament	133
-Kätzchen	133
-beteiligen	133
-befehlen	132
-He	132
-schnappen	132
-frieren	132
-Brand	132
-befürchten	132
-Gas	132
-zumuten	132
-pfeifen	132
-Prinzip	132
-Drach	132
-verleihen	132
-Übersetzer	132
-Droge	132
-Aufsatz	131
-Juli	131
-außergewöhnlich	131
-Jim	131
-großzügig	131
-reservieren	131
-Alptraum	131
-Schublade	131
-Vorfall	131
-unerwartet	130
-Fuji	130
-Ampel	130
-Material	130
-nebenan	130
-Eintrittskarte	130
-schmelzen	130
-anhören	130
-U	130
-erblicken	130
-aussetzen	130
-Hütte	130
-verachten	130
-Achtung	130
-naiv	130
-Bach	130
-Amt	130
-übersehen	130
-verdammt	129
-Kugel	129
-Anstrengung	129
-religiös	129
-Kater	129
-Engländer	129
-abreisen	129
-Mache	129
-Abwesenheit	129
-März	129
-Vorwurf	129
-aushalten	129
-Hafen	129
-Leiche	129
-senken	129
-siegen	129
-ausreichend	129
-Rechtsanwalt	129
-verpflichten	129
-anstatt	128
-null	128
-weltweit	128
-verabschieden	128
-Dunkeln	128
-Aussprache	128
-sowieso	128
-dreizehn	128
-Chicago	128
-blasen	128
-Lektion	128
-Virus	128
-glatt	128
-Entschluß	128
-irgendwohin	128
-Sterben	128
-Brett	128
-bedarf	128
-Mörder	127
-männlich	127
-Shirt	127
-Jahreszeit	127
-Hundert	127
-vergiß	127
-erfreut	127
-ereignen	127
-Jäger	127
-flüstern	127
-Vortrag	127
-Handeln	127
-winzig	127
-unerträglich	126
-Stolz	126
-hinzufügen	126
-Wecker	126
-Ingenieur	126
-hinlegen	126
-sonntags	126
-trocknen	126
-zunehmen	126
-Angriff	126
-Ratte	126
-Spitze	126
-üblich	126
-namens	126
-Diamant	126
-roh	126
-beachten	126
-Operation	126
-Anweisung	126
-Notiz	126
-Hexe	126
-erteilen	126
-18	125
-Kleinigkeit	125
-regen	125
-schnarchen	125
-Tafel	125
-arbeitslos	125
-Verkehrsunfall	125
-hindern	125
-Moskau	125
-Grundlage	125
-August	125
-weiblich	125
-Existenz	125
-Fußboden	125
-verlegen	124
-Untersuchung	124
-Eisen	124
-organisieren	124
-Lehre	124
-Arsch	124
-Illusion	124
-Konflikt	124
-Leser	123
-herauskommen	123
-besetzen	123
-Wettbewerb	123
-Geige	123
-leeren	123
-Lastwagen	123
-zerreißen	123
-schlicht	123
-Rotwein	123
-Donnerstag	123
-300	123
-Handlung	123
-Kellner	123
-hauptsächlich	123
-Mike	122
-Zeuge	122
-Sandwich	122
-Großbritannien	122
-Pfund	122
-gewohnt	122
-versorgen	122
-see.	122
-aktuell	122
-anschließen	122
-Entfernung	122
-Karriere	122
-gutgehen	122
-Ticket	121
-Zusammenhang	121
-Bezug	121
-Persönlichkeit	121
-Sängerin	121
-Ski	121
-überein	121
-Benehmen	121
-tauschen	121
-Seil	121
-errichten	121
-Ausrede	121
-Besprechung	121
-Rennen	121
-Blüte	121
-daheim	121
-Versammlung	121
-Anfänger	121
-Abenteuer	121
-Ruhestand	121
-Sendung	121
-Speise	121
-voneinander	121
-betreiben	120
-Verb	120
-Überzeugung	120
-Tiefe	120
-Schwarz	120
-Korb	120
-Geldbeutel	120
-Ja.	120
-widerstehen	120
-Handtasche	120
-Bushaltestelle	120
-Besitzer	120
-Original	120
-Vase	120
-gänzlich	120
-Stiefel	120
-Bühne	120
-aufgehen	120
-Fahrzeug	120
-anlegen	120
-Berliner	120
-Erziehung	119
-Aufenthalt	119
-verabscheiden	119
-verloren	119
-Datei	119
-Öl	119
-Dutzend	119
-ausländisch	119
-US	119
-vergeblich	119
-pflücken	119
-ertrinken	119
-Gegensatz	119
-Panik	119
-garantieren	119
-optimistisch	119
-Jahrzehnt	119
-dumme	118
-heulen	118
-traditionell	118
-T-	118
-Ägypten	118
-außerdem	118
-40	118
-olympisch	118
-fett	118
-Sonnensystem	118
-diejenige	118
-Flucht	118
-wandeln	118
-Polen	118
-Einzelheit	118
-anständig	117
-Funktion	117
-Kyoto	117
-Symbol	117
-Eimer	117
-Mütze	117
-Groß	117
-Runde	117
-Klang	117
-prüfen	117
-verwirklichen	117
-stoppen	117
-übrigens	117
-verzweifelt	117
-Haustier	117
-Element	117
-Oder	117
-Ast	117
-Tradition	117
-tödlich	116
-Technik	116
-bunt	116
-Rot	116
-Verfassung	116
-Beitrag	116
-Warnung	116
-Faust	116
-A	116
-Nest	116
-sichtbar	116
-heran	116
-Türkei	116
-sonderlich	116
-derart	116
-Roboter	115
-untergehen	115
-Tokyo	115
-trösten	115
-Eins	115
-Geschwindigkeit	115
-Diät	115
-Mehl	115
-fünft	115
-gestorben	115
-Kompliment	115
-Italiener	115
-Zentrum	115
-Faß	115
-Schande	115
-Feiertag	115
-offenbar	115
-Leib	115
-Jackson	115
-Leiden	114
-Papst	114
-Stich	114
-logisch	114
-servieren	114
-September	114
-irgendjemand	114
-Februar	114
-allerdings	114
-mehrmals	114
-Studentin	114
-kratzen	114
-Unterhaltung	114
-Verkauf	114
-spülen	114
-vorüber	114
-verteilen	114
-verdammen	114
-Unschuld	113
-Mathe	113
-biegen	113
-Nachname	113
-rausgehen	113
-Felsen	113
-Gift	113
-Waschmaschine	113
-Ankunft	113
-Kapitel	113
-Fach	113
-Saft	113
-Pech	113
-verkleiden	113
-befassen	113
-wesentlich	113
-wegwerfen	113
-Heilige	113
-woanders	113
-worin	113
-Konto	112
-ernten	112
-Streich	112
-Neid	112
-negativ	112
-Erfindung	112
-Parkplatz	112
-Geschlecht	112
-graben	112
-ursprünglich	112
-Alphabet	112
-Pommes	112
-momentan	112
-Verstehen	112
-aufheben	112
-Masse	112
-körperlich	112
-erziehen	112
-Französischlehrer	112
-Rima	112
-denk	111
-vorgestern	111
-Ziege	111
-Batterie	111
-Werbung	111
-Hammer	111
-Typ|Type|Typus	111
-Arabisch	111
-läuten	111
-schief	111
-aufessen	111
-zurecht	111
-besteigen	111
-Umgang	111
-elektrisch	111
-passend	111
-Topf	111
-durstig	111
-Maßnahme	111
-Instrument	111
-Schmidt	111
-Streß	111
-Partner	111
-Güte	111
-Paßwort	110
-Dezember	110
-Nachtisch	110
-Einkommen	110
-Gefangene	110
-C	110
-gratulieren	110
-Ruhm	110
-Jupiter	110
-Benzin	110
-ausschließen	110
-Laster	110
-Erkenntnis	110
-Moschee	110
-Marika	110
-braten	109
-Schlacht	109
-Russe	109
-schwul	109
-Mitleid	109
-Hilf	109
-Kopie	109
-Sekretärin	109
-Vegetarier	109
-Klassenkamerad	109
-Wiedersehen	109
-gutaussehend	109
-Vorhaben	109
-entsprechend	109
-römisch	109
-Spur|Spuren	109
-kontaktieren	109
-böse	109
-pleite	109
-übertragen	109
-Zeitlang	109
-6	108
-Kommunikation	108
-ruinieren	108
-Liter	108
-Logik	108
-Sonnenuntergang	108
-hinterher	108
-Schlafen	108
-kürzlich	108
-Umwelt	108
-Gabel	108
-Ehrlichkeit	108
-Gewehr	108
-abhängig	108
-Versteck	108
-beunruhigen	108
-Sonnenbrille	108
-tapfer	108
-stolpern	108
-Wal	108
-eindeutig	108
-Prozeß	108
-verwirren	108
-nachmittag	108
-November	108
-Finnland	108
-Tanz	108
-ungeduldig	107
-Klappe	107
-Organisation	107
-endgültig	107
-wirtschaftlich	107
-Klimaanlage	107
-schleichen	107
-Cousine	107
-rosa	107
-Mittwoch	107
-Zelt	107
-Enttäuschung	107
-befördern	107
-de	107
-Abwasch	107
-Lob	107
-Kanadierin	107
-trainieren	107
-verfassen	107
-fortgehen	107
-Kissen	107
-daneben	107
-Sehnsucht	107
-vernehmen	107
-Sommerferien	106
-Kreditkarte	106
-lateinisch	106
-überraschend	106
-einzigartig	106
-dreckig	106
-nirgendwo	106
-kaputtmachen	106
-Chinese	106
-Denke	106
-Zeile	106
-Rache	106
-Besucher	106
-Enkel	106
-anfassen	106
-Praxis	105
-Forschung	105
-viert	105
-Ursprung	105
-Sessel	105
-überfahren	105
-Angesicht	105
-zünden	105
-versammeln	105
-beschädigen	105
-schreiten	105
-verfallen	105
-erlangen	105
-kriechen	105
-reinigen	105
-dauernd	104
-erbauen	104
-beständig	104
-überaus	104
-25	104
-Fotoapparat	104
-Missverständnis	104
-Feigling	104
-sonnig	104
-bewerben	104
-Einwohner	104
-durchschnittlich	104
-Adler	104
-Wärme	104
-verschlafen	104
-Zwiebel|Zwiebeln	104
-platzen	104
-Nachbarin	104
-Ameise	104
-streben	104
-arabisch	104
-gemütlich	104
-cool	103
-Rucksack	103
-ungerecht	103
-Schalte	103
-Christ	103
-Gespenst	103
-Helm	103
-Schweden	103
-Tüte	103
-Verbrecher	103
-Verletzung	103
-Autobahn	103
-Priester	103
-weichen	103
-Kandidat	103
-Widerstand	103
-Birne	103
-allergisch	103
-einsetzen	103
-vergeuden	103
-unterschätzen	102
-e-	102
-Sprichwort	102
-Entdeckung	102
-zurückrufen	102
-David	102
-°	102
-ideal	102
-blond	102
-Englische	102
-Grund|Gründen	102
-Eingang	102
-Werd	102
-bar	102
-unheimlich	102
-Minister	102
-bedeutend	102
-Jude	102
-anstrengend	102
-kräftig	102
-Schwimmbecken	102
-Behandlung	102
-Heimweg	102
-schweigend	102
-Gebet	102
-Fantasie	101
-Drittel	101
-zurzeit	101
-Scheidung	101
-vorhanden	101
-Teil|Teilen	101
-achtzehn	101
-Melodie	101
-Tablette	101
-Lehrbuch	101
-Erwägung	101
-belegen	101
-technisch	101
-Badewanne	101
-Spur	101
-Stufe	101
-losgehen	100
-verspüren	100
-Tanzen	100
-Zorn	100
-Verkäufer	100
-Einstellung	100
-Versuchung	100
-7	100
-aufstellen	100
-Balkon	100
-nähen	100
-innen	100
-Schildkröte	100
-breiten	100
-Ernte	100
-stur	100
-Zwerg	100
-faszinieren	100
-Kamel	100
-Optimist	100
-talentiert	100
-solch	99
-Taschentuch	99
-de?	99
-Hawaii	99
-Einsatz	99
-Neugier	99
-Innenstadt	99
-sympathisch	99
-Papagei	99
-20	99
-erstaunt	99
-durchführen	99
-aufschreiben	99
-Bauernhof	99
-erzielen	99
-Sonnenschein	99
-wischen	99
-Bombe	99
-Eiche	99
-Hintern	99
-vergiften	99
-aufbauen	99
-Europäer	99
-Widerspruch	99
-Dialekt	99
-Hansen	99
-Jack	98
-auffordern	98
-beugen	98
-Säugetier	98
-Unwissenheit	98
-vertiefen	98
-genial	98
-weglaufen	98
-unzufrieden	98
-Position	98
-automatisch	98
-Forderung	98
-Hinsicht	98
-Anlaß	98
-außen	98
-jeglicher	98
-strecken	98
-strahlen	98
-Maul	98
-Gans	98
-fahren|führen	98
-zumachen	98
-Vaterland	98
-elegant	98
-bezaubernd	98
-heim	97
-zurücktreten	97
-anpassen	97
-riskieren	97
-Akt	97
-Füller	97
-hinfügen	97
-blass	97
-Versehen	97
-ablegen	97
-Haltestelle	97
-Zelle	97
-wohlhabend	97
-Schal	97
-erröten	97
-streicheln	97
-Brötchen	97
-einig	97
-Flur	97
-mähen	96
-vorig	96
-gebrochen	96
-Picknick	96
-fischen	96
-Schere	96
-Laufen	96
-missverstehen	96
-sinnlos	96
-Standpunkt	96
-reduzieren	96
-Trick	96
-Posten	96
-ausnutzen	96
-gelaunt	96
-Kette	96
-illegal	96
-Oberfläche	96
-Dumme	96
-göttlich	96
-umgekehrt	96
-Wilhelm	96
-komplex	95
-Skandal	95
-Braut	95
-Scheiße	95
-unterzeichnen	95
-Taifun	95
-Osaka	95
-Maler	95
-benennen	95
-Vorsitzende	95
-operieren	95
-aussteigen	95
-spätestens	95
-reichlich	95
-Betrieb	95
-kulturell	95
-Moral	95
-Schülerin	95
-relativ	95
-zusätzlich	95
-schmücken	95
-Islam	95
-vernichten	95
-entscheidend	95
-Reisende	94
-hüten	94
-Länge	94
-Erfüllung	94
-stricken	94
-einholen	94
-Millionär	94
-Zugang	94
-montags	94
-Linda	94
-Bäcker	94
-Gehör	94
-linker	94
-Statue	94
-abbiegen	94
-zunehmend	94
-opfern	94
-hör	94
-Zivilisation	94
-schockiert	94
-kreativ	94
-aggressiv	94
-fördern	94
-ehemalig	94
-mitmachen	94
-dummen	94
-Astronaut	94
-Entschuldige	94
-jedesmal	94
-berechnen	93
-Beschwerde	93
-Vorlesung	93
-ebenfalls	93
-George	93
-ersparen	93
-Freundlichkeit	93
-Hinweis	93
-Mexiko	93
-verschlossen	93
-Voraus	93
-12	93
-Henne	93
-urteilen	93
-Vorname	93
-Chaos	93
-B	93
-kostbar	93
-Szene	93
-Oper	93
-nicken	93
-Liebling	93
-Fahne	93
-aufbewahren	93
-quälen	93
-Google	93
-Eule	93
-Glückwunsch	92
-verabscheuen	92
-Passagier	92
-übertreffen	92
-imstande	92
-jahrelang	92
-Zeitverschwendung	92
-Bücherei	92
-Grün	92
-Zitrone	92
-ausdenken	92
-Kurz	92
-gestehen|stehen	92
-Gesichtsausdruck	92
-Diener	92
-giftig	92
-Brauch	92
-Vorfahr|Vorfahren	92
-Sonnenlicht	92
-auftauchen	92
-Sitte	92
-verschaffen	92
-Basketball	92
-erraten	92
-Kongreß	92
-Schrecken	92
-schweben	92
-blöde	92
-‘	92
-Ideal	91
-Fräulein	91
-Sex	91
-Lebewesen	91
-hinsetzen	91
-Kern	91
-abschaffen	91
-äußer	91
-Schweizer	91
-verloben	91
-fürchterlich	91
-Robert	91
-Erbe	91
-segeln	91
-Schrift	91
-begabt	91
-Innere	91
-Wurst	91
-demokratisch	91
-Kreuz	91
-impfen	91
-Geliebte	91
-Elend	91
-ausschließlich	91
-sonderbar	91
-Website	90
-zweifellos	90
-Physik	90
-leidenschaftlich	90
-privat	90
-60	90
-Kilogramm	90
-Autounfall	90
-Reparatur	90
-Jeans	90
-Handschrift	90
-vorlesen	90
-gelegentlich	90
-Zweig	90
-Umschlag	90
-Tätigkeit	90
-spannen	90
-Gestalt	90
-Tropfen	90
-vertreten	90
-Pfeil	90
-Liebhaber	90
-faszinierend	90
-Stamm	90
-Beleidigung	90
-Norwegen	90
-Abgrund	90
-Erzählen	90
-Partie	90
-hochöchst	90
-Segen	90
-Hatten	90
-eifrig	90
-Mittelalter	90
-behilflich	90
-dulden	90
-ablenken	90
-lenken	89
-sechzig	89
-zurückgehen	89
-Spaghetti	89
-umsetzen	89
-Kasse	89
-nutzlos	89
-aufhängen	89
-auslachen	89
-Palast	89
-Straßenseite	89
-Fahrstuhl	89
-Bar	89
-Nachteil	89
-bezüglich	89
-auftreten	89
-Welpe	89
-Saal	89
-Lebensunterhalt	89
-wörtlich	89
-soeben	89
-wahrnehmen	89
-zulegen	89
-Begeisterung	89
-schimpfen	89
-Reaktion	89
-Coronavirus	89
-medizinisch	88
-bügeln	88
-unnötig	88
-Redner	88
-grob	88
-schmeißen	88
-16	88
-Ausgang	88
-bedenken	88
-Fall|Fällen	88
-erschlagen	88
-8	88
-segnen	88
-bluten	88
-Schein	88
-fürs	88
-einhalten	88
-aufregen	88
-Erzählung	88
-durchfallen	88
-Suchen	88
-Bekannte	88
-Annahme	88
-Verzweiflung	88
-moralisch	88
-anerkennen	88
-gestalten	88
-kanadisch	88
-darunter	88
-säen	87
-Premierminister	87
-verbrauchen	87
-Friseur	87
-offnen	87
-Schlips	87
-nachmittags	87
-misstrauisch	87
-Kummer	87
-zuverlässig	87
-Rente	87
-außerordentlich	87
-angemessen	87
-arrogant	87
-Vorbereitung	87
-hilfreich	87
-überschreiten	87
-beraten	87
-Zentimeter	87
-rauben	87
-Klimawandel	87
-taugen	87
-dringen	87
-Trost	87
-gesellschaftlich	86
-selbständig	86
-deuten	86
-Dauer	86
-Frau?	86
-Strategie	86
-Kontinent	86
-Gewitter	86
-Glocke	86
-insgesamt	86
-Silber	86
-Metall	86
-verhungern	86
-sozusagen	86
-betonen	86
-schälen	86
-Schale	86
-umso	86
-Schock	86
-Kindergarten	86
-zukünftig	86
-14	86
-rücken	86
-Kuss	86
-joggen	86
-Dachboden	86
-Reisepass	86
-Bleib	86
-rollen	86
-Ärmel	86
-beitragen	86
-Rind	86
-Wohlstand	86
-Kranke	86
-Alltag	86
-Heimweh	86
-Führer	86
-aufbringen	86
-bewältigen	86
-ausreden	86
-Gutum	86
-locken	86
-Portugiesisch	86
-Wußt	86
-Verdächtige	85
-hinweg	85
-drängen	85
-Verein	85
-Sprecher	85
-bemerkenswert	85
-Lies	85
-ausrichten	85
-Uniform	85
-heiter	85
-Explosion	85
-liegenlassen	85
-Römer	85
-Schlecht	85
-grundlegend	85
-portugiesisch	85
-einrichten	85
-200	85
-speziell	85
-nahezu	85
-Zuhörer	85
-Sag	85
-abbrechen	85
-aufsuchen	85
-erregen	85
-wegnehmen	85
-Johann	85
-Israel	85
-Nuß	85
-Gabe	85
-wundervoll	84
-Orangensaft	84
-zustoßen	84
-Pilot	84
-südlich	84
-verfügbar	84
-Clown	84
-Apfelsine	84
-verstorben	84
-schmal	84
-spannend	84
-Kohle	84
-Hindernis	84
-rutschen	84
-Halten	84
-Fleck	84
-wärmen	84
-hoffnungslos	84
-wehtun	84
-nochmals	84
-eh	84
-verkünden	84
-einschlagen	84
-Höflichkeit	84
-Haufen	84
-jedenfalls	84
-verschließen	84
-Phänomen	83
-Strecke	83
-ohnmächtig	83
-19	83
-Alternative	83
-500	83
-Hamburger	83
-schlank	83
-verkehren	83
-Karton	83
-wessen	83
-zelten	83
-unmittelbar	83
-fertigstellen	83
-eintreffen	83
-Fleiß	83
-Peking	83
-Lerne	83
-ausgesprochen	83
-Abendbrot	83
-Bettler	83
-Seife	83
-protestieren	83
-Zuschauer	83
-Schmuck	83
-Klausur	83
-so?	83
-vergebens	83
-verärgern	83
-Taschenlampe	83
-Täter	83
-bersuchen	83
-einlassen	83
-katholisch	82
-Niveau	82
-Asche	82
-festhalten	82
-abschneiden	82
-unsichtbar	82
-geschlossen	82
-Singen	82
-Flut	82
-Stau	82
-Ausflug	82
-Neigung	82
-Beerdigung	82
-Resultat	82
-meiden	82
-anvertrauen	82
-Wette	82
-dreihundert	82
-regeln	82
-Grundsatz	82
-obgleich	82
-erobern	82
-Ausbildung	81
-Nachdenken	81
-Schön	81
-vorhersagen	81
-hinausgehen	81
-plus	81
-Käfig	81
-besichtigen	81
-mild	81
-vierzehn	81
-Notfall	81
-Einbrecher	81
-Sitzplatz	81
-winken	81
-fortsetzen	81
-Wichtige	81
-Monster	81
-beseitigen	81
-Schluck	81
-wirksam	81
-versäumen	81
-Fledermaus	81
-formulieren	81
-Quatsch	81
-Fell	81
-abwarten	81
-zueinander	81
-Ritter	81
-lebhaft	80
-Narbe	80
-Nahrungsmittel	80
-München	80
-Frag	80
-Postkarte	80
-glücklicherweise	80
-Blau	80
-9	80
-höchstens	80
-verschlingen	80
-flüchten	80
-Fang	80
-fantastisch	80
-explodieren	80
-kritisch	80
-Verwendung	80
-einpacken	80
-Schottland	80
-Mark	80
-Schnecke	80
-Einstein	80
-Dänemark	80
-Krokodil	80
-hineingehen	80
-Tastatur	80
-hindurch	80
-Fangen	80
-polnisch	80
-Zusammenarbeit	80
-Vorschrift	80
-Notizbuch	80
-durchmachen	80
-wisen	80
-Apfelbaum	79
-witzig	79
-Läufer	79
-aufziehen	79
-Gleichgewicht	79
-definieren	79
-Findet	79
-einsteigen	79
-17	79
-Sprechen	79
-flach	79
-wiedererkennen	79
-Schraube	79
-Autoschlüssel	79
-Burg	79
-versehentlich	79
-Etage	79
-einmischen	79
-begrenzen	79
-Verabredung	79
-jedermann	79
-Schüssel	79
-umher	79
-albern	79
-Bargeld	79
-Michael	79
-ohnehin	79
-verschweigen	79
-Forscher	79
-Weltraum	78
-Brieftasche	78
-leugnen	78
-Fan	78
-Sieger	78
-Oh	78
-Briefkasten	78
-Shakespeare	78
-zehntausend	78
-Modell	78
-Stadtzentrum	78
-Apotheke	78
-kommunizieren	78
-unsicher	78
-CD	78
-Grundstück	78
-Leg	78
-Tanaka	78
-Manager	78
-emotional	78
-Diebstahl	78
-kleben	78
-Republik	78
-ersticken	78
-erwecken	78
-abstellen	78
-Sauerstoff	78
-Ausweg	78
-töricht	78
-Auftrag	78
-unterlassen	78
-sinnvoll	78
-schiefgehen	78
-sprachlich	78
-Zauberer	78
-letztendlich	77
-Auswirkung	77
-Scheck	77
-Tony	77
-Direktor	77
-aufregend	77
-Stehen	77
-ausfüllen	77
-Lager	77
-Zeh	77
-einlegen	77
-beträchtlich	77
-unterdrücken	77
-Rückkehr	77
-zart	77
-flüssig	77
-Hintergrund	77
-Zigarre	77
-Gemeinschaft	77
-Behauptung	77
-Ochse	77
-entsetzlich	77
-Scheitern	77
-Tinte	77
-Bogen	77
-angeben	77
-Fee	77
-Außerirdischer	77
-vielmehr	77
-befragen	77
-Gesang	77
-vorhin	77
-niedlich	76
-verehren	76
-Eifersucht	76
-zurücklassen	76
-anzünden	76
-Architekt	76
-Grieche	76
-einschalten	76
-Handel	76
-durcheinander	76
-Feuerwehr	76
-mittels	76
-Daumen	76
-keineswegs	76
-besagen	76
-beliebig	76
-zweihundert	76
-schädlich	76
-Flüchtling	76
-Wohl	76
-Dumm	76
-anrichten	76
-Venus	76
-Gebirge	76
-Anerkennung	76
-Begabung	76
-abwaschen	76
-anschreien	76
-hegen	76
-Poker	76
-Frost	75
-Chemie	75
-Wurm	75
-nachher	75
-Schwiegermutter	75
-Bohne	75
-Teig	75
-wimmeln	75
-Tom.	75
-Lisa	75
-Kugelschreiber	75
-gönnen	75
-Pfad	75
-einziehen	75
-Miene	75
-Neffe	75
-verlängern	75
-Ex	75
-Kolumbus	75
-abreißen	75
-Frisur	75
-Perle	75
-auseinander	75
-Jungfrau	75
-Nachts	75
-verknallen	75
-achtzig	75
-örtlich	75
-reizen	75
-drum	75
-erfassen	75
-Übersetzen	75
-Tragen	74
-Poesie	74
-Behörde	74
-Angeklagter	74
-Langeweile	74
-bergessen	74
-Regenbogen	74
-Selbstvertrauen	74
-Königreich	74
-glänzen	74
-Streichholz	74
-Wien	74
-Erlebnis	74
-abschicken	74
-einigen	74
-Einbruch	74
-Weizen	74
-umfassen	74
-Notwendigkeit	74
-Krone	74
-Fachmann	74
-währen	74
-wider	74
-Dorn	74
-LKW	74
-Kyōto	74
-Bewohner	74
-Zitat	74
-Cola	74
-Version	74
-ungern	74
-Mittelpunkt	74
-General	74
-reizend	74
-grundsätzlich	74
-ausgerechnet	74
-Nickerchen	73
-bekämpfen	73
-Gymnasium	73
-Schließen	73
-Klage	73
-Äußerung	73
-verletzt	73
-Washington	73
-Sonnenaufgang	73
-Einkauf	73
-westlich	73
-umgehend	73
-Pfeffer	73
-Spinat	73
-Halloween	73
-berücksichtigen	73
-erben	73
-Vulkan	73
-geradezu	73
-Postamt	73
-mittler	73
-mangeln	73
-Schlimm	73
-sichern	73
-Probe	73
-Faulheit	73
-Betracht	73
-herab	73
-Anwesenheit	73
-überzeugend	73
-versinken	73
-Dreck	73
-besoffen	73
-Einheit	73
-gestrig	73
-türkisch	73
-Konsequenz	73
-fade	73
-Griff	73
-fällen	73
-nähren	73
-Hai	73
-habe'n	73
-verrichten	73
-entführen	73
-belästigen	73
-endlos	73
-vorn	73
-tätig	73
+der
+sein
+ich
+haben
+ein
+sie
+du
+nicht
+Tom
+zu
+in
+er
+es
+werden
+und
+wir
+können
+sich
+dass
+auf
+mit
+an
+mein
+ihr
+dieser
+was
+wie
+von
+Maria
+sagen
+als
+kein
+so
+gut
+wollen
+für
+wenn
+man
+gehen
+alle
+machen
+müssen
+noch
+sehen
+aus
+kommen
+viel
+geben
+um
+wissen
+tun
+nach
+dein
+sollen
+sehr
+nur
+mögen
+aber
+mehr
+schon
+hier
+immer
+bei
+etwas
+vor
+auch
+lassen
+sprechen
+warum
+Haus
+Mensch
+über
+bitten
+nichts
+glauben
+heute
+wer
+jeder
+groß
+oder
+anderer
+ganz
+Jahr
+wo
+Zeit
+finden
+Tag
+unser
+da
+denken
+jetzt
+nie
+daß
+essen
+doch
+Kind
+brauchen
+Leben
+nehmen
+helfen
+alt
+Buch
+wieder
+Mann
+Geld
+Frau
+einmal
+kaufen
+neu
+Freund
+wirklich
+kennen
+lernen
+erst
+schön
+bleiben
+stehen
+fahren
+mal
+leben
+ohne
+hören
+verstehen
+halten
+dann
+Sie
+zwei
+lieben
+welcher
+drei
+bis
+gerne
+selbst
+durch
+letzt
+schreiben
+bringen
+gerade
+fragen
+Arbeit
+denn
+arbeiten
+lang
+Welt
+spielen
+einfach
+lesen
+klein
+Auto
+Wort
+warten
+niemand
+Vater
+oft
+Mary
+ob
+jemand
+dürfen
+Hund
+Sprache
+Leute
+trinken
+ab
+gehören
+Frage
+wann
+bekommen
+versuchen
+Boston
+lange
+weil
+Mutter
+scheinen
+Problem
+schnell
+dort
+Schule
+liegen
+morgen
+Französisch
+damit
+Uhr
+verlieren
+Land
+nah
+unter
+spät
+schlafen
+sicher
+tragen
+seit
+stellen
+wenig
+wohnen
+reden
+vergessen
+beide
+gleich
+gestern
+Wasser
+Woche
+Stadt
+Auge
+schlecht
+Hand
+wahr
+Satz
+sondern
+Abend
+Zimmer
+heißen
+vielleicht
+sterben
+zurück
+schwer
+gern
+euer
+allein
+passieren
+gar
+davon
+jung
+einzig
+Mädchen
+suchen
+glücklich
+einige
+ja
+weit
+hoffen
+sitzen
+zeigen
+Bruder
+ziehen
+Stunde
+Angst
+Morgen
+Wahrheit
+Nacht
+Weg
+wichtig
+wohl
+Fehler
+fühlen
+Name
+erzählen
+Mal
+Tür
+fast
+richtig
+Katze
+leicht
+gegen
+Johannes
+zusammen
+deutsch
+Liebe
+setzen
+lieb
+treffen
+Hilfe
+laufen
+genug
+gefallen
+Eltern
+eigen
+Gott
+Englisch
+recht
+Ding
+daran
+Schwester
+schaffen
+wünschen
+erinnern
+darüber
+Ende
+Brief
+je
+hoch
+zwischen
+Geschichte
+darauf
+Junge
+paar
+beginnen
+fangen
+dafür
+während
+bald
+Zug
+dazu
+Kaffee
+bestehen
+gewinnen
+früher
+Sache
+verlassen
+Herz
+Familie
+Meinung
+stimmen
+führen
+Sohn
+Bett
+genau
+Herr
+Glück
+legen
+Australien
+besuchen
+Straße
+Monat
+Lehrer
+nein
+überhaupt
+Baum
+früh
+Dank
+rufen
+Arzt
+stark
+dabei
+Kopf
+wegen
+voll
+heiraten
+kurz
+weg
+schlagen
+eigentlich
+nennen
+fallen|gefallen
+zehn
+Antwort
+fertig
+Grund
+meist
+bisschen
+öffnen
+kalt
+freuen
+Fenster
+kaum
+Film
+schließen
+falsch
+meinen
+Spiel
+bezahlen
+hin
+Tod
+Freundin
+bevor
+erwarten
+Idee
+Minute
+schwimmen
+erklären
+ändern
+fünf
+singen
+ziemlich
+fallen
+Haar
+solcher
+Tisch
+Sorge
+sofort
+Können
+schauen
+hassen
+Bus
+regnen
+Fuß
+manchmal
+krank
+hinter
+Tochter
+sonst
+geschehen
+beschäftigen
+Essen
+Seite
+nun
+anrufen
+anfangen
+Erde
+Bild
+aufhören
+interessieren
+benutzen
+müde
+Sonne
+möglich
+bereits
+erreichen
+versprechen
+erkennen
+ankommen
+Garten
+verkaufen
+verbringen
+leid
+schwierig
+lachen
+Deutschland
+Himmel
+Plan
+Musik
+Fall
+niemals
+also
+weiter
+übersetzen
+langsam
+kosten
+rot
+Nachricht
+draußen
+frei
+reich
+Tier
+Licht
+schicken
+Stelle
+Krieg
+weißen
+Gefühl
+fehlen
+befinden
+Ja
+Japan
+Spaß
+endlich
+verdienen
+Art
+erfahren
+Wissen
+Wein
+Blume
+Wagen
+Schuh
+mancher
+Platz
+küssen
+gebären
+Traum
+vier
+werfen
+bedeuten
+weinen
+anders
+Schüler
+laut
+Erfolg
+du?
+entscheiden
+klar
+los
+Gesicht
+studieren
+Brot
+treffen|triefen
+Gedanke
+Fluß
+brechen
+wahrscheinlich
+Fahrrad
+lösen
+bestimmt
+Arm
+Wetter
+weißen|wissen
+jener
+her
+Mach
+natürlich
+Fisch
+völlig
+Recht
+außer
+fliegen
+fürchten
+Esperanto
+Polizei
+steigen
+Vogel
+Pferd
+Ihr
+französisch
+Apfel
+kochen
+schwarz
+denken|gedenken
+lügen
+kümmern
+Sinn
+bauen
+Person
+Menge
+gewöhnlich
+Bier
+Zukunft
+Lied
+antworten
+Kleid
+nett
+weiß
+interessant
+überraschen
+echt
+Alter
+zweit
+Sami
+waschen
+Sommer
+wählen
+entschuldigen
+verlieben
+kennenlernen
+Lust
+dauern
+bereit
+halb
+Geschenk
+heiß
+Schlüssel
+selten
+hängen
+egal
+Meer
+Telefon
+Reise
+Milch
+Staat
+folgen
+Stimme
+holen
+Teil
+zwar
+leider
+schenken
+teuer
+schmecken
+Ziel
+Wald
+stehlen
+wachsen
+passen
+Feuer
+Preis
+Bahnhof
+Regen
+Tee
+wohin
+fallen|fällen
+tot
+Freude
+etwa
+leiden
+Gestern
+Unfall
+darin
+tanzen
+darum
+Schuld
+Unterschied
+handeln
+Entscheidung
+bemerken
+vorbei
+gefährlich
+leihen
+sechs
+neben
+erhalten
+nachdem
+plötzlich
+Bein
+Dollar
+obwohl
+fest
+Moment
+Wohnung
+König
+woher
+Park
+Glas
+reichen
+leisten
+Rede
+Montag
+besitzen
+Krankenhaus
+warm
+Kuchen
+erlauben
+ansehen
+verletzen
+Student
+sieben
+Büro
+Geist
+Lage
+stecken
+ständig
+Natur
+klug
+Stück
+Weise
+Computer
+tief
+Nachbar
+treten
+Farbe
+einladen
+Zeitung
+ruhig
+Feind
+vertrauen
+besonders
+Ohr
+statt
+Bitte
+Wind
+froh
+gegenüber
+Boden
+reisen
+dorthin
+Winter
+zufrieden
+beantworten
+Tasche
+überall
+süß
+Mund
+vorstellen
+Dorf
+Ei
+Hotel
+Berg
+sogar
+Elke
+Aufgabe
+dumm
+Luft
+Hut
+Foto
+funktionieren
+blau
+Stern
+Geheimnis
+Abendessen
+eher
+arm
+traurig
+Glaube
+Wochenende
+Ort
+stolz
+Schiff
+erledigen
+Nähe
+rauchen
+betrachten
+träumen
+offen
+Erfahrung
+Rat
+alleine
+bloß
+beschließen
+Prüfung
+Hoffnung
+danken
+selber
+ehrlich
+Raum
+verwenden
+Tatoeba
+Küche
+töten
+verheiraten
+Geburtstag
+Kunst
+Thema
+hart
+genauso
+weder
+verschwinden
+Restaurant
+wieviel
+gelingen
+rein
+Situation
+bös
+Wolle
+japanisch
+zählen
+Schnee
+retten
+Ahnung
+Hunger
+Wahl
+dunkel
+schlimm
+Geschäft
+damals
+verstecken
+Chef
+berühmt
+zuerst
+Stein
+Paris
+Tasse
+aufstehen
+Volk
+heraus
+Ruhe
+vermissen
+Schwierigkeit
+Sonntag
+lustig
+ernst
+verrückt
+bekennen
+Ordnung
+Blick
+Hausaufgabe
+Witz
+Wörterbuch
+Fleisch
+wütend
+Gesetz
+Kraft
+desto
+Seele
+acht
+wirken
+Firma
+Gesundheit
+herum
+Sage
+Bank
+derselbe
+merken
+Körper
+Roman
+lächeln
+derjenige
+Hör
+menschlich
+bewegen
+gelten
+erscheinen
+Versuch
+englisch
+unbedingt
+Chance
+Laden
+unterhalten
+Gebäude
+annehmen
+hübsch
+Angelegenheit
+verändern
+Party
+fressen
+Nachmittag
+seltsam
+Kirche
+Europa
+Zahn
+Frühstück
+Flugzeug
+irren
+Mama
+Politiker
+Karte
+Möglichkeit
+ausgehen
+verschieden
+reparieren
+teilen
+klingen
+Klasse
+aussehen
+Freiheit
+Schau
+schätzen
+Schmerz
+Strand
+nachdenken
+dreißig
+danach
+gesund
+freundlich
+zahlen
+Beispiel
+irgendwo
+still
+rennen
+Übersetzung
+ach
+Gesellschaft
+Lüge
+wußen
+geh
+Krankheit
+dick
+Ergebnis
+behandeln
+Mond
+leer
+frisch
+Gefahr
+Wand
+Halt
+Frankreich
+Urlaub
+zwingen
+Anfang
+Mühe
+Finger
+Gefängnis
+trauen
+Regierung
+schrecklich
+unmöglich
+aufgeben
+grün
+miteinander
+deshalb
+Bescheid
+behaupten
+Lehrerin
+Hauptstadt
+springen
+wert
+Zahl
+streiten
+zurückkommen
+Lösung
+Onkel
+irgendein
+vorsichtig
+jedoch
+schneiden
+beibringen
+Ruf
+hingehen
+John
+sag
+oben
+umbringen
+geraten
+Ausland
+Teufel
+dagegen
+vereinigt
+verpassen
+Gast
+weh
+Frieden
+Million
+gemeinsam
+Würde
+Dame
+behalten
+Stuhl
+schreien
+Augenblick
+Brille
+Gehen
+stören
+Nase
+genießen
+Gelegenheit
+Fernsehen
+Präsident
+Amerika
+spazieren
+sobald
+bieten
+bereiten
+Wunsch
+einander
+Flasche
+Großvater
+Mut
+unterscheiden
+kämpfen
+solange
+häufig
+hierher
+Rauchen
+Jahrhundert
+Schritt
+China
+Schlaf
+Bibliothek
+Messer
+Mögen
+Komm
+fassen
+benötigen
+bestellen
+toll
+Eis
+Hemd
+überlegen
+Punkt
+Insel
+See
+langweilig
+entdecken
+kriegen
+Kino
+Mittagessen
+jemals
+Planet
+Tennis
+verlangen
+Macht
+Weihnacht|Weihnachten
+Vorschlag
+Form
+Politik
+begegnen
+drücken
+drehen
+raten
+Thomas
+Baby
+Eindruck
+Träne
+sorgen
+Brücke
+Mittag
+zwanzig
+Absicht
+schließlich
+enthalten
+Denken
+Schönheit
+perfekt
+Zucker
+Unterricht
+Polizist
+raus
+Flughafen
+Bericht
+Verstand
+backen
+indem
+mitbringen
+beenden
+Freundschaft
+Suppe
+fleißig
+gewiß
+riechen
+Mantel
+fern
+kaputt
+Medikament
+Projekt
+betreten
+amerikanisch
+stets
+enden
+trotzdem
+Wert
+Schreibtisch
+eben
+weniger
+Wirklichkeit
+Dach
+Gespräch
+Klavier
+Papier
+begehen
+deswegen
+allzu
+schneien
+Feier
+aufgrund
+daher
+wechseln
+willen
+betrunken
+verbieten
+nötig
+Universität
+Rücken
+Zweifel
+zweimal
+ungefähr
+Schicksal
+bilden
+Bedeutung
+Lesen
+na
+hungrig
+Kleidung
+Gut
+wecken
+empfehlen
+schießen
+beißen
+Hälfte
+Vergangenheit
+Gruppe
+ewig
+ähnlich
+treiben
+ertragen
+Papa
+Tat
+Paß
+Interesse
+Konzert
+Regel|Regeln
+Pflicht
+Eichhörnchen
+Grenze
+wiedersehen
+tatsächlich
+Text
+Maus
+übrig
+verbessern
+zurückkehren
+Oktober
+Großmutter
+heben
+morgens
+zerstören
+Beziehung
+Koffer
+hundert
+Artikel
+Waffe
+Liste
+einsam
+streichen
+normalerweise
+wieso
+Wart
+Entschuldigung
+angenehm
+schweigen
+leise
+Versprechen
+Wolf
+London
+zufällig
+entfernt
+trennen
+Loch
+nutzen
+Frühling
+Information
+Ball
+Amerikaner
+europäisch
+Lächeln
+Blut
+Folge
+müßen
+Gedicht
+Geduld
+Soldat
+täglich
+Fernseher
+sammeln
+Taxi
+unterrichten
+Anna
+beobachten
+Lärm
+erfolgreich
+verraten
+fort
+einschlafen
+sowohl
+Reich
+laß
+zuhören
+da?
+herrschen
+üben
+anziehen
+Rußland
+Tor
+Verhalten
+Fähigkeit
+Blatt
+Euro
+nervös
+30
+Erklärung
+Fußball
+kehren
+dritt
+Gemüse
+Besuch
+Wolke
+ergeben
+trotz
+lehren
+entstehen
+bereuen
+ärgern
+geht
+Rolle
+offensichtlich
+Frucht
+nachts
+Wissenschaft
+bewußt
+warnen
+Rose
+wach
+zeihen|ziehen
+achten
+enttäuscht
+planen
+begleiten
+Job
+Internet
+sauber
+verursachen
+Kamera
+besonder
+Ehe
+überzeugt
+Treffen
+gleichen
+Gitarre
+Adresse
+probieren
+irgendwie
+Werk
+entlassen
+Pflanze
+intelligent
+komm
+Meter
+erfüllen
+billig
+rechtzeitig
+persönlich
+Mannschaft
+Jugend
+Tatsache
+politisch
+mindestens
+streng
+worum
+Patient
+verzeihen
+dran
+vorbereiten
+wunderschön
+öffentlich
+feiern
+bezeichnen
+einkaufen
+hallo
+Lachen
+Kühlschrank
+Religion
+chinesisch
+Richtung
+Sturm
+begreifen
+bemühen
+hinaus
+Dummheit
+abnehmen
+irgendwelcher
+Pause
+mitteilen
+Sicherheit
+Pizza
+direkt
+vergehen
+Radio
+schützen
+Anwalt
+Beste
+melden
+Vergnügen
+wenden
+verspäten
+wenigstens
+Japanisch
+notwendig
+Käse
+Angebot
+Reihe
+existieren
+Gold
+zuvor
+Berlin
+normal
+Kuh
+pünktlich
+Kiste
+dahin
+betragen
+aufpassen
+Herbst
+russisch
+beherrschen
+Wunder
+überleben
+unten
+weigern
+Sport
+vermeiden
+möglicherweise
+Museum
+abschließen
+erleben
+putzen
+Schlange
+beeilen
+aufhalten
+vollkommen
+soweit
+zeichnen
+modern
+England
+Maschine
+Rechnung
+brennen
+Menschheit
+Unternehmen
+Fortschritt
+Italien
+Ware
+Feld
+vergangen
+schwach
+unterstützen
+pro
+dennoch
+Hose
+Erinnerung
+wagen
+neun
+rechnen
+mitnehmen
+Regel
+dankbar
+Weiß
+links
+Elefant
+Holz
+Schulter
+Schluß
+wiederholen
+Marie
+Reis
+Schatten
+Paar
+Sofa
+Nummer
+benehmen
+Zufall
+New
+Schloß
+beweisen
+Keks
+Schokolade
+gering
+davor
+herausfinden
+füttern
+Aufmerksamkeit
+Dieb
+oh
+Gericht
+schade
+blind
+hinterlassen
+ebenso
+spüren
+langweilen
+Mitglied
+fremd
+Bauer
+unternehmen
+faul
+gelb
+äußerst
+20
+italienisch
+Spiegel
+sagt
+Universum
+hell
+Ecke
+sparen
+zuhause
+beschreiben
+Wesen
+Muttersprache
+total
+Kunde
+packen
+überzeugen
+dienen
+verbinden
+teilnehmen
+irgendwann
+10
+Tante
+Schach
+riesig
+vorher
+Lauf
+Rest
+Beweis
+Wissenschaftler
+bisher
+übernehmen
+schmutzig
+Opfer
+brauchen|gebrauchen
+Streit
+drüben
+wersen
+Kultur
+absolut
+Layla
+entwickeln
+Salz
+dreimal
+ausmachen
+verbergen
+Lernen
+Sitzung
+gesamt
+Wille
+erfinden
+Gegend
+großartig
+Bär
+scharf
+Autor
+Ansicht
+Huhn
+laden
+Theorie
+Fremdsprache
+Schirm
+Spanisch
+Telefonnummer
+löschen
+Ziri
+Typ
+Mauer
+heutzutage
+Verbrechen
+worüber
+schulden
+frühstücken
+umgehen
+Löwe
+Alkohol
+unglücklich
+empfinden
+Vertrauen
+nützlich
+Haut
+entweder
+pflegen
+Laune
+verbrennen
+Ausdruck
+eifersüchtig
+Markt
+Gerücht
+Rom
+fordern
+Beruf
+Rechner
+Obst
+bewundern
+ausgeben
+Zustand
+eng
+Weisheit
+richten
+niemande
+Tokio
+Schaf
+diskutieren
+wovon
+blicken
+Hochzeit
+per
+Prozent
+hässlich
+besprechen
+heutig
+seiden
+Charakter
+York
+aufwachsen
+fließend
+irgendetwas
+kompliziert
+jemande
+berühren
+Freitag
+malen
+bewahren
+ignorieren
+lauten
+Künstler
+greifen
+Unglück
+beschweren
+verhalten
+stoßen
+Stock
+anschauen
+Mathematik
+akzeptieren
+Medizin
+befreunden
+Kartoffel
+sprich
+Hören
+zustimmen
+stürzen
+unglaublich
+erwischen
+füllen
+ausdrücken
+Boot
+Zweck
+USA
+parken
+Kilometer
+Regenschirm
+Zunge
+reißen
+wunderbar
+Russisch
+Affe
+schuldig
+Steuer
+rechts
+Yen
+Zeichen
+Gewalt
+Gehirn
+halbe
+unschuldig
+international
+sauer
+bestrafen
+höflich
+beeindrucken
+Fliege
+schämen
+gucken
+Algerien
+Hals
+pflanzen
+entfernen
+verirren
+Brasilien
+Partei
+Risiko
+herein
+Reichtum
+vermutlich
+Schreiben
+Gedächtnis
+Supermarkt
+Vorteil
+schüchtern
+lehnen
+glaubst
+Narr
+Gegenteil
+einverstanden
+zwölf
+Bleistift
+anscheinend
+ähneln
+stammen
+Kommentar
+beinahe
+weggehen
+Fest
+Dokument
+Geräusch
+Gras
+Oma
+Deutsche
+verantwortlich
+Grad
+Treppe
+Methode
+klingeln
+hinein
+Kampf
+Arbeiter
+überlassen
+Bahn
+Ärztin
+wofür
+Überraschung
+aufnehmen
+einstellen
+hinten
+Umstand
+abholen
+Post
+Zigarette
+Gewissen
+Maß
+zugeben
+Teller
+lohnen
+satt
+komisch
+deutlich
+Vorstellung
+bestimmen
+Kollege
+grau
+Bad
+Mitte
+tausend
+Vertrag
+soviel
+ablehnen
+Spieler
+Schaden
+belieben
+Japaner
+gleichzeitig
+Strom
+Schatz
+drin
+dicht
+Talent
+Theater
+Produkt
+dringend
+Suche
+aufmerksam
+Hölle
+Ehemann
+Butter
+gießen
+Größe
+Flug
+<SOS>n
+Sand
+Ehre
+vernünftig
+Fuchs
+Spanien
+Mittel
+Kindheit
+Sieg
+Kanadier
+letztemal
+Ratschlag
+Marys
+erheben
+Schwein
+vergeben
+schlau
+Anzug
+Demokratie
+Intelligenz
+Sekunde
+Decke
+köstlich
+wozu
+Tugend
+daraus
+Weile
+inzwischen
+überqueren
+dasselbe
+Test
+Dichter
+Ring
+wiegen
+ehe
+tu
+Neuigkeit
+Geschmack
+Kanada
+trocken
+Krawatte
+unterschreiben
+Getränk
+Chinesisch
+Samstag
+Ken
+besorgt
+Schweigen
+Rad
+blöd
+verfügen
+beten
+Trinken
+verhindern
+Entwicklung
+vorhaben
+erwähnen
+verwandeln
+irgendwas
+Liisa
+anlügen
+uber
+Jacke
+Buchstabe
+unterwegs
+untersuchen
+Schachtel
+Kopfschmerz
+Studium
+Professor
+Grab
+Nation
+Genie
+korrigieren
+längst
+drinnen
+befolgen
+Prinzessin
+neigen
+herstellen
+Kerze
+verlaufen
+O
+gemein
+dadurch
+fröhlich
+Temperatur
+vollständig
+Handy
+Neu
+kündigen
+Erdbeben
+bedanken
+Bart
+Energie
+Muss
+Heimat
+schaden
+Zeitschrift
+Arbeit|Arbeiten
+Fahrer
+gegenseitig
+verfolgen
+Dunkelheit
+Spinne
+jagen
+zerbrechen
+Socke
+Stift
+Gegenwart
+senden
+rund
+Durst
+/
+aufwachen
+Idiot
+wem
+furchtbar
+worauf
+angeln
+verschieben
+Schriftsteller
+hierherkommen
+Kuß
+erschrecken
+nahe
+praktisch
+klopfen
+abends
+vergleichen
+Diskussion
+Programm
+Termin
+gelangen
+herzlich
+ernsthaft
+Ferien
+Tate
+Sie?
+Wirtschaft
+Spaziergang
+allmählich
+Honig
+Humor
+entlang
+Kerl
+Engel
+Bildung
+Frosch
+Erlaubnis
+Ärger
+sicherlich
+Königin
+Vergleich
+Pullover
+begeistern
+Biene
+Knopf
+Video
+Esel
+Markku
+Erkältung
+Not
+Begriff
+Schauspieler
+Stärke
+Dienst
+Fahren
+folgend
+mutig
+Netz
+weise
+Hügel
+Lippe
+golden
+weisen
+Insekt
+Verantwortung
+willkommen
+100
+Publikum
+einst
+Doktor
+schieben
+dünn
+Keller
+antun
+enttäuschen
+beruhigen
+Nebel
+wiederkommen
+hierbleiben
+Kauf
+landen
+bedauern
+breit
+scheitern
+günstig
+nackt
+klettern
+bedecken
+fünfzig
+Verbindung
+ersetzen
+Arbeitsplatz
+erneut
+heilig
+reagieren
+belügen
+Schmetterling
+Sehen
+Gewohnheit
+Afrika
+ergreifen
+Mangel
+wertvoll
+ungarisch
+Leidenschaft
+Gebiet
+Bewegung
+Gefallen
+gründen
+stechen
+womit
+unrecht
+Toilette
+Magen
+bekannt
+Bob
+Kälte
+wöhnen
+verbreiten
+kleiden
+erschöpfen
+besorgen
+vorne
+Ereignis
+reiten
+Hitze
+bellen
+Datum
+baden
+Kritik
+rasch
+Gepäck
+Geruch
+Held
+hervor
+widmen
+Knie
+vorschlagen
+doppelt
+Aussicht
+entkommen
+anbieten
+Banane
+niedrig
+Böse
+begeben
+Bürger
+regelmäßig
+Mail
+aussprechen
+braun
+gewöhnen
+zubereiten
+innerhalb
+mächtig
+nochmal
+fügen
+System
+respektieren
+kritisieren
+Fahrkarte
+Ferne
+geeignet
+Vernunft
+allgemein
+neugierig
+weiterhin
+Bevölkerung
+Vergessen
+ausleihen
+weich
+nämlich
+unhöflich
+überprüfen
+Schwert
+Gewicht
+Wunde
+Schwimmen
+ruhen
+beleidigen
+unterschiedlich
+Irrtum
+betreffen
+Ehefrau
+Puppe
+Peter
+Mord
+überwinden
+Wohnzimmer
+ausgezeichnet
+abgeben
+sozial
+Koch
+umarmen
+Dummkopf
+Hobby
+Schlag
+erweisen
+Union
+seien
+Kurs
+Fabrik
+erholen
+mitkommen
+Schrank
+Höhe
+schwanger
+ernähren
+einzeln
+Tourist
+umgeben
+eilig
+drohen
+Teppich
+Bauch
+umsonst
+Ausländer
+verderben
+Gemälde
+bestätigen
+rühren
+Golf
+Flügel
+erwachsen
+Scherz
+lecker
+Meister
+woran
+Ursache
+verurteilen
+konzentrieren
+lächerlich
+fähig
+wen
+meistens
+Unterstützung
+Kenntnis
+Mahlzeit
+verschwenden
+Quelle
+knapp
+täuschen
+beschützen
+verständlich
+wehen
+Mitarbeiter
+Lügner
+Kaninchen
+wandern
+Franzose
+geduldig
+duschen
+Vermögen
+ausschalten
+sinken
+Einladung
+beeindruckt
+Ofen
+Respekt
+Schlafzimmer
+gebrauchen
+Zahnarzt
+Team
+mitten
+vermuten
+Wäsche
+verwirrt
+korrekt
+geheim
+Armut
+nass
+Jugendliche
+amüsieren
+nähern
+Rock
+sanft
+Hof
+grüßen
+unterbrechen
+nieder
+geistig
+Muttersprachler
+Müller
+Zeug
+Verlust
+verärgert
+lebend
+Opa
+Fremde
+auffallen
+irgend
+lessen
+nützen
+Gleiche
+Nagel
+Zoo
+ausruhen
+Fieber
+Akzent
+begrüßen
+Zaun
+0
+erschießen
+Ozean
+Region
+erkälten
+Sänger
+verteidigen
+Unrecht
+Salat
+Bleibe
+binden
+fließen
+Münze
+Mars
+Mobiltelefon
+erfordern
+Mitternacht
+Lebensmittel
+Kontakt
+Kosten
+zunächst
+ausführen
+wachen
+entsprechen
+Detail
+veröffentlichen
+Strafe
+Wange
+Figur
+Führerschein
+Befehl
+Müll
+Orange
+Miete
+Paket
+betrügen
+link
+Rätsel
+Ton
+schwören
+Baseball
+vorbeikommen
+vierzig
+Ewigkeit
+bedienen
+Mode
+angehen
+heilen
+Erwachsene
+überreden
+versetzen
+Schutz
+scheiden
+Welle
+ungewöhnlich
+heimlich
+Generation
+verwechseln
+Verfügung
+hereinkommen
+schuld
+Schild
+übertreiben
+ausziehen
+Los
+fernsehen
+Leiter
+Falle
+sorgfältig
+Regal
+Brust
+hinzu
+Wut
+wetten
+stinken
+typisch
+Tausend
+entgegen
+Facebook
+5
+Aufzug
+Realität
+hervorragend
+Furcht
+sehnen
+Karl
+Motor
+Acht
+bescheiden
+Tun
+3
+bequem
+Brunnen
+Veränderung
+fein
+Einfluß
+Werkzeug
+drauf
+Phantasie
+hauen
+anhalten
+besiegen
+liefern
+Blitz
+Band
+Freizeit
+Garage
+versichern
+atmen
+Gang
+merkwürdig
+lediglich
+Verwandte|Verwandter
+Ukraine
+Handtuch
+absagen
+Motorrad
+herkommen
+Herausforderung
+fliehen
+einfallen
+Türe
+zurückgeben
+Möchten
+50
+entgehen
+erwidern
+eröffnen
+Vorsicht
+starten
+hingegen
+Indien
+schalten
+blühen
+loben
+Sack
+eingehen
+telefonieren
+tauchen
+nerven
+Kilo
+verzichten
+künstlich
+Milliarde
+Jane
+positiv
+Kochen
+Geburt
+Stille
+zulassen
+Gegner
+Verkehr
+Verspätung
+Versuch|Versuchen
+bezweifeln
+Jungs
+teil
+auskommen
+empfangen
+ermöglichen
+Argument
+Pilz
+peinlich
+nachsehen
+lebendig
+Hase
+fünfzehn
+aussuchen
+Haß
+klagen
+Wüste
+zumindest
+wundern
+abhalten
+treu
+Erdbeere
+klassisch
+Schweiz
+angreifen
+kontrollieren
+griechisch
+Prinz
+aktiv
+ordentlich
+anstellen
+seitdem
+rasieren
+Beginn
+absichtlich
+Sünde
+Süßigkeit
+wesser
+April
+15
+wonach
+heftig
+Inhalt
+beklagen
+Mücke
+zuviel
+2013
+zweifeln
+Öffentlichkeit
+Titel
+runter
+Nutzen
+ermorden
+schmerzen
+Ausnahme
+übel
+Urteil
+gestehen
+Bedingung
+messen
+Qualität
+horchen
+Teich
+Tagebuch
+Paul
+wild
+erwerben
+extrem
+selbstverständlich
+dank
+neulich
+Gerät
+Gebrauch
+Literatur
+Dienstag
+finanziell
+Armee
+erhöhen
+bedrohen
+Griechenland
+entschlossen
+gedenken
+2
+Rasen
+Viertel
+Aussehen
+Klima
+Löffel
+Richtige
+fotografieren
+verhaften
+Nerv|Nerven
+wissenschaftlich
+eintreten
+Bord
+Bill
+unbekannt
+Gehalt
+Anruf
+Atem
+all
+‚
+Gegenstand
+Verhältnis
+unabhängig
+mieten
+mischen
+bevorzugen
+Tote
+Spielzeug
+aufräumen
+starren
+Schuß
+Anblick
+Zeitpunkt
+Krise
+ober
+Hahn
+Hans
+Yanni
+leuchten
+Mai
+Übung
+jederzeit
+Österreich
+Anspruch
+herunter
+Umgebung
+Stil
+regieren
+festnehmen
+durchs
+Schwanz
+derzeit
+Tomate
+zögern
+keinerlei
+feststellen
+Kreis
+Tom?
+beabsichtigen
+Eile
+de!
+zittern
+weitermachen
+Paradies
+Nahrung
+unendlich
+Gewinn
+Krebs
+feuern
+Turm
+Märchen
+Anne
+attraktiv
+Café
+informieren
+widersprechen
+Summe
+E
+Schwäche
+Tiger
+Weltkrieg
+Fahrt
+Flamme
+aufrichtig
+spanisch
+diesmal
+voraus
+grausam
+freiwillig
+britisch
+Bewußtsein
+befreien
+Möbel
+Vorhang
+Gipfel
+Schlimmst
+Stoff
+Leid
+Cousin
+Kontrolle
+hoffentlich
+taub
+Gerechtigkeit
+zuletzt
+Weihnachtsmann
+Müssen
+eilen
+nirgends
+Bereich
+fürser
+2.3
+Juni
+Note
+Krankenschwester
+falls
+Reifen
+Portemonnaie
+umziehen
+unangenehm
+Tōkyō
+zufolge
+Appetit
+Leistung
+Handschuh
+kühl
+verwandt
+Bring
+zahlreich
+Süden
+Tempel
+aufgeregt
+Staub
+Sklave
+Rauch
+räumen
+Höhle
+Aussage
+einnehmen
+beschuldigen
+Westen
+Linie
+außerhalb
+Kneipe
+entschließen
+Bemerkung
+Allgemeine
+Kapitän
+auswendig
+Mist
+Besitz
+weitergehen
+Wirkung
+letztlich
+komplett
+Weib
+Ungarn
+elf
+sogenannt
+Sicht
+färben
+übermorgen
+Richter
+Philosophie
+kommend
+Rand
+Abschied
+übernachten
+Briefmarke
+Journalist
+aufbrechen
+Abschluß
+Latein
+Klassenzimmer
+Schauspielerin
+aufmachen
+halt
+dich
+weshalb
+äußern
+klappen
+Algier
+Lohn
+1
+Rezept
+friedlich
+lauschen
+Duft
+übergeben
+spenden
+Ufer
+Medium
+ahnen
+Toki
+Änderung
+kostenlos
+magst
+Musiker
+erfreuen
+Bau
+Angewohnheit
+Verzeihung
+Tee?
+13
+vorkommen
+Maske
+Armbanduhr
+anwenden
+ansprechen
+vertreiben
+Landschaft
+Philosoph
+berichten
+Badezimmer
+gehe
+Selbstmord
+Horizont
+Erwartung
+bitter
+Schrei
+herrlich
+Osten
+km
+Druck
+Verständnis
+Kaiser
+Lampe
+inner
+Mehrheit
+Januar
+durchaus
+verreisen
+Einsamkeit
+stundenlang
+Knochen
+voran
+anfangs
+Norden
+Dan
+vertragen
+unwahrscheinlich
+Bessere
+Smith
+Bürgermeister
+Iss
+beneiden
+Zwilling
+Scheibe
+Taube
+versagen
+Übel
+Faktum
+begraben
+rechen
+genügen
+beziehen
+klauen
+bestreiten
+Stefan
+Geschwister
+adoptieren
+Eigenschaft
+Stimmung
+Angestellte
+Experiment
+schütteln
+Bemühung
+stattfinden
+ausstehen
+Grammatik
+vertraut
+Konferenz
+Tal
+erleiden
+Verdacht
+vermag
+zusammenarbeiten
+Berg|Bergen
+beeinflussen
+Ernst
+Bedürfnis
+entspannen
+Dr.
+Meile
+Flagge
+erstaunlich
+Zuhause
+gewaltig
+Revolution
+Komma
+erforderlich
+genügend
+Geschirr
+leiten
+erschaffen
+beliebt
+Wahnsinn
+hinauf
+vornehmen
+beurteilen
+offiziell
+hinunter
+Okay
+Last
+ausprobieren
+beruhen
+Katastrophe
+loswerden
+Vorurteil
+Stirn
+Atmosphäre
+decken
+Großeltern
+zusehen
+da.
+Ente
+Pona
+Dusche
+Anzahl
+verdanken
+Niederlage
+Willkommen
+ausbrechen
+Gruß
+darstellen
+romantisch
+historisch
+zugleich
+sämtlich
+Ganze
+Experte
+Wurzel
+Vergiss
+reif
+anwesend
+Ausgabe
+Heirat
+produzieren
+Unsinn
+Abstand
+erlernen
+gegenwärtig
+sei
+dar
+Botschaft
+Rate
+Wiese
+Objekt
+Stand
+auswählen
+Pistole
+Küste
+erzeugen
+Jesus
+feucht
+erwachen
+sowie
+Sitz
+Bibel
+gründlich
+möglichst
+wahnsinnig
+Parlament
+Kätzchen
+beteiligen
+befehlen
+He
+schnappen
+frieren
+Brand
+befürchten
+Gas
+zumuten
+pfeifen
+Prinzip
+Drach
+verleihen
+Übersetzer
+Droge
+Aufsatz
+Juli
+außergewöhnlich
+Jim
+großzügig
+reservieren
+Alptraum
+Schublade
+Vorfall
+unerwartet
+Fuji
+Ampel
+Material
+nebenan
+Eintrittskarte
+schmelzen
+anhören
+U
+erblicken
+aussetzen
+Hütte
+verachten
+Achtung
+naiv
+Bach
+Amt
+übersehen
+verdammt
+Kugel
+Anstrengung
+religiös
+Kater
+Engländer
+abreisen
+Mache
+Abwesenheit
+März
+Vorwurf
+aushalten
+Hafen
+Leiche
+senken
+siegen
+ausreichend
+Rechtsanwalt
+verpflichten
+anstatt
+null
+weltweit
+verabschieden
+Dunkeln
+Aussprache
+sowieso
+dreizehn
+Chicago
+blasen
+Lektion
+Virus
+glatt
+Entschluß
+irgendwohin
+Sterben
+Brett
+bedarf
+Mörder
+männlich
+Shirt
+Jahreszeit
+Hundert
+vergiß
+erfreut
+ereignen
+Jäger
+flüstern
+Vortrag
+Handeln
+winzig
+unerträglich
+Stolz
+hinzufügen
+Wecker
+Ingenieur
+hinlegen
+sonntags
+trocknen
+zunehmen
+Angriff
+Ratte
+Spitze
+üblich
+namens
+Diamant
+roh
+beachten
+Operation
+Anweisung
+Notiz
+Hexe
+erteilen
+18
+Kleinigkeit
+regen
+schnarchen
+Tafel
+arbeitslos
+Verkehrsunfall
+hindern
+Moskau
+Grundlage
+August
+weiblich
+Existenz
+Fußboden
+verlegen
+Untersuchung
+Eisen
+organisieren
+Lehre
+Arsch
+Illusion
+Konflikt
+Leser
+herauskommen
+besetzen
+Wettbewerb
+Geige
+leeren
+Lastwagen
+zerreißen
+schlicht
+Rotwein
+Donnerstag
+300
+Handlung
+Kellner
+hauptsächlich
+Mike
+Zeuge
+Sandwich
+Großbritannien
+Pfund
+gewohnt
+versorgen
+see.
+aktuell
+anschließen
+Entfernung
+Karriere
+gutgehen
+Ticket
+Zusammenhang
+Bezug
+Persönlichkeit
+Sängerin
+Ski
+überein
+Benehmen
+tauschen
+Seil
+errichten
+Ausrede
+Besprechung
+Rennen
+Blüte
+daheim
+Versammlung
+Anfänger
+Abenteuer
+Ruhestand
+Sendung
+Speise
+voneinander
+betreiben
+Verb
+Überzeugung
+Tiefe
+Schwarz
+Korb
+Geldbeutel
+Ja.
+widerstehen
+Handtasche
+Bushaltestelle
+Besitzer
+Original
+Vase
+gänzlich
+Stiefel
+Bühne
+aufgehen
+Fahrzeug
+anlegen
+Berliner
+Erziehung
+Aufenthalt
+verabscheiden
+verloren
+Datei
+Öl
+Dutzend
+ausländisch
+US
+vergeblich
+pflücken
+ertrinken
+Gegensatz
+Panik
+garantieren
+optimistisch
+Jahrzehnt
+dumme
+heulen
+traditionell
+T-
+Ägypten
+außerdem
+40
+olympisch
+fett
+Sonnensystem
+diejenige
+Flucht
+wandeln
+Polen
+Einzelheit
+anständig
+Funktion
+Kyoto
+Symbol
+Eimer
+Mütze
+Groß
+Runde
+Klang
+prüfen
+verwirklichen
+stoppen
+übrigens
+verzweifelt
+Haustier
+Element
+Oder
+Ast
+Tradition
+tödlich
+Technik
+bunt
+Rot
+Verfassung
+Beitrag
+Warnung
+Faust
+A
+Nest
+sichtbar
+heran
+Türkei
+sonderlich
+derart
+Roboter
+untergehen
+Tokyo
+trösten
+Eins
+Geschwindigkeit
+Diät
+Mehl
+fünft
+gestorben
+Kompliment
+Italiener
+Zentrum
+Faß
+Schande
+Feiertag
+offenbar
+Leib
+Jackson
+Leiden
+Papst
+Stich
+logisch
+servieren
+September
+irgendjemand
+Februar
+allerdings
+mehrmals
+Studentin
+kratzen
+Unterhaltung
+Verkauf
+spülen
+vorüber
+verteilen
+verdammen
+Unschuld
+Mathe
+biegen
+Nachname
+rausgehen
+Felsen
+Gift
+Waschmaschine
+Ankunft
+Kapitel
+Fach
+Saft
+Pech
+verkleiden
+befassen
+wesentlich
+wegwerfen
+Heilige
+woanders
+worin
+Konto
+ernten
+Streich
+Neid
+negativ
+Erfindung
+Parkplatz
+Geschlecht
+graben
+ursprünglich
+Alphabet
+Pommes
+momentan
+Verstehen
+aufheben
+Masse
+körperlich
+erziehen
+Französischlehrer
+Rima
+denk
+vorgestern
+Ziege
+Batterie
+Werbung
+Hammer
+Typ|Type|Typus
+Arabisch
+läuten
+schief
+aufessen
+zurecht
+besteigen
+Umgang
+elektrisch
+passend
+Topf
+durstig
+Maßnahme
+Instrument
+Schmidt
+Streß
+Partner
+Güte
+Paßwort
+Dezember
+Nachtisch
+Einkommen
+Gefangene
+C
+gratulieren
+Ruhm
+Jupiter
+Benzin
+ausschließen
+Laster
+Erkenntnis
+Moschee
+Marika
+braten
+Schlacht
+Russe
+schwul
+Mitleid
+Hilf
+Kopie
+Sekretärin
+Vegetarier
+Klassenkamerad
+Wiedersehen
+gutaussehend
+Vorhaben
+entsprechend
+römisch
+Spur|Spuren
+kontaktieren
+böse
+pleite
+übertragen
+Zeitlang
+6
+Kommunikation
+ruinieren
+Liter
+Logik
+Sonnenuntergang
+hinterher
+Schlafen
+kürzlich
+Umwelt
+Gabel
+Ehrlichkeit
+Gewehr
+abhängig
+Versteck
+beunruhigen
+Sonnenbrille
+tapfer
+stolpern
+Wal
+eindeutig
+Prozeß
+verwirren
+nachmittag
+November
+Finnland
+Tanz
+ungeduldig
+Klappe
+Organisation
+endgültig
+wirtschaftlich
+Klimaanlage
+schleichen
+Cousine
+rosa
+Mittwoch
+Zelt
+Enttäuschung
+befördern
+de
+Abwasch
+Lob
+Kanadierin
+trainieren
+verfassen
+fortgehen
+Kissen
+daneben
+Sehnsucht
+vernehmen
+Sommerferien
+Kreditkarte
+lateinisch
+überraschend
+einzigartig
+dreckig
+nirgendwo
+kaputtmachen
+Chinese
+Denke
+Zeile
+Rache
+Besucher
+Enkel
+anfassen
+Praxis
+Forschung
+viert
+Ursprung
+Sessel
+überfahren
+Angesicht
+zünden
+versammeln
+beschädigen
+schreiten
+verfallen
+erlangen
+kriechen
+reinigen
+dauernd
+erbauen
+beständig
+überaus
+25
+Fotoapparat
+Missverständnis
+Feigling
+sonnig
+bewerben
+Einwohner
+durchschnittlich
+Adler
+Wärme
+verschlafen
+Zwiebel|Zwiebeln
+platzen
+Nachbarin
+Ameise
+streben
+arabisch
+gemütlich
+cool
+Rucksack
+ungerecht
+Schalte
+Christ
+Gespenst
+Helm
+Schweden
+Tüte
+Verbrecher
+Verletzung
+Autobahn
+Priester
+weichen
+Kandidat
+Widerstand
+Birne
+allergisch
+einsetzen
+vergeuden
+unterschätzen
+e-
+Sprichwort
+Entdeckung
+zurückrufen
+David
+°
+ideal
+blond
+Englische
+Grund|Gründen
+Eingang
+Werd
+bar
+unheimlich
+Minister
+bedeutend
+Jude
+anstrengend
+kräftig
+Schwimmbecken
+Behandlung
+Heimweg
+schweigend
+Gebet
+Fantasie
+Drittel
+zurzeit
+Scheidung
+vorhanden
+Teil|Teilen
+achtzehn
+Melodie
+Tablette
+Lehrbuch
+Erwägung
+belegen
+technisch
+Badewanne
+Spur
+Stufe
+losgehen
+verspüren
+Tanzen
+Zorn
+Verkäufer
+Einstellung
+Versuchung
+7
+aufstellen
+Balkon
+nähen
+innen
+Schildkröte
+breiten
+Ernte
+stur
+Zwerg
+faszinieren
+Kamel
+Optimist
+talentiert
+solch
+Taschentuch
+de?
+Hawaii
+Einsatz
+Neugier
+Innenstadt
+sympathisch
+Papagei
+20
+erstaunt
+durchführen
+aufschreiben
+Bauernhof
+erzielen
+Sonnenschein
+wischen
+Bombe
+Eiche
+Hintern
+vergiften
+aufbauen
+Europäer
+Widerspruch
+Dialekt
+Hansen
+Jack
+auffordern
+beugen
+Säugetier
+Unwissenheit
+vertiefen
+genial
+weglaufen
+unzufrieden
+Position
+automatisch
+Forderung
+Hinsicht
+Anlaß
+außen
+jeglicher
+strecken
+strahlen
+Maul
+Gans
+fahren|führen
+zumachen
+Vaterland
+elegant
+bezaubernd
+heim
+zurücktreten
+anpassen
+riskieren
+Akt
+Füller
+hinfügen
+blass
+Versehen
+ablegen
+Haltestelle
+Zelle
+wohlhabend
+Schal
+erröten
+streicheln
+Brötchen
+einig
+Flur
+mähen
+vorig
+gebrochen
+Picknick
+fischen
+Schere
+Laufen
+missverstehen
+sinnlos
+Standpunkt
+reduzieren
+Trick
+Posten
+ausnutzen
+gelaunt
+Kette
+illegal
+Oberfläche
+Dumme
+göttlich
+umgekehrt
+Wilhelm
+komplex
+Skandal
+Braut
+Scheiße
+unterzeichnen
+Taifun
+Osaka
+Maler
+benennen
+Vorsitzende
+operieren
+aussteigen
+spätestens
+reichlich
+Betrieb
+kulturell
+Moral
+Schülerin
+relativ
+zusätzlich
+schmücken
+Islam
+vernichten
+entscheidend
+Reisende
+hüten
+Länge
+Erfüllung
+stricken
+einholen
+Millionär
+Zugang
+montags
+Linda
+Bäcker
+Gehör
+linker
+Statue
+abbiegen
+zunehmend
+opfern
+hör
+Zivilisation
+schockiert
+kreativ
+aggressiv
+fördern
+ehemalig
+mitmachen
+dummen
+Astronaut
+Entschuldige
+jedesmal
+berechnen
+Beschwerde
+Vorlesung
+ebenfalls
+George
+ersparen
+Freundlichkeit
+Hinweis
+Mexiko
+verschlossen
+Voraus
+12
+Henne
+urteilen
+Vorname
+Chaos
+B
+kostbar
+Szene
+Oper
+nicken
+Liebling
+Fahne
+aufbewahren
+quälen
+Google
+Eule
+Glückwunsch
+verabscheuen
+Passagier
+übertreffen
+imstande
+jahrelang
+Zeitverschwendung
+Bücherei
+Grün
+Zitrone
+ausdenken
+Kurz
+gestehen|stehen
+Gesichtsausdruck
+Diener
+giftig
+Brauch
+Vorfahr|Vorfahren
+Sonnenlicht
+auftauchen
+Sitte
+verschaffen
+Basketball
+erraten
+Kongreß
+Schrecken
+schweben
+blöde
+‘
+Ideal
+Fräulein
+Sex
+Lebewesen
+hinsetzen
+Kern
+abschaffen
+äußer
+Schweizer
+verloben
+fürchterlich
+Robert
+Erbe
+segeln
+Schrift
+begabt
+Innere
+Wurst
+demokratisch
+Kreuz
+impfen
+Geliebte
+Elend
+ausschließlich
+sonderbar
+Website
+zweifellos
+Physik
+leidenschaftlich
+privat
+60
+Kilogramm
+Autounfall
+Reparatur
+Jeans
+Handschrift
+vorlesen
+gelegentlich
+Zweig
+Umschlag
+Tätigkeit
+spannen
+Gestalt
+Tropfen
+vertreten
+Pfeil
+Liebhaber
+faszinierend
+Stamm
+Beleidigung
+Norwegen
+Abgrund
+Erzählen
+Partie
+hochöchst
+Segen
+Hatten
+eifrig
+Mittelalter
+behilflich
+dulden
+ablenken
+lenken
+sechzig
+zurückgehen
+Spaghetti
+umsetzen
+Kasse
+nutzlos
+aufhängen
+auslachen
+Palast
+Straßenseite
+Fahrstuhl
+Bar
+Nachteil
+bezüglich
+auftreten
+Welpe
+Saal
+Lebensunterhalt
+wörtlich
+soeben
+wahrnehmen
+zulegen
+Begeisterung
+schimpfen
+Reaktion
+Coronavirus
+medizinisch
+bügeln
+unnötig
+Redner
+grob
+schmeißen
+16
+Ausgang
+bedenken
+Fall|Fällen
+erschlagen
+8
+segnen
+bluten
+Schein
+fürs
+einhalten
+aufregen
+Erzählung
+durchfallen
+Suchen
+Bekannte
+Annahme
+Verzweiflung
+moralisch
+anerkennen
+gestalten
+kanadisch
+darunter
+säen
+Premierminister
+verbrauchen
+Friseur
+offnen
+Schlips
+nachmittags
+misstrauisch
+Kummer
+zuverlässig
+Rente
+außerordentlich
+angemessen
+arrogant
+Vorbereitung
+hilfreich
+überschreiten
+beraten
+Zentimeter
+rauben
+Klimawandel
+taugen
+dringen
+Trost
+gesellschaftlich
+selbständig
+deuten
+Dauer
+Frau?
+Strategie
+Kontinent
+Gewitter
+Glocke
+insgesamt
+Silber
+Metall
+verhungern
+sozusagen
+betonen
+schälen
+Schale
+umso
+Schock
+Kindergarten
+zukünftig
+14
+rücken
+Kuss
+joggen
+Dachboden
+Reisepass
+Bleib
+rollen
+Ärmel
+beitragen
+Rind
+Wohlstand
+Kranke
+Alltag
+Heimweh
+Führer
+aufbringen
+bewältigen
+ausreden
+Gutum
+locken
+Portugiesisch
+Wußt
+Verdächtige
+hinweg
+drängen
+Verein
+Sprecher
+bemerkenswert
+Lies
+ausrichten
+Uniform
+heiter
+Explosion
+liegenlassen
+Römer
+Schlecht
+grundlegend
+portugiesisch
+einrichten
+200
+speziell
+nahezu
+Zuhörer
+Sag
+abbrechen
+aufsuchen
+erregen
+wegnehmen
+Johann
+Israel
+Nuß
+Gabe
+wundervoll
+Orangensaft
+zustoßen
+Pilot
+südlich
+verfügbar
+Clown
+Apfelsine
+verstorben
+schmal
+spannend
+Kohle
+Hindernis
+rutschen
+Halten
+Fleck
+wärmen
+hoffnungslos
+wehtun
+nochmals
+eh
+verkünden
+einschlagen
+Höflichkeit
+Haufen
+jedenfalls
+verschließen
+Phänomen
+Strecke
+ohnmächtig
+19
+Alternative
+500
+Hamburger
+schlank
+verkehren
+Karton
+wessen
+zelten
+unmittelbar
+fertigstellen
+eintreffen
+Fleiß
+Peking
+Lerne
+ausgesprochen
+Abendbrot
+Bettler
+Seife
+protestieren
+Zuschauer
+Schmuck
+Klausur
+so?
+vergebens
+verärgern
+Taschenlampe
+Täter
+bersuchen
+einlassen
+katholisch
+Niveau
+Asche
+festhalten
+abschneiden
+unsichtbar
+geschlossen
+Singen
+Flut
+Stau
+Ausflug
+Neigung
+Beerdigung
+Resultat
+meiden
+anvertrauen
+Wette
+dreihundert
+regeln
+Grundsatz
+obgleich
+erobern
+Ausbildung
+Nachdenken
+Schön
+vorhersagen
+hinausgehen
+plus
+Käfig
+besichtigen
+mild
+vierzehn
+Notfall
+Einbrecher
+Sitzplatz
+winken
+fortsetzen
+Wichtige
+Monster
+beseitigen
+Schluck
+wirksam
+versäumen
+Fledermaus
+formulieren
+Quatsch
+Fell
+abwarten
+zueinander
+Ritter
+lebhaft
+Narbe
+Nahrungsmittel
+München
+Frag
+Postkarte
+glücklicherweise
+Blau
+9
+höchstens
+verschlingen
+flüchten
+Fang
+fantastisch
+explodieren
+kritisch
+Verwendung
+einpacken
+Schottland
+Mark
+Schnecke
+Einstein
+Dänemark
+Krokodil
+hineingehen
+Tastatur
+hindurch
+Fangen
+polnisch
+Zusammenarbeit
+Vorschrift
+Notizbuch
+durchmachen
+wisen
+Apfelbaum
+witzig
+Läufer
+aufziehen
+Gleichgewicht
+definieren
+Findet
+einsteigen
+17
+Sprechen
+flach
+wiedererkennen
+Schraube
+Autoschlüssel
+Burg
+versehentlich
+Etage
+einmischen
+begrenzen
+Verabredung
+jedermann
+Schüssel
+umher
+albern
+Bargeld
+Michael
+ohnehin
+verschweigen
+Forscher
+Weltraum
+Brieftasche
+leugnen
+Fan
+Sieger
+Oh
+Briefkasten
+Shakespeare
+zehntausend
+Modell
+Stadtzentrum
+Apotheke
+kommunizieren
+unsicher
+CD
+Grundstück
+Leg
+Tanaka
+Manager
+emotional
+Diebstahl
+kleben
+Republik
+ersticken
+erwecken
+abstellen
+Sauerstoff
+Ausweg
+töricht
+Auftrag
+unterlassen
+sinnvoll
+schiefgehen
+sprachlich
+Zauberer
+letztendlich
+Auswirkung
+Scheck
+Tony
+Direktor
+aufregend
+Stehen
+ausfüllen
+Lager
+Zeh
+einlegen
+beträchtlich
+unterdrücken
+Rückkehr
+zart
+flüssig
+Hintergrund
+Zigarre
+Gemeinschaft
+Behauptung
+Ochse
+entsetzlich
+Scheitern
+Tinte
+Bogen
+angeben
+Fee
+Außerirdischer
+vielmehr
+befragen
+Gesang
+vorhin
+niedlich
+verehren
+Eifersucht
+zurücklassen
+anzünden
+Architekt
+Grieche
+einschalten
+Handel
+durcheinander
+Feuerwehr
+mittels
+Daumen
+keineswegs
+besagen
+beliebig
+zweihundert
+schädlich
+Flüchtling
+Wohl
+Dumm
+anrichten
+Venus
+Gebirge
+Anerkennung
+Begabung
+abwaschen
+anschreien
+hegen
+Poker
+Frost
+Chemie
+Wurm
+nachher
+Schwiegermutter
+Bohne
+Teig
+wimmeln
+Tom.
+Lisa
+Kugelschreiber
+gönnen
+Pfad
+einziehen
+Miene
+Neffe
+verlängern
+Ex
+Kolumbus
+abreißen
+Frisur
+Perle
+auseinander
+Jungfrau
+Nachts
+verknallen
+achtzig
+örtlich
+reizen
+drum
+erfassen
+Übersetzen
+Tragen
+Poesie
+Behörde
+Angeklagter
+Langeweile
+bergessen
+Regenbogen
+Selbstvertrauen
+Königreich
+glänzen
+Streichholz
+Wien
+Erlebnis
+abschicken
+einigen
+Einbruch
+Weizen
+umfassen
+Notwendigkeit
+Krone
+Fachmann
+währen
+wider
+Dorn
+LKW
+Kyōto
+Bewohner
+Zitat
+Cola
+Version
+ungern
+Mittelpunkt
+General
+reizend
+grundsätzlich
+ausgerechnet
+Nickerchen
+bekämpfen
+Gymnasium
+Schließen
+Klage
+Äußerung
+verletzt
+Washington
+Sonnenaufgang
+Einkauf
+westlich
+umgehend
+Pfeffer
+Spinat
+Halloween
+berücksichtigen
+erben
+Vulkan
+geradezu
+Postamt
+mittler
+mangeln
+Schlimm
+sichern
+Probe
+Faulheit
+Betracht
+herab
+Anwesenheit
+überzeugend
+versinken
+Dreck
+besoffen
+Einheit
+gestrig
+türkisch
+Konsequenz
+fade
+Griff
+fällen
+nähren
+Hai
+habe'n
+verrichten
+entführen
+belästigen
+endlos
+vorn
+tätig

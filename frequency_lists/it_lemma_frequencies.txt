@@ -1,3999 +1,3999 @@
-.	717390
-il	468367
-essere	335303
-?	211658
-a	205941
-di	204055
-avere	190284
-non	183232
-in	146514
-uno	130857
-che	118063
-Tom	103062
-andare	101731
-,	72098
-per	62775
-fare	59210
-mi	48943
-io	45838
-questo	43411
-volere	41286
-suo	40829
-costruire	40654
-lo	40604
-dire	39834
-si	38213
-da	36306
-e	35482
-mio	33746
-potere	33445
-Mary	33312
-con	33103
-stare	31250
-!	30521
-dovere	29167
-ci	29041
-molto	24613
-lui	23242
-lei	23155
-tutto	22054
-pensare	21950
-piacere	21330
-sapere	20917
-cosa	20590
-loro	19802
-quello	19699
-più	19167
-perché	18689
-la	18623
-vedere	18168
-come	16630
-tuo	15264
-vero	15180
-dove	15152
-parlare	14449
-nazionalità	14448
-ti	14385
-su	13954
-mai	13583
-casa	13543
-me	13507
-le	13049
-noi	12632
-venire	12611
-voi	12437
-se	12238
-tu	11616
-ancora	10960
-solo	10768
-vi	10648
-così	10564
-mangiare	10549
-qui	10539
-vostro	10495
-amico	10417
-dare	10309
-qualcosa	10072
-prendere	9540
-Tom.	9421
-ora	9303
-aiutare	9180
-quando	9064
-sembrare	8907
-nostro	8691
-lavoro	8653
-riuscire	8610
-trovare	8606
-sentire	8482
-chi	8431
-ma	8305
-comprare	8203
-altro	8098
-libro	8019
-poco	7998
-ne	7967
-cercare	7832
-sempre	7739
-chiedere	7429
-bene	7083
-lavorare	6905
-quanto	6887
-li	6852
-conoscere	6817
-nuovo	6804
-anno	6778
-scuola	6755
-lasciare	6739
-tempo	6538
-chiamare	6516
-amare	6502
-oggi	6429
-troppo	6421
-studiare	6396
-bisogno	6124
-gli	6048
-te	5973
-giorno	5948
-is	5942
-volta	5826
-Boston	5799
-leggere	5655
-anche	5611
-soldo	5573
-persona	5556
-francese	5531
-aspettare	5514
-portare	5424
-buono	5393
-imparare	5343
-guardare	5321
-due	5306
-nessuno	5305
-cane	5152
-vivere	5145
-scrivere	5081
-adesso	5063
-perdere	5057
-qualcuno	4949
-Sami	4910
-insegnare	4864
-già	4856
-davvero	4856
-arrivare	4850
-ogni	4816
-bello	4783
-mettere	4776
-o	4773
-niente	4764
-provare	4624
-domani	4586
-i	4513
-vita	4459
-vacanza	4447
-grande	4427
-ragazzo	4390
-bere	4359
-credere	4341
-sicuro	4284
-favore	4235
-problema	4170
-prima	4154
-morire	4072
-giocare	4019
-insegnante	4018
-felice	3976
-figlio	3974
-tre	3939
-finire	3904
-senza	3900
-ieri	3890
-odiare	3858
-stesso	3851
-macchina	3835
-uomo	3792
-meglio	3732
-tornare	3671
-parte	3566
-Australia	3545
-settimana	3539
-bambino	3507
-veramente	3434
-cui	3404
-qua	3386
-nu	3366
-visitare	3351
-capire	3336
-male	3312
-rimanere	3292
-passare	3273
-qualche	3237
-lì	3230
-vicino	3222
-diventare	3187
-migliore	3162
-tanto	3161
-spesso	3158
-padre	3128
-lingua	3126
-studente	3114
-ciò	3095
-prossimo	3054
-fratello	3047
-acqua	3047
-primo	3034
-strada	3001
-succedere	2982
-dopo	2949
-alcuno	2949
-parola	2931
-proprio	2922
-inglese	2903
-iniziare	2900
-madre	2896
-biblioteca	2895
-dormire	2874
-sperare	2868
-cambiare	2824
-presto	2807
-paura	2785
-servire	2784
-uscire	2744
-usare	2730
-ristorante	2723
-città	2708
-pagare	2704
-quale	2692
-caffè	2687
-festa	2687
-cominciare	2660
-mano	2642
-pronto	2639
-uccidere	2624
-sorella	2619
-frase	2600
-aprire	2584
-ascoltare	2553
-tra	2551
-bravo	2545
-donna	2523
-idea	2501
-viaggio	2498
-sposare	2496
-fuori	2488
-passaporto	2477
-gatto	2475
-appena	2473
-ricordare	2459
-lettera	2459
-stanza	2458
-domanda	2446
-modo	2442
-preparare	2433
-vincere	2430
-Irlanda	2430
-suonare	2416
-negozio	2397
-dimenticare	2393
-nome	2392
-incontrare	2360
-piano	2341
-Ziri	2339
-stanco	2323
-scorso	2312
-tenere	2285
-difficile	2280
-smettere	2254
-amore	2253
-ospedale	2247
-computer	2246
-mondo	2245
-moschea	2232
-notte	2227
-genitore	2227
-chiave	2224
-vecchio	2215
-letto	2211
-professore	2206
-posto	2171
-Qual	2165
-cantare	2159
-occupare	2155
-impegnare	2148
-momento	2147
-cibo	2143
-auto	2135
-errore	2125
-restare	2124
-Giappone	2121
-Italia	2116
-decidere	2115
-denaro	2092
-sera	2078
-vino	2072
-lungo	2072
-continuare	2070
-chiudere	2068
-durante	2065
-partire	2062
-banca	2062
-storia	2050
-università	2050
-famiglia	2017
-edificio	2015
-ragione	2003
-treno	1991
-quasi	1982
-affare	1971
-moglie	1971
-utilizzare	1966
-preferito	1961
-entrare	1945
-però	1941
-piccolo	1940
-fermare	1930
-film	1919
-giovane	1912
-ponte	1911
-rispondere	1909
-fino	1905
-forse	1900
-mese	1894
-importante	1889
-alto	1885
-zio	1883
-abitare	1883
-preoccupare	1882
-aiuto	1881
-porta	1875
-paese	1872
-mancare	1861
-nuotare	1846
-amicizia	1843
-musica	1836
-Germania	1835
-abbastanza	1829
-piuttosto	1811
-preferire	1810
-automobile	1810
-lavare	1795
-Francia	1792
-giusto	1786
-base	1780
-vendere	1766
-telefono	1764
-rendere	1744
-capitare	1743
-gente	1740
-birra	1735
-occhio	1734
-Natale	1716
-via	1709
-fiore	1686
-tardi	1681
-palestra	1669
-guidare	1665
-grado	1661
-ultimo	1657
-nascondere	1655
-nonno	1653
-verità	1650
-fine	1641
-indossare	1633
-lunedì	1624
-Uniti	1620
-fabbrica	1617
-Stati	1612
-unico	1607
-finestra	1603
-diverso	1597
-fidare	1592
-fattoria	1582
-grazie	1574
-ritardo	1565
-soltanto	1560
-sedere	1553
-carriera	1553
-spiegare	1544
-dispiacere	1537
-militare	1529
-piangere	1528
-secondo	1527
-Ucraina	1526
-forte	1524
-cugino	1524
-seguire	1523
-prenotare	1522
-Cina	1520
-mela	1510
-mattina	1507
-autostrada	1492
-ecco	1491
-Layla	1490
-latte	1488
-Russia	1483
-stasera	1478
-italiano	1476
-albero	1476
-solamente	1470
-rompere	1466
-birreria	1464
-pane	1462
-scusare	1461
-grattacielo	1458
-tipo	1457
-Argentina	1457
-baracca	1456
-ricevere	1455
-cena	1452
-Spagna	1451
-templio	1450
-sinagoga	1449
-mattatoio	1449
-cimitere	1447
-meno	1446
-intenzione	1445
-allevamento	1445
-ce	1443
-pizza	1443
-mausoleo	1441
-ricco	1440
-arene	1440
-dottore	1434
-risposta	1425
-alzare	1423
-camera	1420
-no	1416
-Inghilterra	1410
-freddo	1405
-esame	1405
-sotto	1404
-Canada	1403
-vestito	1393
-fra	1390
-bisognare	1386
-foto	1386
-permettere	1372
-cos'	1368
-studio	1368
-gioco	1364
-piede	1361
-mandare	1361
-esperanto	1359
-canzone	1350
-tè	1348
-facile	1346
-entrambi	1346
-Tatoeba	1342
-accordo	1339
-bastare	1337
-salute	1324
-Brasile	1317
-Grecia	1313
-accettare	1307
-Marie	1306
-stupido	1302
-mentre	1301
-probabilmente	1301
-autobus	1300
-riguardo	1297
-divertire	1289
-minuto	1289
-rosso	1284
-Egitto	1283
-carne	1282
-caldo	1282
-regalo	1282
-correre	1278
-invitare	1269
-compito	1265
-scegliere	1262
-sì	1261
-Messico	1260
-Svezia	1258
-libero	1253
-caso	1252
-poi	1252
-fa	1249
-Portogallo	1248
-ridere	1242
-Turchia	1242
-testa	1240
-nascere	1239
-capello	1236
-pieno	1233
-Romania	1232
-Siria	1232
-Albania	1231
-mostrare	1228
-scarpa	1225
-Finlandia	1222
-ufficio	1220
-giornata	1219
-attenzione	1217
-tradurre	1216
-Bulgaria	1216
-là	1214
-Nuova	1213
-Marocco	1212
-scatola	1211
-Libano	1210
-Bielorussia	1208
-Libia	1206
-paziente	1204
-Scozia	1203
-rubare	1200
-Zelanda	1200
-Arabia	1200
-India	1199
-colore	1198
-Saudita	1196
-Sudafrica	1194
-mezzo	1193
-Austria	1193
-malato	1190
-arrabbiare	1190
-Malta	1188
-funzionare	1184
-possibile	1183
-Cipro	1182
-Vietnam	1180
-contro	1178
-notizia	1177
-Islanda	1177
-sole	1176
-uovo	1175
-Belgio	1175
-Norvegia	1174
-Nigeria	1170
-Estonia	1169
-cadere	1166
-Lituania	1164
-allora	1163
-arrabbiato	1160
-strano	1159
-conoscenza	1159
-Lettonia	1159
-Danimarca	1155
-cucina	1152
-fumare	1151
-Uruguay	1147
-quindi	1145
-Galles	1145
-Olanda	1142
-Paraguay	1141
-:	1139
-baciare	1139
-promettere	1136
-Etiopia	1134
-stadio	1132
-certo	1131
-dentro	1126
-Yanni	1123
-John	1120
-cucinare	1120
-triste	1119
-animale	1116
-fame	1112
-brutto	1112
-dieci	1110
-camminare	1109
-signore	1106
-divertente	1104
-serio	1099
-crescere	1089
-pesce	1085
-tavolo	1083
-Cile	1083
-cavallo	1080
-tennis	1077
-berbero	1077
-interessante	1074
-numero	1072
-guerra	1072
-preoccupato	1071
-bianco	1068
-lezione	1068
-trascorrere	1067
-ordinare	1066
-salvare	1059
-lontano	1057
-svegliare	1056
-pranzo	1056
-sorprendere	1052
-mentire	1051
-Niger	1050
-giapponese	1041
-punto	1040
-Regno	1040
-Unito	1038
-Somalia	1036
-colazione	1029
-cinque	1024
-cuore	1018
-Pakistan	1017
-ammettere	1013
-togliere	1010
-insieme	999
-controllare	997
-genere	994
-aggiungere	989
-vivo	985
-estate	983
-innamorare	983
-solito	979
-assieme	979
-nemmeno	975
-Uganda	975
-sbagliare	974
-carta	973
-parco	970
-scoprire	965
-importare	961
-piatto	961
-sogno	959
-esistere	955
-toccare	955
-polizia	951
-prezzo	950
-Bangladesh	948
-segreto	944
-creare	944
-scordare	944
-riparare	941
-semplicemente	940
-squadra	940
-riconoscere	929
-morte	927
-viaggiare	925
-calcio	924
-fortunato	922
-tedesco	920
-piovere	917
-voce	914
-pomeriggio	913
-stazione	910
-mare	907
-realtà	906
-incidente	904
-voglia	903
-proteggere	901
-situazione	896
-te.	894
-orgoglioso	893
-rifiutare	892
-senso	891
-perfetto	891
-marito	891
-nero	888
-intelligente	888
-luce	887
-risolvere	886
-verso	886
-dizionario	886
-riunione	884
--	883
-ritornare	883
-domenica	882
-consiglio	881
-bottiglia	880
-considerare	879
-affamato	873
-veloce	870
-messaggio	866
-giardino	865
-qualsiasi	863
-chitarra	859
-ombrello	854
-concerto	853
-maggiore	847
-borsa	846
-aperto	840
-ballare	839
-aereo	839
-convincere	837
-raggiungere	831
-età	829
-anziano	827
-torta	826
-raccontare	825
-opinione	824
-dietro	824
-tagliare	824
-offrire	821
-interessato	819
-completamente	816
-biglietto	816
-;	815
-evitare	813
-costare	812
-successo	812
-stato	809
-interessare	808
-impiego	806
-nervoso	804
-contare	802
-zoo	796
-Parigi	795
-informazione	795
-partita	795
-chiesa	791
-esattamente	790
-povero	787
-fiume	785
-sbagliato	785
-conto	784
-consigliare	782
-prestare	781
-occhiale	780
-ottenere	780
-mente	777
-causa	777
-famoso	774
-ferire	770
-faccia	769
-cattivo	769
-pubblico	768
-mamma	768
-gentile	768
-classe	766
-giro	763
-zucchero	763
-migliorare	762
-progetto	759
-apprezzare	759
-accendere	759
-geloso	759
-prestito	758
-spiaggia	758
-dollaro	755
-giornale	749
-colpa	745
-orologio	745
-sorpresa	744
-America	743
-ignorare	743
-Rima	743
-cappello	742
-quattro	741
-adorare	741
-decisione	739
-riso	739
-fatto	739
-compleanno	738
-mantenere	736
-almeno	735
-cinese	732
-ubriaco	732
-votare	729
-regola	726
-condividere	726
-sabato	725
-bicchiere	725
-finalmente	725
-coltello	724
-neanche	723
-fidanzato	723
-abbandonare	722
-necessario	717
-Dio	715
-umano	714
-gelato	713
-meritare	713
-esperienza	712
-rispetto	712
-assumere	712
-scelta	711
-pioggia	709
-appartamento	706
-carino	706
-presentare	705
-risultato	704
-duro	703
-futuro	700
-onesto	699
-Dan	696
-discutere	695
-pericoloso	694
-superare	694
-scrivania	694
-sparare	693
-legge	692
-immaginare	689
-ringraziare	689
-diritto	688
-licenziare	687
-sangue	677
-No	674
-arte	672
-immediatamente	671
-pregare	669
-trenta	668
-Halloween	667
-bagno	662
-Londra	662
-subito	659
-tirare	658
-arrestare	658
-gamba	657
-sia	657
-Nord.	657
-questione	654
-uccello	653
-vestire	652
-firmare	651
-lamentare	650
-nonna	650
-semplice	649
-costoso	649
-gruppo	648
-bicicletta	647
-pulito	647
-sorridere	646
-religione	646
-aspetto	646
-Internet	645
-colpire	643
-rapidamente	643
-cura	642
-penna	641
-straniero	640
-sopra	640
-pazzo	636
-richiedere	631
-aeroporto	630
-verde	629
-estero	626
-aria	625
-pure	625
-capo	624
-testo	622
-neve	620
-trasferire	619
-svago	617
-saltare	616
-sacco	616
-rapporto	614
-pezzo	614
-gatta	613
-matita	612
-canadese	608
-partecipare	608
-avanti	607
-davanti	606
-sé	605
-ve	605
-salire	604
-americano	604
-vista	604
-medico	604
-articolo	604
-indietro	603
-attraversare	600
-avvocato	598
-Sapete	597
-merce	597
-spagnolo	596
-romanzo	595
-comportare	595
-circa	595
-contento	594
-catturare	592
-russo	590
-luogo	587
-dente	586
-scendere	584
-terribile	584
-temere	583
-fuoco	581
-nulla	581
-commento	581
-intendere	580
-stamattina	580
-trattare	577
-terra	574
-chiaro	574
-comune	573
-abituare	573
-perdonare	573
-valere	572
-danzare	572
-azienda	569
-basso	568
-né	567
-accompagnare	567
-forza	566
-montagna	564
-matematica	562
-soffrire	562
-pulire	561
-moroso	561
-medicina	560
-blu	560
-Nord	558
-telefonare	557
-cielo	557
-rispettare	556
-dolore	554
-differenza	554
-braccio	553
-unire	552
-assolutamente	550
-esempio	550
-Europa	550
-corso	550
-velocemente	549
-tazza	549
-Maria	548
-dolce	548
-incolpare	548
-contrario	546
-Tokyo	546
-rumore	545
-nemico	545
-attraverso	544
-bici	542
-pranzare	542
-raccogliere	541
-pericolo	537
-servizio	534
-fotografia	534
-volare	533
-spaventare	533
-scacco	532
-mercato	530
-fissare	529
-affrontare	528
-tale	527
-sentimento	527
-fortuna	525
-sicuramente	523
-qualunque	523
-sedia	521
-peso	521
-Facebook	518
-poesia	517
-duramente	517
-dimostrare	515
-radio	515
-programma	515
-stanotte	515
-politico	515
-baseball	511
-correggere	510
-significare	509
-prigione	509
-traduzione	508
-fiero	505
-cinema	505
-desiderare	504
-ricerca	504
-comprendere	504
-bocca	503
-superiore	503
-inizio	501
-ottimo	501
-disturbare	500
-motivo	498
-corpo	498
-fotografico	497
-Fadil	496
-matrimonio	495
-sognare	494
-campo	494
-speranza	493
-muovere	490
-nave	490
-ammalare	489
-parere	488
-sonno	488
-commettere	486
-assicurare	485
-realizzare	485
-riposare	484
-Mennad	484
-ritorno	483
-accanto	482
-Roma	481
-appartenere	481
-grasso	481
-utile	480
-soluzione	480
-indirizzo	480
-vuoto	480
-torto	480
-televisione	478
-abbassare	477
-centro	477
-simile	476
-fretta	476
-negare	476
-parente	476
-sapore	475
-forma	474
-ordine	474
-curioso	474
-argomento	474
-organizzare	473
-pace	471
-impossibile	470
-silenzio	470
-speciale	470
-peggio	469
-girare	468
-Algeria	468
-doccia	467
-abito	467
-passo	466
-popolare	465
-albergo	465
-economico	465
-occasione	465
-sport	464
-possibilità	464
-invece	464
-orario	463
-pensiero	463
-pianoforte	462
-golf	462
-neppure	462
-scappare	461
-addormentare	461
-pasta	459
-battere	458
-sei	457
-lentamente	457
-dubbio	455
-giocatore	455
-suono	454
-sito	454
-urlare	454
-Corano	454
-coprire	453
-discorso	453
-sette	451
-hotel	451
-prova	451
-società	450
-naso	450
-fila	450
-natura	449
-inverno	447
-accusare	446
-sicurezza	446
-rovinare	446
-pescare	445
-biro	445
-abbracciare	445
-timido	444
-spazio	444
-raramente	443
-personale	443
-contatto	442
-avvertire	442
-accadere	441
-frutta	440
-passeggiata	439
-idiota	439
-odore	439
-soddisfare	438
-guaio	437
-pagina	437
-fresco	436
-Svizzera	435
-fiera	435
-normale	435
-estremamente	434
-deluso	434
-possedere	434
-formaggio	433
-causare	433
-sorriso	432
-taxi	431
-giù	430
-assomigliare	430
-osservare	430
-salutare	430
-obiettivo	429
-farmare	426
-ingannare	426
-spendere	425
-attaccare	425
-sistema	425
-offerta	424
-uso	424
-purtroppo	424
-rivedere	422
-malattia	422
-lanciare	422
-sporco	422
-solitamente	420
-appuntamento	419
-pistola	418
-fisico	415
-notare	414
-palla	414
-colpevole	414
-esprimere	413
-voto	410
-arabo	410
-libertà	409
-roba	409
-pena	409
-ormai	408
-grosso	406
-delizioso	406
-paio	406
-spegnere	405
-politica	405
-difendere	405
-mercoledì	405
-capace	404
-finché	403
-ripetere	402
-guadagnare	402
-spaventato	402
-supermercato	402
-tradire	402
-distruggere	401
-presidente	401
-pesante	400
-passato	399
-martedì	398
-dettaglio	398
-giovedì	398
-castello	397
-suggerire	397
-papà	396
-azione	396
-coraggio	396
-dito	396
-bloccare	396
-rischio	395
-caro	395
-durare	395
-col	395
-venti	394
-avvicinare	394
-difficoltà	393
-documento	393
-vento	393
-glielo	393
-combattere	392
-corsa	392
-breve	392
-infelice	392
-valigia	391
-finta	390
-video	390
-alunno	390
-scherzare	390
-impressionare	390
-fronte	389
-benvenuto	389
-intero	388
-camicia	388
-contratto	388
-passaggio	387
-Linda	387
-mentere	387
-infastidire	387
-recente	386
-New	385
-metà	385
-muro	384
-facilmente	384
-sopportare	383
-profondo	383
-presente	383
-portatile	383
-innocente	381
-litigare	380
-resto	380
-otto	380
-contattare	380
-ovviamente	380
-sandwich	380
-proposta	378
-cantante	378
-noioso	376
-disporre	376
-basket	376
-cellulare	376
-fallire	375
-comportamento	374
-saggio	374
-maiale	373
-Lascia	372
-memoria	372
-tv	372
-relazione	372
-cultura	372
-villaggio	371
-mucca	370
-prodotto	370
-esperto	370
-tranquillo	370
-pausa	370
-punire	369
-banana	368
-scusa	368
-smettelare	368
-ospite	367
-inutile	367
-cenare	366
-controllo	366
-adottare	366
-bellezza	366
-cambiamento	366
-Skura	366
-oro	365
-naturale	365
-membro	365
-riempire	364
-scala	362
-sbrigare	362
-promessa	362
-accorgere	362
-TV.	361
-fiducia	361
-nonostante	361
-locale	361
-buio	359
-annullare	359
-annoiare	359
-immagine	359
-intorno	358
-descrivere	358
-compagnia	357
-zia	357
-opera	356
-governo	355
-lago	354
-condizione	353
-serata	353
-pigro	353
-pianta	352
-ammirare	352
-pensione	352
-fuggire	352
-chiunque	351
-York	350
-gestire	350
-bruciare	349
-enorme	349
-arrendere	349
-artista	348
-serpente	348
-confuso	348
-interesse	347
-attore	346
-oh	346
-cappotto	346
-patata	346
-evento	345
-fianco	344
-debole	343
-volo	343
-sprecare	342
-oltre	342
-fornire	341
-cliente	340
-Ceca	339
-Marika	338
-valore	337
-antico	337
-lista	337
-epoca	337
-risparmiare	336
-informare	335
-cieco	335
-privato	334
-sale	334
-stella	333
-dipendere	333
-sopravvivere	333
-produrre	333
-contribuire	333
-zona	332
-richiamare	332
-Dimmi	331
-diretto	331
-beh	331
-guida	331
-comunque	331
-contenere	330
-meraviglioso	330
-weekend	330
-cazzo	330
-campagna	329
-pianeta	328
-ragno	328
-opportunità	328
-effetto	327
-candela	326
-parcheggiare	326
-termine	326
-seriamente	325
-Ken	324
-grave	323
-dirigere	323
-compagno	323
-strumento	323
-felicità	321
-rifare	321
-versare	320
-indicare	320
-pubblicare	320
-incontro	319
-lento	319
-interrompere	319
-sollevare	319
-prevedere	318
-deludere	317
-legno	316
-dato	316
-poliziotto	316
-rilassare	316
-alunne	316
-concentrare	315
-ridurre	315
-cravatta	315
-ditemere	315
-sostenere	315
-battuta	315
-garantire	315
-dottoresse	315
-spalla	314
-significato	314
-fondamentale	314
-pallacanestro	314
-pasto	313
-giallo	313
-couscous	313
-mordere	312
-sete	312
-barzelletta	312
-figlia	311
-luna	311
-pietra	311
-colpo	311
-arma	310
-prudente	310
-buttare	309
-festeggiare	309
-ladro	308
-periodo	308
-scienza	308
-zuppa	307
-istruzione	307
-peccato	306
-Kyoto	306
-qualità	306
-spingere	306
-minacciare	306
-spesa	305
-ottobre	305
-letteratura	305
-verdura	304
-attento	304
-gridare	304
-venerdì	304
-probabile	304
-segno	303
-importanza	303
-sociale	303
-tranne	303
-talento	303
-discussione	303
-raffreddore	303
-ok	303
-re	302
-coraggioso	302
-dessert	302
-corto	301
-conversazione	301
-fungo	301
-teoria	300
-pollo	300
-disponibile	300
-attività	299
-statunitense	299
-scomparire	298
-principale	298
-responsabile	298
-soldato	297
-spedire	296
-lacrima	296
-barca	296
-dipingere	296
-spiegazione	296
-nevicare	295
-inventare	295
-occupato	295
-orecchia	294
-falso	294
-riflettere	294
-nudo	294
-linguaggio	294
-dichiarare	294
-energia	293
-anticipo	293
-progresso	293
-disegnare	293
-piscina	293
-test	292
-primavera	292
-frutto	292
-rosa	292
-cuoco	292
-educazione	292
-fondo	292
-livello	292
-gioia	291
-oggetto	291
-avvisare	291
-ognuno	291
-completo	291
-barba	291
-bar	291
-processo	290
-pazienza	290
-disperato	290
-fantastico	289
-visita	289
-cento	289
-divenire	289
-museo	288
-spaghetto	288
-permesso	288
-orso	288
-peruviano	288
-hamburger	287
-assente	286
-sveglio	286
-spettacolo	286
-deserto	286
-corretto	286
-spostare	285
-interno	285
-rabbia	285
-abitudine	284
-virus	284
-maniera	282
-dividere	282
-perdita	282
-coinvolgere	282
-popolo	282
-suso	282
-richiesta	281
-aumentare	280
-chiamata	279
-ambiente	279
-musulmano	279
-copiare	279
-gusto	278
-rivista	278
-lottare	278
-anima	277
-trasformare	277
-restituire	277
-forno	277
-bugia	276
-vergognare	276
-minimo	276
-posizione	276
-cittadino	275
-latino	275
-quartiere	275
-nipote	275
-cancellare	275
-consegnare	275
-online	275
-inviare	274
-nove	274
-passeggiare	274
-cervello	274
-abbattere	274
-augurare	273
-Venerdì	272
-eccellente	270
-piantare	270
-positivo	270
-sabbia	269
-scambiare	268
-attivo	268
-lupo	268
-entro	267
-tizio	266
-insalata	266
-partito	266
-costo	265
-agire	265
-web	265
-giudicare	264
-distinguere	264
-picchiare	264
-divano	264
-pisolino	264
-fede	263
-capitale	262
-perfettamente	262
-emozione	262
-pratica	262
-disposto	262
-ghiaccio	261
-tempesta	261
-essenziale	261
-stagione	260
-dio	260
-dipinto	260
-cuocere	260
-miele	260
-offendere	260
-sfida	260
-udire	260
-isola	259
-scoppiare	259
-rivelare	259
-scopo	259
-copia	259
-emozionato	259
-allergico	259
-uguale	258
-tasca	258
-foresta	258
-posta	258
-costringere	258
-fantasma	257
-numeroso	257
-terzo	257
-motore	256
-musicista	256
-riprendere	256
-generale	255
-elenco	255
-destra	255
-sano	255
-vario	255
-giurare	255
-Marco	255
-topo	254
-ehi	254
-rapido	253
-sforzo	253
-Jackson	253
-confondere	252
-chiuso	252
-scrittore	252
-Islam	252
-peggiore	251
-occhiata	251
-incubo	251
-comunità	251
-riguardare	250
-vedertare	250
-rappresentare	250
-prezioso	250
-danno	250
-arancia	249
-approvare	249
-moderno	249
-chiaramente	249
-grammatica	249
-Inglese	249
-opzione	249
-sciare	248
-leggero	248
-depresso	247
-assaggiare	247
-desiderio	246
-attentamente	245
-invito	245
-dedicare	245
-denunciare	245
-tecnologia	245
-incredibile	244
-indovinare	244
-soddisfatto	244
-turno	244
-differente	244
-portafoglio	243
-limite	243
-Andò	243
-autore	243
-sfortunato	243
-ottimista	242
-gettare	242
-riuscito	242
-finlandese	242
-pessimo	242
-magari	242
-Terra	241
-internazionale	241
-ovunque	241
-recentemente	241
-vicenda	241
-succo	240
-mostro	240
-anello	240
-bistecca	240
-biscotto	240
-apparire	239
-pelle	239
-improvviso	239
-camion	239
-asciugamano	238
-elemento	237
-Bibbia	237
-pallavolo	237
-portoghese	237
-sala	236
-ferito	235
-capacità	235
-attorno	235
-metro	235
-minestra	235
-fingere	235
-'	234
-distanza	234
-premio	234
-sguardo	234
-linea	234
-Cinese	234
-2013	234
-affitto	233
-dappertutto	233
-stile	233
-tetto	232
-insultare	232
-eroe	232
-bosco	232
-bacio	232
-complicato	231
-responsabilità	231
-abbaiare	231
-mille	231
-regalare	231
-cioccolato	231
-fatica	231
-incoraggiare	230
-ex	230
-giacca	230
-consapevole	230
-Russa	230
-affatto	229
-autunno	229
-foglia	229
-moda	229
-pavimento	229
-atto	229
-pesare	228
-crimine	228
-schiena	228
-addosso	228
-Belga	228
-Finlandese	228
-incendio	227
-coniglio	227
-estivo	227
-gemello	227
-...	227
-accogliere	227
-Tedesca	227
-Svedese	227
-fonte	226
-hot	226
-dog	226
-insetto	226
-Albanese	226
-Greca	226
-Scozzese	226
-Islandese	226
-Etiope	226
-Norvegese	226
-Danese	226
-Lituana	226
-Estone	226
-Lettone	226
-costume	225
-annotare	225
-pantalone	225
-leone	225
-fastidioso	225
-invitato	225
-Marocchina	225
-Tunisina	225
-Egiziana	225
-Rumena	225
-Giapponese	225
-Australiana	225
-Canadese	225
-Messicana	225
-Colombiana	225
-Camerunense	225
-Boliviana	225
-Uruguaiana	225
-Paraguaiana	225
-Portoghese	225
-Bielorussa	225
-Ungherese	225
-Polacca	225
-Bulgara	225
-Ghanese	225
-Libanese	225
-Siriana	225
-Vietnamita	225
-Nigeriana	225
-Serba	225
-Bosniaca	225
-Maltese	225
-Malese	225
-Slovacca	225
-Slovena	225
-croata	225
-Libica	225
-Gallese	225
-Brasiliana	225
-Azera	225
-Spagnola	225
-Austriaca	225
-Macedone	225
-ciao	224
-assonnato	224
-mancanza	224
-diavolo	224
-sospettare	224
-confessare	223
-esercizio	223
-promuovere	222
-cacciare	222
-coppia	222
-circondare	222
-ascensore	221
-giocattolo	221
-pomodoro	221
-burro	220
-detestare	220
-cogliere	220
-sanguinare	220
-acquistare	220
-mezzogiorno	220
-spengere	220
-esercito	220
-sbarazzare	220
-risorsa	219
-orribile	219
-tavola	219
-sinistra	219
-tredici	219
-confermare	219
-adulto	218
-genio	218
-originale	218
-sufficientemente	218
-sensazione	218
-amante	218
-complesso	218
-milione	217
-umore	217
-ovvio	217
-lascare	217
-espressione	217
-Irlandese	217
-moneta	216
-porre	216
-malapena	216
-intelligenza	215
-)	215
-data	215
-arrivo	215
-ridare	215
-erba	214
-sigaretta	214
-sviluppare	214
-tacere	214
-prigioniero	214
-fumo	214
-lettura	214
-quaderno	214
-scettico	214
-galera	214
-appassionato	213
-Tunisia	213
-taglio	212
-criminale	212
-guanto	212
-laggiù	212
-titolo	212
-dieta	211
-angolo	211
-olio	211
-condurre	211
-vodka	211
-classico	210
-reale	210
-mondiale	210
-stomaco	210
-improvvisamente	210
-benvenire	209
-greco	209
-software	209
-(	209
-religioso	209
-specchio	208
-decorare	208
-schifo	207
-respirare	207
-razzista	207
-omicidio	206
-domestico	206
-europeo	206
-pitturare	206
-impressione	205
-acconsentire	205
-tendere	205
-prete	205
-folla	205
-trattenere	205
-economia	204
-ultimamente	204
-pacco	204
-diffondere	204
-password	204
-esagerare	204
-ricordo	204
-carcere	204
-secolo	204
-calmo	203
-piovare	203
-brillante	203
-esausto	203
-fallimento	202
-vietare	202
-suicidare	202
-minore	202
-tu.	202
-ufficiale	202
-rischiare	202
-mattino	201
-debito	201
-vendita	201
-impedire	201
-simbolo	201
-appoggiare	201
-scolastico	200
-conferenza	200
-materiale	200
-apprendimento	200
-sostituire	200
-appunto	200
-terreno	200
-ingenuo	199
-scena	199
-noto	199
-passione	199
-favorevole	199
-spazzatura	199
-acquisto	198
-materia	198
-obbligare	198
-diario	198
-..	198
-Chicago	198
-—	198
-vetro	197
-bandiera	197
-influenza	197
-frigorifero	197
-teatro	197
-affascinante	197
-mollare	197
-laptop	197
-doppio	196
-comporre	196
-viso	196
-piacevole	196
-dimissione	196
-area	196
-sospetto	196
-sincero	196
-massimo	196
-impazzire	195
-eliminare	195
-tassa	195
-profondamente	195
-mescolare	195
-presenza	195
-ungherese	195
-traffico	194
-contadino	194
-personaggio	194
-annoiato	194
-parete	194
-specie	194
-fan	194
-nuvola	193
-decisamente	193
-cipolla	193
-comunicare	193
-tremare	193
-alibo	193
-calma	193
-romantico	192
-stretto	192
-nazionale	192
-gentilezza	192
-ruolo	192
-maglione	192
-ridicolo	192
-State	192
-popolazione	191
-confronto	191
-correttamente	191
-comunicazione	191
-frequentare	191
-finale	191
-addormentato	191
-e-mail	191
-ingresso	190
-esso	190
-generoso	190
-insistere	190
-volto	190
-bordo	190
-Jane	189
-vegetariano	189
-sufficiente	189
-educato	189
-trasportare	189
-tigre	189
-bevanda	189
-frigo	189
-poeta	188
-foglio	188
-includere	188
-avvenire	188
-turco	188
-proporre	187
-collina	187
-continuamente	187
-abituato	187
-velocità	186
-formare	186
-pesca	186
-certamente	186
-adattare	186
-patente	186
-divorziare	186
-appendere	186
-salsa	186
-commerciale	186
-sviluppo	186
-regione	185
-bebè	185
-giornalista	185
-legare	185
-proprietario	185
-pianificare	185
-terremoto	184
-yen	184
-pronunciare	184
-lato	184
-corda	184
-fermata	184
-eravare	184
-curare	184
-Dai	184
-scommettere	184
-porto	183
-morto	183
-proposito	183
-eleggere	183
-stancare	182
-crisi	182
-preciso	182
-ricetta	182
-aggiornare	182
-euro	181
-infanzia	181
-utilizzo	181
-digliere	181
-comodo	181
-credito	180
-parecchio	180
-cioccolata	180
-storico	180
-commentare	180
-capitano	180
-peggiorare	180
-bugiardo	180
-vittima	180
-rima	180
-angelo	179
-rivolgere	179
-grigio	179
-Osaka	179
-lavoratore	179
-metodo	179
-egoista	179
-esaminare	179
-urgente	179
-danneggiare	179
-stringere	179
-riportare	178
-profumo	178
-aula	178
-egli	178
-Africa	178
-magro	178
-grato	178
-imbarazzare	178
-ansia	178
-collega	177
-turista	177
-sordo	177
-ferro	177
-influenzare	177
-compiere	176
-temperatura	176
-completare	176
-elefante	176
-principio	176
-privo	176
-aggressivo	176
-pecora	175
-furioso	175
-direzione	175
-merito	175
-effettuare	175
-domattina	175
-polacco	175
-merda	175
-sesso	175
-strappare	175
-connettere	175
-quadro	174
-stavolta	174
-singolo	174
-magnifico	174
-liberare	174
-salvo	173
-dentista	173
-carattere	173
-suggerimento	173
-Cairo	173
-continuo	173
-trasporto	173
-assonnare	173
-coloro	172
-imbarazzato	172
-Bill	172
-direttore	172
-soprattutto	172
-particolare	172
-attacco	171
-vomitare	171
-tentare	171
-svolgere	171
-consultare	171
-guardia	171
-guarire	170
-impegno	170
-registrare	170
-abilità	170
-criticare	170
-scienziato	169
-giustizia	169
-ombra	169
-nazione	169
-costruzione	169
-vaso	169
-applicare	169
-schiacciare	169
-ballo	169
-convinto	168
-investire	168
-mezzanotte	168
-violenza	168
-bagnare	168
-reato	168
-2:30	168
-battaglia	167
-aumento	167
-universo	167
-produzione	167
-chimico	167
-forchetta	167
-straordinario	167
-sportivo	167
-rifiuto	167
-attirare	167
-abbraccio	167
-salario	166
-violare	166
-ragionevole	166
-pallido	166
-allontanare	166
-seppellire	166
-Milano	166
-tema	166
-soggetto	166
-concetto	166
-tesoro	166
-ditele	166
-imam	166
-disagio	165
-atmosfera	165
-biologia	165
-pianto	165
-scimmia	165
-crescita	165
-elezione	165
-creativo	165
-allenatore	164
-fisica	164
-raro	164
-ignoranza	164
-amichevole	164
-serie	164
-coda	164
-carico	164
-avvelenare	164
-sottovalutare	163
-lettore	163
-riscaldare	163
-segnare	162
-pressione	162
-supporre	162
-Unione	162
-eseguire	162
-Berlino	162
-linguistico	162
-benzina	162
-affidabile	162
-10	161
-francobollo	161
-segretario	161
-esplorare	161
-gola	161
-resistere	161
-scoperta	161
-raccomandare	161
-riferire	161
-dubitare	160
-finanziario	160
-lavora	160
-batteria	160
-attimo	160
-nota	160
-verificare	160
-nostalgia	160
-me.	159
-attendere	159
-scientifico	159
-destino	159
-calza	159
-Quanta	159
-puro	158
-funerale	158
-asciugare	158
-donare	158
-dimensione	158
-godere	158
-20	157
-carota	157
-tradizione	157
-splendido	157
-rinunciare	157
-ricchezza	157
-ananas	157
-disegno	157
-stagno	157
-poker	157
-oliva	157
-manzo	157
-comprensione	157
-annegare	157
-tatuaggio	157
-pappagallo	157
-Asia	156
-gonna	156
-culturale	156
-sparire	156
-passeggero	156
-libreria	156
-scivolare	156
-largo	156
-spaventoso	156
-annaffiare	156
-geografia	156
-rimpiangere	156
-sentenza	156
-illegale	156
-provocare	155
-movimento	155
-miracolo	155
-paranoico	155
-canto	155
-affilare	155
-mica	155
-Gran	154
-chissà	154
-fetta	154
-imbrogliare	154
-supporto	154
-geometria	154
-preoccupazione	154
-alimentare	154
-vittoria	153
-mobile	153
-proibire	153
-febbre	153
-impaziente	153
-bambina	153
-sdraiare	153
-afferrare	153
-Twitter	153
-indiano	153
-privacy	153
-attesa	152
-mappa	152
-uniforme	152
-progettare	152
-pubblicità	152
-tenda	152
-estraneo	152
-giungere	152
-ideale	152
-destinazione	152
-annunciare	152
-priorità	152
-matto	151
-affermare	151
-origine	151
-osare	151
-individuo	151
-gratuito	151
-cambio	151
-dipendente	151
-organizzazione	151
-adatto	151
-ginocchio	151
-conseguenza	151
-ritenere	151
-allenare	151
-artificiale	151
-discretamente	151
-Bob	150
-Studio	150
-farfalla	150
-critica	150
-esercitare	150
-cognome	150
-prenotazione	150
-coronavirus	150
-spirito	149
-5	149
-dubire	149
-condannare	149
-terminare	149
-Ungheria	149
-modello	149
-sospendere	149
-specifico	149
-testimone	149
-garage	149
-esterno	149
-apposta	148
-visitatore	148
-zitto	148
-laureare	148
-Bretagna	148
-giudice	148
-avversario	148
-obbedire	148
-uscita	148
-verifica	148
-comprarare	148
-legale	148
-palestinese	148
-immaginazione	147
-bambola	147
-vasto	147
-cuscino	147
-armadio	147
-stradale	147
-madrelingua	147
-nausea	147
-folle	147
-finora	147
-caricare	147
-rete	146
-simpatico	146
-piegare	146
-San	146
-vantaggio	146
-elettrico	146
-scuro	146
-limone	146
-quantità	146
-svedese	146
-tradizionale	146
-friggere	146
-potente	146
-reagire	146
-scaricare	146
-subire	146
-gara	146
-football	146
-ditegliare	146
-tramonto	145
-collegare	145
-tastiera	145
-settore	145
-stupire	144
-cancro	144
-3	144
-separare	144
-droga	144
-pulsante	144
-rientrare	144
-Babbo	144
-personalmente	144
-racconto	144
-discreto	144
-gratis	144
-spiacente	144
-mistero	144
-scavare	144
-assistente	144
-svenire	144
-Dille	144
-ketchup	144
-competenza	144
-augurio	144
-roso	143
-marrone	143
-sconfiggere	143
-Kobe	143
-funzione	143
-olandese	143
-cancello	143
-scoiattolo	143
-struttura	143
-interrogare	143
-fregare	143
-parcheggio	142
-fedele	142
-sconosciuto	142
-consentire	142
-assassinare	142
-solare	142
-disco	142
-particolarmente	142
-professionista	142
-innovazione	142
-clima	141
-club	141
-algebra	141
-inserire	141
-britannico	141
-familiare	141
-noleggiare	141
-intrappolare	141
-bagaglio	140
-telefonata	140
-procedere	140
-alfabeto	140
-disprezzare	140
-successivo	140
-trattato	140
-moto	140
-dirlo	140
-minaccia	139
-oceano	139
-terribilmente	139
-regolare	139
-umiliare	139
-Vostra	139
-coltivare	138
-chimica	138
-critico	138
-iscrivere	138
-avventura	138
-blog	138
-irritare	138
-rallentare	138
-risata	138
-algoritmo	138
-hobby	137
-ai	137
-sciogliere	137
-album	137
-stendere	137
-calmare	137
-basare	137
-contante	137
-frustrato	137
-single	137
-protezione	137
-misura	137
-verbo	136
-altrimenti	136
-citare	136
-%	136
-dispositivo	136
-provenire	136
-emergenza	136
-lamentela	136
-praticare	136
-fiamma	136
-chilo	136
-democrazia	136
-vergogna	136
-portale	136
-complimento	136
-Google	136
-torturare	136
-rimuovere	136
-monte	135
-corrente	135
-quindici	135
-maturo	135
-affondare	135
-generazione	135
-sciocco	135
-allacciare	135
-stufo	135
-cossemél	135
-attraente	135
-popcorn	135
-vertigine	135
-accesso	134
-infinito	134
-volentieri	134
-poiché	134
-assurdo	134
-maestro	134
-precedente	134
-costantemente	134
-Tommaso	134
-sambrare	134
-quotidiano	134
-vendetta	134
-tecnico	134
-algerino	134
-costante	133
-nuoto	133
-autorità	133
-stirare	133
-irlandese	133
-ulteriore	133
-interferire	133
-proprietà	133
-mercante	133
-piazza	133
-pessimista	133
-oppure	133
-aglio	133
-conservare	133
-Jim	132
-bollire	132
-postale	132
-cima	132
-colui	132
-tentativo	132
-culo	132
-operaio	132
-umanità	132
-negativo	132
-cerchiare	131
-affollato	131
-musicale	131
-collo	131
-nascosto	131
-stipendio	131
-alba	131
-caccia	131
-perse	131
-fango	131
-fermo	130
-Harvard	130
-sistemare	130
-accento	130
-maleducato	130
-tappeto	130
-applaudire	130
-televisore	130
-destro	130
-attuale	130
-collezione	130
-Gesù	130
-sfidare	130
-scorrere	129
-ape	129
-videogioco	129
-labbro	129
-saggezza	129
-ispirare	129
-figura	129
-cameriere	129
-sovrappeso	129
-fritto	129
-cazzata	129
-Mike	128
-Jack	128
-decollare	128
-festival	128
-cintura	128
-padrone	128
-bruciato	128
-nominare	128
-volontà	128
-fiato	128
-connessione	128
-piccante	128
-pelo	128
-scoraggiare	128
-esatto	127
-assoluto	127
-valido	127
-destinare	127
-severo	127
-cucire	127
-alcol	127
-assistere	127
-elegante	127
-terrorizzare	127
-sodo	127
-identità	127
-mossa	127
-confine	127
-intervento	127
-morale	126
-indipendente	126
-pittore	126
-dozzina	126
-coreano	126
-ritrovare	126
-David	126
-orecchio	126
-persino	126
-identificare	126
-amato	125
-cd	125
-dibattito	125
-cinquanta	125
-intimo	125
-efficace	125
-insolito	125
-razza	125
-rovesciare	125
-Leon	125
-recuperare	124
-sfortunatamente	124
-cinto	124
-versione	124
-calore	124
-coscienza	124
-leader	124
-ciliegia	124
-ammazzare	124
-praticamente	124
-infatti	124
-crudele	124
-disaccordo	124
-panino	123
-nebbia	123
-svegliere	123
-sindaco	123
-nutrire	123
-cucchiaio	123
-esporre	123
-miglioramento	123
-situare	123
-rimettere	123
-quarto	123
-totale	123
-fastidio	123
-casino	123
-contesto	123
-sparo	123
-norma	123
-scioccare	123
-Papa	122
-ah	122
-shopping	122
-stivale	122
-puntuale	122
-considerazione	122
-dodici	122
-cugina	122
-fragola	122
-limitare	122
-curiosità	122
-gesto	122
-sfuggire	122
-reazione	122
-ritirare	122
-piccione	122
-Jamal	122
-bastone	121
-giugno	121
-evidente	121
-divertimento	121
-atteggiamento	121
-umorismo	121
-esplosione	121
-commissione	121
-Taninna	121
-pilota	120
-furto	120
-onore	120
-percorso	120
-invecchiare	120
-conducente	120
-imbattere	120
-riprovare	120
-assetato	120
-calcolare	119
-stupendo	119
-media	119
-dimettere	119
-operazione	119
-tramite	119
-lotta	119
-seguente	118
-sveglia	118
-paesaggio	118
-quaranta	118
-assenza	118
-emozionante	118
-picnic	118
-giudizio	118
-chiamatemere	118
-sposo	118
-esperimento	118
-regolarmente	118
-visione	118
-ubriacare	118
-ferie	118
-danza	118
-accusa	118
-facilità	118
-Toki	118
-scuotere	117
-nascita	117
-asiatico	117
-combinare	117
-migliaio	117
-pentire	117
-onda	117
-degno	117
-ambizioso	117
-dia	117
-escludere	117
-Pona	117
-argento	116
-30	116
-rimandare	116
-chilometro	116
-trasmettere	116
-sensibile	116
-ciascuno	116
-messicano	116
-generalmente	116
-scrittura	116
-traduttore	116
-istante	116
-Serbia	116
-eccezione	116
-determinare	116
-Polonia	116
-atterrare	115
-definire	115
-calligrafia	115
-ricoprire	115
-informatica	115
-laurea	115
-trecento	115
-paragonare	115
-band	115
-cotta	115
-Madagascar	115
-collezionare	114
-volontario	114
-pratico	114
-ingegnere	114
-imbarazzante	114
-pochino	114
-riscrivere	114
-attrarre	114
-personalità	114
-maglia	114
-noce	114
-spezzare	114
-analizzare	114
-puzzare	114
-imitare	114
-essa	114
-brasiliano	114
-atleta	114
-analisi	113
-industria	113
-Thomas	113
-cercire	113
-sinistro	113
-capra	113
-scherzo	113
-dore	113
-arricchire	113
-laboratorio	113
-tipico	113
-saluto	113
-magazzino	113
-beccare	113
-cortile	113
-esitare	112
-secco	112
-autista	112
-cartolina	112
-guancia	112
-partenza	112
-vicina	112
-ferroviario	112
-trucco	112
-account	112
-lessare	112
-riposo	112
-rumeno	112
-esigente	112
-scattare	111
-esistenza	111
-educare	111
-improbabile	111
-buco	111
-disturbo	111
-testardo	111
-idolo	111
-misurare	111
-ansioso	111
-avanzare	111
-champagna	111
-lotteria	111
-leggermente	111
-attribuire	110
-scusame	110
-vocabolario	110
-memorizzare	110
-rubato	110
-globale	110
-Madrid	110
-spada	110
-agio	110
-rilassato	110
-Mosca	110
-calciare	110
-ragionare	110
-incredibilmente	110
-scalare	109
-gennaio	109
-essi	109
-totalmente	109
-regina	109
-accontentare	109
-schiavo	109
-banco	109
-Marte	109
-trattamento	109
-masticare	109
-interprete	109
-turbare	109
-intenso	109
-zucca	109
-alternativa	109
-ambizione	109
-Pasqua	109
-zanzara	108
-sposato	108
-cristiano	108
-affascinare	108
-tessuto	108
-qualcos'	108
-passatempo	108
-andiare	108
-assassino	108
-sostegno	108
-allenamento	108
-significativo	108
-busta	107
-Tony	107
-dopodomani	107
-codardo	107
-polvere	107
-accelerare	107
-segnale	107
-ignorante	107
-addio	107
-stabilire	107
-risultare	107
-cedere	107
-pulizia	107
-violento	107
-magico	107
-domandare	106
-punta	106
-aprile	106
-undici	106
-plastica	106
-promozione	106
-corridoio	106
-coi	106
-congratulare	106
-principiante	106
-martello	106
-impatto	106
-leccare	106
-concludere	106
-difetto	105
-bevere	105
-roccia	105
-ferita	105
-assicurazione	105
-settembre	105
-panchina	105
-candidato	105
-delicato	105
-ucraino	105
-rugby	105
-allungare	105
-fumetto	105
-mentale	105
-malaccio	105
-scritto	104
-viola	104
-giustificare	104
-varietà	104
-sorgere	104
-soffiare	104
-panda	104
-arrampicare	104
-pera	104
-azzurro	104
-orrore	104
-apparentemente	104
-farmaco	104
-spogliare	104
-tocco	104
-impresa	103
-territorio	103
-infermiera	103
-Smith	103
-ramo	103
-gliela	103
-tendenza	103
-inseguire	103
-disoccupato	103
-kebab	103
-torte	103
-filo	103
-maschera	103
-accumulare	103
-fotografo	103
-metallo	103
-lavatrice	103
-Colombia	103
-adorabile	103
-forzare	103
-campione	103
-grata	103
-gas	102
-principessa	102
-equilibrio	102
-repubblica	102
-utente	102
-ortografia	102
-rilasciare	102
-Emily	102
-baffo	102
-sconfitta	101
-brillare	101
-entusiasmo	101
-Hokkaido	101
-Paolo	101
-veleno	101
-pepe	101
-imporre	101
-dichiarazione	101
-zero	101
-valutare	101
-tuttavia	101
-corte	101
-bucato	101
-invidiare	101
-fluentemente	101
-sasso	101
-vincitore	101
-missione	101
-Algeri	101
-medio	100
-svuotare	100
-volpe	100
-serbo	100
-misterioso	100
-crudo	100
-acceso	100
-cliccare	100
-carica	100
-marino	100
-aeroplano	100
-distrarre	100
-legame	100
-fagiolo	100
-formazione	100
-avvolgere	100
-emotivo	100
-pedone	100
-innocenza	99
-rotta	99
-ingrassare	99
-principalmente	99
-disgustoso	99
-tesi	99
-cerimonia	99
-diplomatico	99
-estremo	99
-installare	99
-finto	99
-crema	99
-accordare	99
-codice	99
-patatina	99
-sputare	99
-assistenza	99
-annusare	99
-sfruttare	98
-tristezza	98
-curry	98
-riservare	98
-introdurre	98
-capite	98
-altezza	98
-staccare	98
-riunire	98
-circostanza	98
-cassa	98
-spreco	98
-rigido	98
-favorire	98
-Slovenia	98
-chef	98
-robot	97
-espellere	97
-appetito	97
-bomba	97
-congelare	97
-capitolo	97
-danese	97
-salto	97
-generare	97
-pugno	97
-recitare	97
-fase	97
-competizione	97
-conclusione	97
-australiano	97
-perfezione	97
-concordare	97
-imbarazzo	97
-sbucciare	97
-tiro	97
-gabbia	96
-disposizione	96
-Luna	96
-Alice	96
-statua	96
-sacro	96
-autentico	96
-ricominciare	96
-maggio	96
-prospettiva	96
-onestà	96
-precisione	96
-esaurire	96
-palco	96
-diedere	96
-Wow	96
-sostanza	95
-Kate	95
-campeggio	95
-rock	95
-sbattere	95
-morbido	95
-difesa	95
-islandese	95
-diamante	95
-sufficienza	95
-semaforo	95
-orgoglio	95
-efficiente	95
-scaffale	95
-grattare	95
-sorprendente	95
-eccessivo	95
-cavolo	95
-coma	95
-aspettativa	94
-ispirazione	94
-cassetto	94
-centinaio	94
-bolletta	94
-lavagna	94
-riga	94
-Thailandia	94
-torre	94
-pregiudizio	94
-rovina	94
-scortese	94
-odio	94
-tuffare	94
-civile	94
-novità	94
-manifestazione	94
-povertà	94
-commerciante	94
-impiccare	94
-Slovacchia	94
-Palestina	94
-tecnica	93
-diversamente	93
-yogurt	93
-impiegato	93
-prevenire	93
-insopportabile	93
-intervenire	93
-eh	93
-sessuale	93
-ingrediente	93
-contenuto	93
-avviso	93
-riparo	93
-affetto	93
-bulgaro	93
-pizzeria	93
-partner	93
-cargo	93
-rotto	92
-menzionare	92
-fenomeno	92
-luglio	92
-George	92
-Neanche	92
-secchio	92
-spiacere	92
-goccia	92
-sintomo	92
-Robert	92
-calciatore	92
-arrogante	92
-cagare	92
-gliele	92
-sciocchezza	92
-meccanico	92
-occorrere	92
-imparentare	92
-essestire	92
-de	92
-inizialmente	92
-competitivo	92
-frastornare	92
-obbligatorio	91
-miglio	91
-liquido	91
-ambulanza	91
-hockey	91
-volume	91
-convertire	91
-superficie	91
-sottile	91
-riparazione	91
-arancione	91
-patetico	91
-vivace	91
-spinace	91
-santo	91
-Tailandia	91
-presentazione	91
-reciproco	91
-salmone	91
-Camerun	91
-soggiorno	90
-pianista	90
-consumare	90
-osso	90
-acido	90
-attualmente	90
-mancato	90
-nervo	90
-salato	90
-ambasciata	90
-Paul	90
-conflitto	90
-capiare	90
-emozionare	90
-citazione	90
-illuminare	90
-vegano	90
-Wikipedia	90
-Toscana	90
-Croazia	90
-bussare	89
-cammino	89
-Europea	89
-svizzero	89
-ristrutturare	89
-modificare	89
-modesto	89
-selvatico	89
-buca	89
-riferimento	89
-metropolitano	88
-premere	88
-avverare	88
-ipocrita	88
-sud	88
-gioiello	88
-sospettoso	88
-rumoroso	88
-sorseggiare	88
-sapone	88
-uva	88
-medaglia	88
-scopa	88
-dimmiare	87
-reputazione	87
-pozzo	87
-pagamento	87
-collaborazione	87
-navigare	87
-firma	87
-collaborare	87
-necessità	87
-consolare	87
-Hey	87
-agente	87
-pillola	87
-natalizio	87
-indosso	87
-multa	87
-affamare	87
-vasca	87
-artistico	87
-tingere	87
-scozzese	87
-sudare	87
-spontaneo	87
-gay	86
-distante	86
-entrata	86
-manuale	86
-farina	86
-petto	86
-sconto	86
-panico	86
-rapinare	86
-presa	86
-vizio	86
-solitudine	86
-curriculum	86
-esigere	86
-Istanbul	86
-ginnastica	86
-collegamento	86
-palazzo	85
-cattolico	85
-impiegare	85
-cucciolo	85
-rapire	85
-cadavere	85
-virtù	85
-avviare	85
-stufa	85
-continuazione	85
-Wi-Fi	85
-umido	84
-biondo	84
-impressionato	84
-seme	84
-jazz	84
-inferno	84
-strategia	84
-nord	84
-logico	84
-interpretare	84
-spina	84
-entusiasta	84
-velenoso	84
-ritmo	84
-greca	84
-divorzio	84
-cassetta	84
-polso	84
-bacare	84
-segnalare	84
-perciò	84
-addestrare	84
-cantiere	84
-egiziano	84
-microonda	84
-motel	84
-Hawaii	83
-derivare	83
-pienamente	83
-sbadigliare	83
-cacciatore	83
-perdente	83
-tollerare	83
-approfittare	83
-stress	83
-ostacolo	83
-link	83
-compiacere	83
-naturalmente	83
-africano	83
-talentuoso	83
-aziendale	83
-albanese	83
-buongiorno	82
-universitario	82
-marciapiede	82
-stampa	82
-Anna	82
-affidare	82
-vacca	82
-canale	82
-norvegese	82
-spasso	82
-sinceramente	82
-sperimentare	82
-Scandinavia	82
-consegna	81
-trascurare	81
-paradiso	81
-febbraio	81
-vantare	81
-bottone	81
-bagnato	81
-puntare	81
-silenzioso	81
-fulmine	81
-affittare	81
-grano	81
-chirurgo	81
-cartone	81
-conte	81
-Israele	81
-pirata	81
-prosciutto	81
-superficiale	81
-ceco	81
-sarcastico	81
-dottoressa	80
-celebrare	80
-innervosire	80
-Pechino	80
-leggenda	80
-fotogenico	80
-abitante	80
-elettronico	80
-»	80
-crollare	80
-delusione	80
-motivare	80
-eterno	80
-puttana	80
-compilare	80
-commuovere	80
-menù	80
-vocale	80
-identico	80
-potenziale	80
-selezione	80
-arachidio	80
-agitato	80
-ingoiare	80
-traccia	79
-assegno	79
-centrale	79
-coperta	79
-elettricità	79
-re.	79
-istinto	79
-bimbo	79
-esplodere	79
-coincidenza	79
-nativo	79
-profilo	79
-accorrere	79
-intervista	79
-fischiare	79
-pietà	79
-Farlo	79
-carro	79
-gustoso	79
-stufare	79
-cruciale	79
-manipolare	79
-Macedonia	79
-sbaglio	78
-fondare	78
-essesere	78
-massaggio	78
-Brown	78
-illusione	78
-«	78
-vincare	78
-Nu	78
-sacrificare	78
-Bush	78
-macchia	78
-automatico	78
-bocciare	77
-perfino	77
-dettagliato	77
-incrociare	77
-protestare	77
-maglietta	77
-professionale	77
-governare	77
-morso	77
-disastro	77
-informatico	77
-bestia	77
-rivoluzione	77
-marcia	77
-sedermare	77
-contraddire	77
-riscaldamento	77
-agnello	77
-luminoso	77
-gigante	77
-vigile	77
-cretino	77
-pugnalare	77
-pony	77
-Dna	77
-babysitter	77
-asino	76
-agosto	76
-temporale	76
-pronuncia	76
-100	76
-apprendere	76
-dirle	76
-rinnovare	76
-energico	76
-pro	76
-gallina	76
-indagare	76
-elementare	76
-avanzato	76
-distratto	76
-infrantare	76
-montare	76
-dicembre	76
-ala	76
-rana	76
-immergere	76
-sciarpa	76
-venditore	76
-immenso	76
-casco	76
-smarrire	76
-maionese	76
-shampoo	76
-caramella	75
-tennista	75
-mattinata	75
-jeans	75
-villa	75
-diver	75
-Bassi	75
-isolato	75
-pittura	75
-scaldare	75
-affilato	75
-malvagio	75
-mucchio	75
-gomma	75
-allegro	75
-catena	75
-siedere	75
-femminile	75
-chiarire	75
-imprudente	75
-ruota	75
-benessere	75
-mais	75
-maschio	75
-scommessa	75
-mungere	75
-gallese	75
-mahjong	75
-autorizzare	75
-cortesia	74
-austriaco	74
-forbice	74
-ripagare	74
-Betty	74
-confrontare	74
-architetto	74
-sofferenza	74
-previsione	74
-gentiluomo	74
-soccorso	74
-unghia	74
-cuffia	74
-presso	74
-$	74
-tono	74
-escursione	74
-supportare	74
-flauto	74
-Los	74
-aggiornamento	74
-passire	74
-saporito	74
-annuncio	74
-avido	74
-stronzata	74
-cavare	74
-terrorista	74
-gioventù	73
-guadagno	73
-tartaruga	73
-seguito	73
-intanto	73
-corrispondere	73
-sciopero	73
-operare	73
-ragazzino	73
-verbale	73
-studioso	73
-lusso	73
-prato	73
-lampada	73
-motivazione	73
-riva	73
-prudenza	73
-camino	73
-sconvolgere	73
-invidia	73
-gratuitamente	73
-Angeles	73
-posare	73
-stampare	73
-doloroso	73
-aggiustare	73
-opposto	72
-giraffa	72
-database	72
-amaro	72
-corpus	72
-razzismo	72
-ciotola	72
-scontato	72
-diminuire	72
-insulto	72
-applicazione	72
-Nancy	71
-jazz.	71
-dialetto	71
-dono	71
-meteo	71
-creatura	71
-taglia	71
-tragedia	71
-quinto	71
-infermiere	71
-digitale	71
-intellettuale	71
-indagine	71
-fallo	71
-balena	71
-orientale	71
-materno	71
-ipotesi	71
-scherzi	71
-letterario	71
-concedere	71
-disonesto	71
-trappola	71
-chitarrista	71
-onorare	71
-inevitabile	71
-ricevuta	71
-compromesso	71
-teso	71
-armeno	71
-filippino	71
-stessere	70
-pari	70
-Taro	70
-consistere	70
-raffreddare	70
-costa	70
-solido	70
-modulo	70
-romano	70
-realmente	70
-combinazione	70
-Jean	70
-caratteristica	70
-lodare	70
-petrolio	70
-costituire	70
-eccezionale	70
-polmone	70
-scadere	70
-racchetta	70
-portata	70
-freno	70
-riavviare	70
-lavorativo	70
-fumatore	70
-turistico	70
-arrossire	70
-programmare	70
-affermazione	70
-sino	70
-ufficialmente	70
-colombiano	70
-apertura	70
-soddisfazione	70
-opporre	70
-drogare	70
-scioccato	70
-mirare	70
-anatra	70
-sforzare	70
-Taiwan	70
-yoga	70
-cicatore	69
-Fuji	69
-universale	69
-respingere	69
-lasagna	69
-Paesi	69
-sussurrare	69
-confusione	69
-tomba	69
-Sicilia	69
-casuale	69
-gestione	69
-evoluzione	69
-comitato	69
-mosca	69
-trarre	69
-atmosferico	69
-lasciale	69
-senape	69
-Baya	69
-2	68
-California	68
-sentiero	68
-zampa	68
-perplesso	68
-spugna	68
-dotare	68
-lieto	68
-cittadina	68
-cocktail	68
-favoloso	68
-interiore	68
-organo	68
-inaspettato	68
-farmacia	68
-notturno	68
-vago	68
-Mark	68
-vecchiaia	68
-realistico	68
-delegato	68
-sostenibile	68
-istituzione	68
-avventuroso	68
-bielorusso	68
-Instagram	68
-ingiusto	67
-faccenda	67
-somma	67
-Firenze	67
-calendario	67
-soffocare	67
-mito	67
-dunque	67
-ostinato	67
-aspirina	67
-contagioso	67
-ripartire	67
-aquila	67
-pulere	67
-spia	67
-reddito	67
-conquistare	67
-fisso	67
-spettacolare	67
-deporre	67
-compassione	67
-lana	67
-piantina	67
-cessare	67
-ampio	67
-belga	67
-muratore	67
-attrezzo	67
-dritto	67
-regno	67
-effettivamente	67
-fucile	67
-rimpiante	67
-motivato	67
-meschino	67
-invidioso	67
-respiro	67
-Repubblica	67
-amministratore	67
-agitare	66
-frequentemente	66
-legna	66
-filosofia	66
-selvaggio	66
-tasso	66
-punizione	66
-radice	66
-pentola	66
-fantasia	66
-impero	66
-logica	66
-patria	66
-binario	66
-contemporaneo	66
-raccolta	66
-nuotatore	66
-confidare	66
-costituzione	66
-ministro	66
-tentazione	66
-distare	66
-Felice	66
-riordinare	66
-appropriato	66
-investimento	66
-terrorismo	66
-determinato	66
-cartello	66
-unità	66
-riconoscente	66
-gustare	66
-misto	66
-notevole	66
-infastidito	66
-allergia	66
-Napoleone	66
-professionalità	66
-spiare	66
-dategliare	66
-offeso	66
-nucleare	65
-telefonico	65
-Nagoya	65
-marzo	65
-macellaio	65
-scambio	65
-mento	65
-asilo	65
-suicidio	65
-iniziativa	65
-desidero	65
-georgiano	65
-tensione	65
-calare	65
-intervistare	65
-preghiera	65
-bugiarda	65
-spedizione	65
-sede	65
-igienico	65
-broccolo	65
-ascolto	65
-truccare	65
-testamento	65
-croato	65
-gelosia	64
-variare	64
-distribuire	64
-passante	64
-incapace	64
-standard	64
-obiezione	64
-seduta	64
-abbigliamento	64
-mensa	64
-indispensabile	64
-traditore	64
-creazione	64
-Okinawa	64
-magia	64
-scandalo	64
-sanguigno	64
-parlante	64
-stupidità	64
-ratto	64
-tumore	64
-argentino	64
-partecipante	64
-maestria	64
-macedone	64
-episodio	64
-Obama	64
-fortemente	64
-decedere	64
-mazza	64
-team	64
-chiacchierata	64
-adolescente	64
-tremendo	64
-banjo	64
-israeliano	64
-tossire	64
-croce	63
-50	63
-impressionante	63
-gliene	63
-Scrisse	63
-inchiostro	63
-colloquio	63
-alimento	63
-commercio	63
-insoddisfatto	63
-accidentalmente	63
-protagonista	63
-microscopio	63
-infantile	63
-Corsica	63
-beneficio	63
-leono	63
-programmatore	63
-industriale	63
-Carlos	63
-sezione	63
-alzato	63
-altrui	63
-T-shirt	63
-marocchino	63
-borsetta	63
-Oriente	63
-cerca	63
-innamorato	63
-spam	63
-cellula	63
-equo	63
-selezionare	63
-smalto	63
-credibilità	63
-divorare	62
-alcolico	62
-convincente	62
-assegnare	62
-25	62
-regolamento	62
-messa	62
-russare	62
-tollerante	62
-mago	62
-Pinocchio	62
-tantissimo	62
-sereno	62
-compere	62
-orfano	62
-armato	62
-frequente	62
-infastidere	62
-marmellata	62
-odorare	62
-allevare	62
-inciampare	62
-maltese	62
-neozelandese	62
-sparere	62
-arco	62
-armadietto	62
-Ivan	62
-Sardegna	62
-libanese	62
-sessanta	61
-separato	61
-Mayuko	61
-chiacchierare	61
-formica	61
-estrarre	61
-occidentale	61
-vivente	61
-studierare	61
-siedire	61
-gita	61
-spettatore	61
-osservazione	61
-concreto	61
-altamente	61
-raccolto	61
-procedura	61
-nobile	61
-condizionato	61
-notevolmente	61
-rasare	61
-calzino	61
-diversità	61
-rimedio	61
-fazzoletto	61
-parlamento	61
-visibile	61
-ambientale	61
-cetriolo	61
-conservatore	61
-lojban	61
-sudafricano	61
-orecchino	61
-armare	61
-determinazione	61
-senzatetto	61
-battito	60
-orizzonte	60
-Peter	60
-scemo	60
-ovest	60
-immediato	60
-alieno	60
-Michael	60
-riservato	60
-seno	60
-commestibile	60
-immigrato	60
-lunghezza	60
-thailandese	60
-pretendere	60
-insegnamento	60
-temporaneo	60
-mestiere	60
-interpretazione	60
-zaino	60
-sottolineare	60
-veicolo	60
-certezza	60
-accedere	60
-elicottero	60
-liscio	60
-cantina	60
-elevato	60
-liberamente	60
-apparecchiare	60
-debolezza	60
-apparenza	60
-acciaio	60
-abile	60
-ri	60
-vela	60
-acquisire	60
-percepire	60
-drink	60
-spaccare	60
-accogliente	60
-tienile	60
-record	60
-esibizione	60
-Laurie	60
-lussemburghese	60
-strangolare	60
-8	59
-massa	59
-Rio	59
-corrotto	59
-orchestra	59
-4	59
-filosofo	59
-ostaggio	59
-invernale	59
-compagna	59
-giovinezza	59
-follia	59
-facilitare	59
-corona	59
-Antonio	59
-carrozza	59
-“	59
-marinaio	59
-qu	59
-stiare	59
-accurato	59
-attrazione	59
-ribellare	59
-petizione	59
-diligente	59
-duemila	59
-arresto	59
-rigoroso	59
-fraintendere	59
-Cristo	59
-–	59
-evidentemente	59
-schermo	59
-scalzo	59
-aderire	59
-biologico	59
-sofisticato	59
-FBI.	59
-azero	59
-Leonid	59
-congratulazione	58
-sgradevole	58
-cervo	58
-Pietro	58
-usato	58
-sedici	58
-cesto	58
-delfino	58
-devastare	58
-vicinanza	58
-procurare	58
-reggere	58
-tosse	58
-Yokohama	58
-sacrificio	58
-pancia	58
-inquinamento	58
-15	58
-colorato	58
-padroneggiare	58
-associare	58
-fortunatamente	58
-melodia	58
-chiodo	58
-fallare	58
-Groenlandia	58
-obbligo	58
-regime	58
-voltare	58
-ebraico	58
-convenire	58
-femmina	58
-nuziale	58
-tratto	58
-solitario	58
-iPad	58
-ospitare	58
-lavastoviglia	58
-stabile	58
-volgere	58
-rischioso	58
-purè	58
-invenzione	57
-Lucy	57
-mostra	57
-precipitare	57
-ossigeno	57
-assorbire	57
-normalmente	57
-dignità	57
-scarso	57
-lente	57
-contributo	57
-nido	57
-flessibile	57
-legittimo	57
-ereditare	57
-convinzione	57
-gesso	57
-risparmio	57
-yacht	57
-cocco	57
-sbarra	57
-spaziale	57
-calcolo	57
-litro	57
-lancio	57
-volgare	57
-dosso	57
-rilassante	57
-minerale	57
-scadenza	57
-produttivo	57
-terapia	57
-coro	57
-franco	57
-vulnerabile	57
-esperantista	57
-soffitta	57
-dispiaciuta	57
-mediocro	57
-contrassegnare	57
+.
+il
+essere
+?
+a
+di
+avere
+non
+in
+uno
+che
+Tom
+andare
+,
+per
+fare
+mi
+io
+questo
+volere
+suo
+costruire
+lo
+dire
+si
+da
+e
+mio
+potere
+Mary
+con
+stare
+!
+dovere
+ci
+molto
+lui
+lei
+tutto
+pensare
+piacere
+sapere
+cosa
+loro
+quello
+più
+perché
+la
+vedere
+come
+tuo
+vero
+dove
+parlare
+nazionalità
+ti
+su
+mai
+casa
+me
+le
+noi
+venire
+voi
+se
+tu
+ancora
+solo
+vi
+così
+mangiare
+qui
+vostro
+amico
+dare
+qualcosa
+prendere
+Tom.
+ora
+aiutare
+quando
+sembrare
+nostro
+lavoro
+riuscire
+trovare
+sentire
+chi
+ma
+comprare
+altro
+libro
+poco
+ne
+cercare
+sempre
+chiedere
+bene
+lavorare
+quanto
+li
+conoscere
+nuovo
+anno
+scuola
+lasciare
+tempo
+chiamare
+amare
+oggi
+troppo
+studiare
+bisogno
+gli
+te
+giorno
+is
+volta
+Boston
+leggere
+anche
+soldo
+persona
+francese
+aspettare
+portare
+buono
+imparare
+guardare
+due
+nessuno
+cane
+vivere
+scrivere
+adesso
+perdere
+qualcuno
+Sami
+insegnare
+già
+davvero
+arrivare
+ogni
+bello
+mettere
+o
+niente
+provare
+domani
+i
+vita
+vacanza
+grande
+ragazzo
+bere
+credere
+sicuro
+favore
+problema
+prima
+morire
+giocare
+insegnante
+felice
+figlio
+tre
+finire
+senza
+ieri
+odiare
+stesso
+macchina
+uomo
+meglio
+tornare
+parte
+Australia
+settimana
+bambino
+veramente
+cui
+qua
+nu
+visitare
+capire
+male
+rimanere
+passare
+qualche
+lì
+vicino
+diventare
+migliore
+tanto
+spesso
+padre
+lingua
+studente
+ciò
+prossimo
+fratello
+acqua
+primo
+strada
+succedere
+dopo
+alcuno
+parola
+proprio
+inglese
+iniziare
+madre
+biblioteca
+dormire
+sperare
+cambiare
+presto
+paura
+servire
+uscire
+usare
+ristorante
+città
+pagare
+quale
+caffè
+festa
+cominciare
+mano
+pronto
+uccidere
+sorella
+frase
+aprire
+ascoltare
+tra
+bravo
+donna
+idea
+viaggio
+sposare
+fuori
+passaporto
+gatto
+appena
+ricordare
+lettera
+stanza
+domanda
+modo
+preparare
+vincere
+Irlanda
+suonare
+negozio
+dimenticare
+nome
+incontrare
+piano
+Ziri
+stanco
+scorso
+tenere
+difficile
+smettere
+amore
+ospedale
+computer
+mondo
+moschea
+notte
+genitore
+chiave
+vecchio
+letto
+professore
+posto
+Qual
+cantare
+occupare
+impegnare
+momento
+cibo
+auto
+errore
+restare
+Giappone
+Italia
+decidere
+denaro
+sera
+vino
+lungo
+continuare
+chiudere
+durante
+partire
+banca
+storia
+università
+famiglia
+edificio
+ragione
+treno
+quasi
+affare
+moglie
+utilizzare
+preferito
+entrare
+però
+piccolo
+fermare
+film
+giovane
+ponte
+rispondere
+fino
+forse
+mese
+importante
+alto
+zio
+abitare
+preoccupare
+aiuto
+porta
+paese
+mancare
+nuotare
+amicizia
+musica
+Germania
+abbastanza
+piuttosto
+preferire
+automobile
+lavare
+Francia
+giusto
+base
+vendere
+telefono
+rendere
+capitare
+gente
+birra
+occhio
+Natale
+via
+fiore
+tardi
+palestra
+guidare
+grado
+ultimo
+nascondere
+nonno
+verità
+fine
+indossare
+lunedì
+Uniti
+fabbrica
+Stati
+unico
+finestra
+diverso
+fidare
+fattoria
+grazie
+ritardo
+soltanto
+sedere
+carriera
+spiegare
+dispiacere
+militare
+piangere
+secondo
+Ucraina
+forte
+cugino
+seguire
+prenotare
+Cina
+mela
+mattina
+autostrada
+ecco
+Layla
+latte
+Russia
+stasera
+italiano
+albero
+solamente
+rompere
+birreria
+pane
+scusare
+grattacielo
+tipo
+Argentina
+baracca
+ricevere
+cena
+Spagna
+templio
+sinagoga
+mattatoio
+cimitere
+meno
+intenzione
+allevamento
+ce
+pizza
+mausoleo
+ricco
+arene
+dottore
+risposta
+alzare
+camera
+no
+Inghilterra
+freddo
+esame
+sotto
+Canada
+vestito
+fra
+bisognare
+foto
+permettere
+cos'
+studio
+gioco
+piede
+mandare
+esperanto
+canzone
+tè
+facile
+entrambi
+Tatoeba
+accordo
+bastare
+salute
+Brasile
+Grecia
+accettare
+Marie
+stupido
+mentre
+probabilmente
+autobus
+riguardo
+divertire
+minuto
+rosso
+Egitto
+carne
+caldo
+regalo
+correre
+invitare
+compito
+scegliere
+sì
+Messico
+Svezia
+libero
+caso
+poi
+fa
+Portogallo
+ridere
+Turchia
+testa
+nascere
+capello
+pieno
+Romania
+Siria
+Albania
+mostrare
+scarpa
+Finlandia
+ufficio
+giornata
+attenzione
+tradurre
+Bulgaria
+là
+Nuova
+Marocco
+scatola
+Libano
+Bielorussia
+Libia
+paziente
+Scozia
+rubare
+Zelanda
+Arabia
+India
+colore
+Saudita
+Sudafrica
+mezzo
+Austria
+malato
+arrabbiare
+Malta
+funzionare
+possibile
+Cipro
+Vietnam
+contro
+notizia
+Islanda
+sole
+uovo
+Belgio
+Norvegia
+Nigeria
+Estonia
+cadere
+Lituania
+allora
+arrabbiato
+strano
+conoscenza
+Lettonia
+Danimarca
+cucina
+fumare
+Uruguay
+quindi
+Galles
+Olanda
+Paraguay
+:
+baciare
+promettere
+Etiopia
+stadio
+certo
+dentro
+Yanni
+John
+cucinare
+triste
+animale
+fame
+brutto
+dieci
+camminare
+signore
+divertente
+serio
+crescere
+pesce
+tavolo
+Cile
+cavallo
+tennis
+berbero
+interessante
+numero
+guerra
+preoccupato
+bianco
+lezione
+trascorrere
+ordinare
+salvare
+lontano
+svegliare
+pranzo
+sorprendere
+mentire
+Niger
+giapponese
+punto
+Regno
+Unito
+Somalia
+colazione
+cinque
+cuore
+Pakistan
+ammettere
+togliere
+insieme
+controllare
+genere
+aggiungere
+vivo
+estate
+innamorare
+solito
+assieme
+nemmeno
+Uganda
+sbagliare
+carta
+parco
+scoprire
+importare
+piatto
+sogno
+esistere
+toccare
+polizia
+prezzo
+Bangladesh
+segreto
+creare
+scordare
+riparare
+semplicemente
+squadra
+riconoscere
+morte
+viaggiare
+calcio
+fortunato
+tedesco
+piovere
+voce
+pomeriggio
+stazione
+mare
+realtà
+incidente
+voglia
+proteggere
+situazione
+te.
+orgoglioso
+rifiutare
+senso
+perfetto
+marito
+nero
+intelligente
+luce
+risolvere
+verso
+dizionario
+riunione
+-
+ritornare
+domenica
+consiglio
+bottiglia
+considerare
+affamato
+veloce
+messaggio
+giardino
+qualsiasi
+chitarra
+ombrello
+concerto
+maggiore
+borsa
+aperto
+ballare
+aereo
+convincere
+raggiungere
+età
+anziano
+torta
+raccontare
+opinione
+dietro
+tagliare
+offrire
+interessato
+completamente
+biglietto
+;
+evitare
+costare
+successo
+stato
+interessare
+impiego
+nervoso
+contare
+zoo
+Parigi
+informazione
+partita
+chiesa
+esattamente
+povero
+fiume
+sbagliato
+conto
+consigliare
+prestare
+occhiale
+ottenere
+mente
+causa
+famoso
+ferire
+faccia
+cattivo
+pubblico
+mamma
+gentile
+classe
+giro
+zucchero
+migliorare
+progetto
+apprezzare
+accendere
+geloso
+prestito
+spiaggia
+dollaro
+giornale
+colpa
+orologio
+sorpresa
+America
+ignorare
+Rima
+cappello
+quattro
+adorare
+decisione
+riso
+fatto
+compleanno
+mantenere
+almeno
+cinese
+ubriaco
+votare
+regola
+condividere
+sabato
+bicchiere
+finalmente
+coltello
+neanche
+fidanzato
+abbandonare
+necessario
+Dio
+umano
+gelato
+meritare
+esperienza
+rispetto
+assumere
+scelta
+pioggia
+appartamento
+carino
+presentare
+risultato
+duro
+futuro
+onesto
+Dan
+discutere
+pericoloso
+superare
+scrivania
+sparare
+legge
+immaginare
+ringraziare
+diritto
+licenziare
+sangue
+No
+arte
+immediatamente
+pregare
+trenta
+Halloween
+bagno
+Londra
+subito
+tirare
+arrestare
+gamba
+sia
+Nord.
+questione
+uccello
+vestire
+firmare
+lamentare
+nonna
+semplice
+costoso
+gruppo
+bicicletta
+pulito
+sorridere
+religione
+aspetto
+Internet
+colpire
+rapidamente
+cura
+penna
+straniero
+sopra
+pazzo
+richiedere
+aeroporto
+verde
+estero
+aria
+pure
+capo
+testo
+neve
+trasferire
+svago
+saltare
+sacco
+rapporto
+pezzo
+gatta
+matita
+canadese
+partecipare
+avanti
+davanti
+sé
+ve
+salire
+americano
+vista
+medico
+articolo
+indietro
+attraversare
+avvocato
+Sapete
+merce
+spagnolo
+romanzo
+comportare
+circa
+contento
+catturare
+russo
+luogo
+dente
+scendere
+terribile
+temere
+fuoco
+nulla
+commento
+intendere
+stamattina
+trattare
+terra
+chiaro
+comune
+abituare
+perdonare
+valere
+danzare
+azienda
+basso
+né
+accompagnare
+forza
+montagna
+matematica
+soffrire
+pulire
+moroso
+medicina
+blu
+Nord
+telefonare
+cielo
+rispettare
+dolore
+differenza
+braccio
+unire
+assolutamente
+esempio
+Europa
+corso
+velocemente
+tazza
+Maria
+dolce
+incolpare
+contrario
+Tokyo
+rumore
+nemico
+attraverso
+bici
+pranzare
+raccogliere
+pericolo
+servizio
+fotografia
+volare
+spaventare
+scacco
+mercato
+fissare
+affrontare
+tale
+sentimento
+fortuna
+sicuramente
+qualunque
+sedia
+peso
+Facebook
+poesia
+duramente
+dimostrare
+radio
+programma
+stanotte
+politico
+baseball
+correggere
+significare
+prigione
+traduzione
+fiero
+cinema
+desiderare
+ricerca
+comprendere
+bocca
+superiore
+inizio
+ottimo
+disturbare
+motivo
+corpo
+fotografico
+Fadil
+matrimonio
+sognare
+campo
+speranza
+muovere
+nave
+ammalare
+parere
+sonno
+commettere
+assicurare
+realizzare
+riposare
+Mennad
+ritorno
+accanto
+Roma
+appartenere
+grasso
+utile
+soluzione
+indirizzo
+vuoto
+torto
+televisione
+abbassare
+centro
+simile
+fretta
+negare
+parente
+sapore
+forma
+ordine
+curioso
+argomento
+organizzare
+pace
+impossibile
+silenzio
+speciale
+peggio
+girare
+Algeria
+doccia
+abito
+passo
+popolare
+albergo
+economico
+occasione
+sport
+possibilità
+invece
+orario
+pensiero
+pianoforte
+golf
+neppure
+scappare
+addormentare
+pasta
+battere
+sei
+lentamente
+dubbio
+giocatore
+suono
+sito
+urlare
+Corano
+coprire
+discorso
+sette
+hotel
+prova
+società
+naso
+fila
+natura
+inverno
+accusare
+sicurezza
+rovinare
+pescare
+biro
+abbracciare
+timido
+spazio
+raramente
+personale
+contatto
+avvertire
+accadere
+frutta
+passeggiata
+idiota
+odore
+soddisfare
+guaio
+pagina
+fresco
+Svizzera
+fiera
+normale
+estremamente
+deluso
+possedere
+formaggio
+causare
+sorriso
+taxi
+giù
+assomigliare
+osservare
+salutare
+obiettivo
+farmare
+ingannare
+spendere
+attaccare
+sistema
+offerta
+uso
+purtroppo
+rivedere
+malattia
+lanciare
+sporco
+solitamente
+appuntamento
+pistola
+fisico
+notare
+palla
+colpevole
+esprimere
+voto
+arabo
+libertà
+roba
+pena
+ormai
+grosso
+delizioso
+paio
+spegnere
+politica
+difendere
+mercoledì
+capace
+finché
+ripetere
+guadagnare
+spaventato
+supermercato
+tradire
+distruggere
+presidente
+pesante
+passato
+martedì
+dettaglio
+giovedì
+castello
+suggerire
+papà
+azione
+coraggio
+dito
+bloccare
+rischio
+caro
+durare
+col
+venti
+avvicinare
+difficoltà
+documento
+vento
+glielo
+combattere
+corsa
+breve
+infelice
+valigia
+finta
+video
+alunno
+scherzare
+impressionare
+fronte
+benvenuto
+intero
+camicia
+contratto
+passaggio
+Linda
+mentere
+infastidire
+recente
+New
+metà
+muro
+facilmente
+sopportare
+profondo
+presente
+portatile
+innocente
+litigare
+resto
+otto
+contattare
+ovviamente
+sandwich
+proposta
+cantante
+noioso
+disporre
+basket
+cellulare
+fallire
+comportamento
+saggio
+maiale
+Lascia
+memoria
+tv
+relazione
+cultura
+villaggio
+mucca
+prodotto
+esperto
+tranquillo
+pausa
+punire
+banana
+scusa
+smettelare
+ospite
+inutile
+cenare
+controllo
+adottare
+bellezza
+cambiamento
+Skura
+oro
+naturale
+membro
+riempire
+scala
+sbrigare
+promessa
+accorgere
+TV.
+fiducia
+nonostante
+locale
+buio
+annullare
+annoiare
+immagine
+intorno
+descrivere
+compagnia
+zia
+opera
+governo
+lago
+condizione
+serata
+pigro
+pianta
+ammirare
+pensione
+fuggire
+chiunque
+York
+gestire
+bruciare
+enorme
+arrendere
+artista
+serpente
+confuso
+interesse
+attore
+oh
+cappotto
+patata
+evento
+fianco
+debole
+volo
+sprecare
+oltre
+fornire
+cliente
+Ceca
+Marika
+valore
+antico
+lista
+epoca
+risparmiare
+informare
+cieco
+privato
+sale
+stella
+dipendere
+sopravvivere
+produrre
+contribuire
+zona
+richiamare
+Dimmi
+diretto
+beh
+guida
+comunque
+contenere
+meraviglioso
+weekend
+cazzo
+campagna
+pianeta
+ragno
+opportunità
+effetto
+candela
+parcheggiare
+termine
+seriamente
+Ken
+grave
+dirigere
+compagno
+strumento
+felicità
+rifare
+versare
+indicare
+pubblicare
+incontro
+lento
+interrompere
+sollevare
+prevedere
+deludere
+legno
+dato
+poliziotto
+rilassare
+alunne
+concentrare
+ridurre
+cravatta
+ditemere
+sostenere
+battuta
+garantire
+dottoresse
+spalla
+significato
+fondamentale
+pallacanestro
+pasto
+giallo
+couscous
+mordere
+sete
+barzelletta
+figlia
+luna
+pietra
+colpo
+arma
+prudente
+buttare
+festeggiare
+ladro
+periodo
+scienza
+zuppa
+istruzione
+peccato
+Kyoto
+qualità
+spingere
+minacciare
+spesa
+ottobre
+letteratura
+verdura
+attento
+gridare
+venerdì
+probabile
+segno
+importanza
+sociale
+tranne
+talento
+discussione
+raffreddore
+ok
+re
+coraggioso
+dessert
+corto
+conversazione
+fungo
+teoria
+pollo
+disponibile
+attività
+statunitense
+scomparire
+principale
+responsabile
+soldato
+spedire
+lacrima
+barca
+dipingere
+spiegazione
+nevicare
+inventare
+occupato
+orecchia
+falso
+riflettere
+nudo
+linguaggio
+dichiarare
+energia
+anticipo
+progresso
+disegnare
+piscina
+test
+primavera
+frutto
+rosa
+cuoco
+educazione
+fondo
+livello
+gioia
+oggetto
+avvisare
+ognuno
+completo
+barba
+bar
+processo
+pazienza
+disperato
+fantastico
+visita
+cento
+divenire
+museo
+spaghetto
+permesso
+orso
+peruviano
+hamburger
+assente
+sveglio
+spettacolo
+deserto
+corretto
+spostare
+interno
+rabbia
+abitudine
+virus
+maniera
+dividere
+perdita
+coinvolgere
+popolo
+suso
+richiesta
+aumentare
+chiamata
+ambiente
+musulmano
+copiare
+gusto
+rivista
+lottare
+anima
+trasformare
+restituire
+forno
+bugia
+vergognare
+minimo
+posizione
+cittadino
+latino
+quartiere
+nipote
+cancellare
+consegnare
+online
+inviare
+nove
+passeggiare
+cervello
+abbattere
+augurare
+Venerdì
+eccellente
+piantare
+positivo
+sabbia
+scambiare
+attivo
+lupo
+entro
+tizio
+insalata
+partito
+costo
+agire
+web
+giudicare
+distinguere
+picchiare
+divano
+pisolino
+fede
+capitale
+perfettamente
+emozione
+pratica
+disposto
+ghiaccio
+tempesta
+essenziale
+stagione
+dio
+dipinto
+cuocere
+miele
+offendere
+sfida
+udire
+isola
+scoppiare
+rivelare
+scopo
+copia
+emozionato
+allergico
+uguale
+tasca
+foresta
+posta
+costringere
+fantasma
+numeroso
+terzo
+motore
+musicista
+riprendere
+generale
+elenco
+destra
+sano
+vario
+giurare
+Marco
+topo
+ehi
+rapido
+sforzo
+Jackson
+confondere
+chiuso
+scrittore
+Islam
+peggiore
+occhiata
+incubo
+comunità
+riguardare
+vedertare
+rappresentare
+prezioso
+danno
+arancia
+approvare
+moderno
+chiaramente
+grammatica
+Inglese
+opzione
+sciare
+leggero
+depresso
+assaggiare
+desiderio
+attentamente
+invito
+dedicare
+denunciare
+tecnologia
+incredibile
+indovinare
+soddisfatto
+turno
+differente
+portafoglio
+limite
+Andò
+autore
+sfortunato
+ottimista
+gettare
+riuscito
+finlandese
+pessimo
+magari
+Terra
+internazionale
+ovunque
+recentemente
+vicenda
+succo
+mostro
+anello
+bistecca
+biscotto
+apparire
+pelle
+improvviso
+camion
+asciugamano
+elemento
+Bibbia
+pallavolo
+portoghese
+sala
+ferito
+capacità
+attorno
+metro
+minestra
+fingere
+'
+distanza
+premio
+sguardo
+linea
+Cinese
+2013
+affitto
+dappertutto
+stile
+tetto
+insultare
+eroe
+bosco
+bacio
+complicato
+responsabilità
+abbaiare
+mille
+regalare
+cioccolato
+fatica
+incoraggiare
+ex
+giacca
+consapevole
+Russa
+affatto
+autunno
+foglia
+moda
+pavimento
+atto
+pesare
+crimine
+schiena
+addosso
+Belga
+Finlandese
+incendio
+coniglio
+estivo
+gemello
+...
+accogliere
+Tedesca
+Svedese
+fonte
+hot
+dog
+insetto
+Albanese
+Greca
+Scozzese
+Islandese
+Etiope
+Norvegese
+Danese
+Lituana
+Estone
+Lettone
+costume
+annotare
+pantalone
+leone
+fastidioso
+invitato
+Marocchina
+Tunisina
+Egiziana
+Rumena
+Giapponese
+Australiana
+Canadese
+Messicana
+Colombiana
+Camerunense
+Boliviana
+Uruguaiana
+Paraguaiana
+Portoghese
+Bielorussa
+Ungherese
+Polacca
+Bulgara
+Ghanese
+Libanese
+Siriana
+Vietnamita
+Nigeriana
+Serba
+Bosniaca
+Maltese
+Malese
+Slovacca
+Slovena
+croata
+Libica
+Gallese
+Brasiliana
+Azera
+Spagnola
+Austriaca
+Macedone
+ciao
+assonnato
+mancanza
+diavolo
+sospettare
+confessare
+esercizio
+promuovere
+cacciare
+coppia
+circondare
+ascensore
+giocattolo
+pomodoro
+burro
+detestare
+cogliere
+sanguinare
+acquistare
+mezzogiorno
+spengere
+esercito
+sbarazzare
+risorsa
+orribile
+tavola
+sinistra
+tredici
+confermare
+adulto
+genio
+originale
+sufficientemente
+sensazione
+amante
+complesso
+milione
+umore
+ovvio
+lascare
+espressione
+Irlandese
+moneta
+porre
+malapena
+intelligenza
+)
+data
+arrivo
+ridare
+erba
+sigaretta
+sviluppare
+tacere
+prigioniero
+fumo
+lettura
+quaderno
+scettico
+galera
+appassionato
+Tunisia
+taglio
+criminale
+guanto
+laggiù
+titolo
+dieta
+angolo
+olio
+condurre
+vodka
+classico
+reale
+mondiale
+stomaco
+improvvisamente
+benvenire
+greco
+software
+(
+religioso
+specchio
+decorare
+schifo
+respirare
+razzista
+omicidio
+domestico
+europeo
+pitturare
+impressione
+acconsentire
+tendere
+prete
+folla
+trattenere
+economia
+ultimamente
+pacco
+diffondere
+password
+esagerare
+ricordo
+carcere
+secolo
+calmo
+piovare
+brillante
+esausto
+fallimento
+vietare
+suicidare
+minore
+tu.
+ufficiale
+rischiare
+mattino
+debito
+vendita
+impedire
+simbolo
+appoggiare
+scolastico
+conferenza
+materiale
+apprendimento
+sostituire
+appunto
+terreno
+ingenuo
+scena
+noto
+passione
+favorevole
+spazzatura
+acquisto
+materia
+obbligare
+diario
+..
+Chicago
+—
+vetro
+bandiera
+influenza
+frigorifero
+teatro
+affascinante
+mollare
+laptop
+doppio
+comporre
+viso
+piacevole
+dimissione
+area
+sospetto
+sincero
+massimo
+impazzire
+eliminare
+tassa
+profondamente
+mescolare
+presenza
+ungherese
+traffico
+contadino
+personaggio
+annoiato
+parete
+specie
+fan
+nuvola
+decisamente
+cipolla
+comunicare
+tremare
+alibo
+calma
+romantico
+stretto
+nazionale
+gentilezza
+ruolo
+maglione
+ridicolo
+State
+popolazione
+confronto
+correttamente
+comunicazione
+frequentare
+finale
+addormentato
+e-mail
+ingresso
+esso
+generoso
+insistere
+volto
+bordo
+Jane
+vegetariano
+sufficiente
+educato
+trasportare
+tigre
+bevanda
+frigo
+poeta
+foglio
+includere
+avvenire
+turco
+proporre
+collina
+continuamente
+abituato
+velocità
+formare
+pesca
+certamente
+adattare
+patente
+divorziare
+appendere
+salsa
+commerciale
+sviluppo
+regione
+bebè
+giornalista
+legare
+proprietario
+pianificare
+terremoto
+yen
+pronunciare
+lato
+corda
+fermata
+eravare
+curare
+Dai
+scommettere
+porto
+morto
+proposito
+eleggere
+stancare
+crisi
+preciso
+ricetta
+aggiornare
+euro
+infanzia
+utilizzo
+digliere
+comodo
+credito
+parecchio
+cioccolata
+storico
+commentare
+capitano
+peggiorare
+bugiardo
+vittima
+rima
+angelo
+rivolgere
+grigio
+Osaka
+lavoratore
+metodo
+egoista
+esaminare
+urgente
+danneggiare
+stringere
+riportare
+profumo
+aula
+egli
+Africa
+magro
+grato
+imbarazzare
+ansia
+collega
+turista
+sordo
+ferro
+influenzare
+compiere
+temperatura
+completare
+elefante
+principio
+privo
+aggressivo
+pecora
+furioso
+direzione
+merito
+effettuare
+domattina
+polacco
+merda
+sesso
+strappare
+connettere
+quadro
+stavolta
+singolo
+magnifico
+liberare
+salvo
+dentista
+carattere
+suggerimento
+Cairo
+continuo
+trasporto
+assonnare
+coloro
+imbarazzato
+Bill
+direttore
+soprattutto
+particolare
+attacco
+vomitare
+tentare
+svolgere
+consultare
+guardia
+guarire
+impegno
+registrare
+abilità
+criticare
+scienziato
+giustizia
+ombra
+nazione
+costruzione
+vaso
+applicare
+schiacciare
+ballo
+convinto
+investire
+mezzanotte
+violenza
+bagnare
+reato
+2:30
+battaglia
+aumento
+universo
+produzione
+chimico
+forchetta
+straordinario
+sportivo
+rifiuto
+attirare
+abbraccio
+salario
+violare
+ragionevole
+pallido
+allontanare
+seppellire
+Milano
+tema
+soggetto
+concetto
+tesoro
+ditele
+imam
+disagio
+atmosfera
+biologia
+pianto
+scimmia
+crescita
+elezione
+creativo
+allenatore
+fisica
+raro
+ignoranza
+amichevole
+serie
+coda
+carico
+avvelenare
+sottovalutare
+lettore
+riscaldare
+segnare
+pressione
+supporre
+Unione
+eseguire
+Berlino
+linguistico
+benzina
+affidabile
+10
+francobollo
+segretario
+esplorare
+gola
+resistere
+scoperta
+raccomandare
+riferire
+dubitare
+finanziario
+lavora
+batteria
+attimo
+nota
+verificare
+nostalgia
+me.
+attendere
+scientifico
+destino
+calza
+Quanta
+puro
+funerale
+asciugare
+donare
+dimensione
+godere
+20
+carota
+tradizione
+splendido
+rinunciare
+ricchezza
+ananas
+disegno
+stagno
+poker
+oliva
+manzo
+comprensione
+annegare
+tatuaggio
+pappagallo
+Asia
+gonna
+culturale
+sparire
+passeggero
+libreria
+scivolare
+largo
+spaventoso
+annaffiare
+geografia
+rimpiangere
+sentenza
+illegale
+provocare
+movimento
+miracolo
+paranoico
+canto
+affilare
+mica
+Gran
+chissà
+fetta
+imbrogliare
+supporto
+geometria
+preoccupazione
+alimentare
+vittoria
+mobile
+proibire
+febbre
+impaziente
+bambina
+sdraiare
+afferrare
+Twitter
+indiano
+privacy
+attesa
+mappa
+uniforme
+progettare
+pubblicità
+tenda
+estraneo
+giungere
+ideale
+destinazione
+annunciare
+priorità
+matto
+affermare
+origine
+osare
+individuo
+gratuito
+cambio
+dipendente
+organizzazione
+adatto
+ginocchio
+conseguenza
+ritenere
+allenare
+artificiale
+discretamente
+Bob
+Studio
+farfalla
+critica
+esercitare
+cognome
+prenotazione
+coronavirus
+spirito
+5
+dubire
+condannare
+terminare
+Ungheria
+modello
+sospendere
+specifico
+testimone
+garage
+esterno
+apposta
+visitatore
+zitto
+laureare
+Bretagna
+giudice
+avversario
+obbedire
+uscita
+verifica
+comprarare
+legale
+palestinese
+immaginazione
+bambola
+vasto
+cuscino
+armadio
+stradale
+madrelingua
+nausea
+folle
+finora
+caricare
+rete
+simpatico
+piegare
+San
+vantaggio
+elettrico
+scuro
+limone
+quantità
+svedese
+tradizionale
+friggere
+potente
+reagire
+scaricare
+subire
+gara
+football
+ditegliare
+tramonto
+collegare
+tastiera
+settore
+stupire
+cancro
+3
+separare
+droga
+pulsante
+rientrare
+Babbo
+personalmente
+racconto
+discreto
+gratis
+spiacente
+mistero
+scavare
+assistente
+svenire
+Dille
+ketchup
+competenza
+augurio
+roso
+marrone
+sconfiggere
+Kobe
+funzione
+olandese
+cancello
+scoiattolo
+struttura
+interrogare
+fregare
+parcheggio
+fedele
+sconosciuto
+consentire
+assassinare
+solare
+disco
+particolarmente
+professionista
+innovazione
+clima
+club
+algebra
+inserire
+britannico
+familiare
+noleggiare
+intrappolare
+bagaglio
+telefonata
+procedere
+alfabeto
+disprezzare
+successivo
+trattato
+moto
+dirlo
+minaccia
+oceano
+terribilmente
+regolare
+umiliare
+Vostra
+coltivare
+chimica
+critico
+iscrivere
+avventura
+blog
+irritare
+rallentare
+risata
+algoritmo
+hobby
+ai
+sciogliere
+album
+stendere
+calmare
+basare
+contante
+frustrato
+single
+protezione
+misura
+verbo
+altrimenti
+citare
+%
+dispositivo
+provenire
+emergenza
+lamentela
+praticare
+fiamma
+chilo
+democrazia
+vergogna
+portale
+complimento
+Google
+torturare
+rimuovere
+monte
+corrente
+quindici
+maturo
+affondare
+generazione
+sciocco
+allacciare
+stufo
+cossemél
+attraente
+popcorn
+vertigine
+accesso
+infinito
+volentieri
+poiché
+assurdo
+maestro
+precedente
+costantemente
+Tommaso
+sambrare
+quotidiano
+vendetta
+tecnico
+algerino
+costante
+nuoto
+autorità
+stirare
+irlandese
+ulteriore
+interferire
+proprietà
+mercante
+piazza
+pessimista
+oppure
+aglio
+conservare
+Jim
+bollire
+postale
+cima
+colui
+tentativo
+culo
+operaio
+umanità
+negativo
+cerchiare
+affollato
+musicale
+collo
+nascosto
+stipendio
+alba
+caccia
+perse
+fango
+fermo
+Harvard
+sistemare
+accento
+maleducato
+tappeto
+applaudire
+televisore
+destro
+attuale
+collezione
+Gesù
+sfidare
+scorrere
+ape
+videogioco
+labbro
+saggezza
+ispirare
+figura
+cameriere
+sovrappeso
+fritto
+cazzata
+Mike
+Jack
+decollare
+festival
+cintura
+padrone
+bruciato
+nominare
+volontà
+fiato
+connessione
+piccante
+pelo
+scoraggiare
+esatto
+assoluto
+valido
+destinare
+severo
+cucire
+alcol
+assistere
+elegante
+terrorizzare
+sodo
+identità
+mossa
+confine
+intervento
+morale
+indipendente
+pittore
+dozzina
+coreano
+ritrovare
+David
+orecchio
+persino
+identificare
+amato
+cd
+dibattito
+cinquanta
+intimo
+efficace
+insolito
+razza
+rovesciare
+Leon
+recuperare
+sfortunatamente
+cinto
+versione
+calore
+coscienza
+leader
+ciliegia
+ammazzare
+praticamente
+infatti
+crudele
+disaccordo
+panino
+nebbia
+svegliere
+sindaco
+nutrire
+cucchiaio
+esporre
+miglioramento
+situare
+rimettere
+quarto
+totale
+fastidio
+casino
+contesto
+sparo
+norma
+scioccare
+Papa
+ah
+shopping
+stivale
+puntuale
+considerazione
+dodici
+cugina
+fragola
+limitare
+curiosità
+gesto
+sfuggire
+reazione
+ritirare
+piccione
+Jamal
+bastone
+giugno
+evidente
+divertimento
+atteggiamento
+umorismo
+esplosione
+commissione
+Taninna
+pilota
+furto
+onore
+percorso
+invecchiare
+conducente
+imbattere
+riprovare
+assetato
+calcolare
+stupendo
+media
+dimettere
+operazione
+tramite
+lotta
+seguente
+sveglia
+paesaggio
+quaranta
+assenza
+emozionante
+picnic
+giudizio
+chiamatemere
+sposo
+esperimento
+regolarmente
+visione
+ubriacare
+ferie
+danza
+accusa
+facilità
+Toki
+scuotere
+nascita
+asiatico
+combinare
+migliaio
+pentire
+onda
+degno
+ambizioso
+dia
+escludere
+Pona
+argento
+30
+rimandare
+chilometro
+trasmettere
+sensibile
+ciascuno
+messicano
+generalmente
+scrittura
+traduttore
+istante
+Serbia
+eccezione
+determinare
+Polonia
+atterrare
+definire
+calligrafia
+ricoprire
+informatica
+laurea
+trecento
+paragonare
+band
+cotta
+Madagascar
+collezionare
+volontario
+pratico
+ingegnere
+imbarazzante
+pochino
+riscrivere
+attrarre
+personalità
+maglia
+noce
+spezzare
+analizzare
+puzzare
+imitare
+essa
+brasiliano
+atleta
+analisi
+industria
+Thomas
+cercire
+sinistro
+capra
+scherzo
+dore
+arricchire
+laboratorio
+tipico
+saluto
+magazzino
+beccare
+cortile
+esitare
+secco
+autista
+cartolina
+guancia
+partenza
+vicina
+ferroviario
+trucco
+account
+lessare
+riposo
+rumeno
+esigente
+scattare
+esistenza
+educare
+improbabile
+buco
+disturbo
+testardo
+idolo
+misurare
+ansioso
+avanzare
+champagna
+lotteria
+leggermente
+attribuire
+scusame
+vocabolario
+memorizzare
+rubato
+globale
+Madrid
+spada
+agio
+rilassato
+Mosca
+calciare
+ragionare
+incredibilmente
+scalare
+gennaio
+essi
+totalmente
+regina
+accontentare
+schiavo
+banco
+Marte
+trattamento
+masticare
+interprete
+turbare
+intenso
+zucca
+alternativa
+ambizione
+Pasqua
+zanzara
+sposato
+cristiano
+affascinare
+tessuto
+qualcos'
+passatempo
+andiare
+assassino
+sostegno
+allenamento
+significativo
+busta
+Tony
+dopodomani
+codardo
+polvere
+accelerare
+segnale
+ignorante
+addio
+stabilire
+risultare
+cedere
+pulizia
+violento
+magico
+domandare
+punta
+aprile
+undici
+plastica
+promozione
+corridoio
+coi
+congratulare
+principiante
+martello
+impatto
+leccare
+concludere
+difetto
+bevere
+roccia
+ferita
+assicurazione
+settembre
+panchina
+candidato
+delicato
+ucraino
+rugby
+allungare
+fumetto
+mentale
+malaccio
+scritto
+viola
+giustificare
+varietà
+sorgere
+soffiare
+panda
+arrampicare
+pera
+azzurro
+orrore
+apparentemente
+farmaco
+spogliare
+tocco
+impresa
+territorio
+infermiera
+Smith
+ramo
+gliela
+tendenza
+inseguire
+disoccupato
+kebab
+torte
+filo
+maschera
+accumulare
+fotografo
+metallo
+lavatrice
+Colombia
+adorabile
+forzare
+campione
+grata
+gas
+principessa
+equilibrio
+repubblica
+utente
+ortografia
+rilasciare
+Emily
+baffo
+sconfitta
+brillare
+entusiasmo
+Hokkaido
+Paolo
+veleno
+pepe
+imporre
+dichiarazione
+zero
+valutare
+tuttavia
+corte
+bucato
+invidiare
+fluentemente
+sasso
+vincitore
+missione
+Algeri
+medio
+svuotare
+volpe
+serbo
+misterioso
+crudo
+acceso
+cliccare
+carica
+marino
+aeroplano
+distrarre
+legame
+fagiolo
+formazione
+avvolgere
+emotivo
+pedone
+innocenza
+rotta
+ingrassare
+principalmente
+disgustoso
+tesi
+cerimonia
+diplomatico
+estremo
+installare
+finto
+crema
+accordare
+codice
+patatina
+sputare
+assistenza
+annusare
+sfruttare
+tristezza
+curry
+riservare
+introdurre
+capite
+altezza
+staccare
+riunire
+circostanza
+cassa
+spreco
+rigido
+favorire
+Slovenia
+chef
+robot
+espellere
+appetito
+bomba
+congelare
+capitolo
+danese
+salto
+generare
+pugno
+recitare
+fase
+competizione
+conclusione
+australiano
+perfezione
+concordare
+imbarazzo
+sbucciare
+tiro
+gabbia
+disposizione
+Luna
+Alice
+statua
+sacro
+autentico
+ricominciare
+maggio
+prospettiva
+onestà
+precisione
+esaurire
+palco
+diedere
+Wow
+sostanza
+Kate
+campeggio
+rock
+sbattere
+morbido
+difesa
+islandese
+diamante
+sufficienza
+semaforo
+orgoglio
+efficiente
+scaffale
+grattare
+sorprendente
+eccessivo
+cavolo
+coma
+aspettativa
+ispirazione
+cassetto
+centinaio
+bolletta
+lavagna
+riga
+Thailandia
+torre
+pregiudizio
+rovina
+scortese
+odio
+tuffare
+civile
+novità
+manifestazione
+povertà
+commerciante
+impiccare
+Slovacchia
+Palestina
+tecnica
+diversamente
+yogurt
+impiegato
+prevenire
+insopportabile
+intervenire
+eh
+sessuale
+ingrediente
+contenuto
+avviso
+riparo
+affetto
+bulgaro
+pizzeria
+partner
+cargo
+rotto
+menzionare
+fenomeno
+luglio
+George
+Neanche
+secchio
+spiacere
+goccia
+sintomo
+Robert
+calciatore
+arrogante
+cagare
+gliele
+sciocchezza
+meccanico
+occorrere
+imparentare
+essestire
+de
+inizialmente
+competitivo
+frastornare
+obbligatorio
+miglio
+liquido
+ambulanza
+hockey
+volume
+convertire
+superficie
+sottile
+riparazione
+arancione
+patetico
+vivace
+spinace
+santo
+Tailandia
+presentazione
+reciproco
+salmone
+Camerun
+soggiorno
+pianista
+consumare
+osso
+acido
+attualmente
+mancato
+nervo
+salato
+ambasciata
+Paul
+conflitto
+capiare
+emozionare
+citazione
+illuminare
+vegano
+Wikipedia
+Toscana
+Croazia
+bussare
+cammino
+Europea
+svizzero
+ristrutturare
+modificare
+modesto
+selvatico
+buca
+riferimento
+metropolitano
+premere
+avverare
+ipocrita
+sud
+gioiello
+sospettoso
+rumoroso
+sorseggiare
+sapone
+uva
+medaglia
+scopa
+dimmiare
+reputazione
+pozzo
+pagamento
+collaborazione
+navigare
+firma
+collaborare
+necessità
+consolare
+Hey
+agente
+pillola
+natalizio
+indosso
+multa
+affamare
+vasca
+artistico
+tingere
+scozzese
+sudare
+spontaneo
+gay
+distante
+entrata
+manuale
+farina
+petto
+sconto
+panico
+rapinare
+presa
+vizio
+solitudine
+curriculum
+esigere
+Istanbul
+ginnastica
+collegamento
+palazzo
+cattolico
+impiegare
+cucciolo
+rapire
+cadavere
+virtù
+avviare
+stufa
+continuazione
+Wi-Fi
+umido
+biondo
+impressionato
+seme
+jazz
+inferno
+strategia
+nord
+logico
+interpretare
+spina
+entusiasta
+velenoso
+ritmo
+greca
+divorzio
+cassetta
+polso
+bacare
+segnalare
+perciò
+addestrare
+cantiere
+egiziano
+microonda
+motel
+Hawaii
+derivare
+pienamente
+sbadigliare
+cacciatore
+perdente
+tollerare
+approfittare
+stress
+ostacolo
+link
+compiacere
+naturalmente
+africano
+talentuoso
+aziendale
+albanese
+buongiorno
+universitario
+marciapiede
+stampa
+Anna
+affidare
+vacca
+canale
+norvegese
+spasso
+sinceramente
+sperimentare
+Scandinavia
+consegna
+trascurare
+paradiso
+febbraio
+vantare
+bottone
+bagnato
+puntare
+silenzioso
+fulmine
+affittare
+grano
+chirurgo
+cartone
+conte
+Israele
+pirata
+prosciutto
+superficiale
+ceco
+sarcastico
+dottoressa
+celebrare
+innervosire
+Pechino
+leggenda
+fotogenico
+abitante
+elettronico
+»
+crollare
+delusione
+motivare
+eterno
+puttana
+compilare
+commuovere
+menù
+vocale
+identico
+potenziale
+selezione
+arachidio
+agitato
+ingoiare
+traccia
+assegno
+centrale
+coperta
+elettricità
+re.
+istinto
+bimbo
+esplodere
+coincidenza
+nativo
+profilo
+accorrere
+intervista
+fischiare
+pietà
+Farlo
+carro
+gustoso
+stufare
+cruciale
+manipolare
+Macedonia
+sbaglio
+fondare
+essesere
+massaggio
+Brown
+illusione
+«
+vincare
+Nu
+sacrificare
+Bush
+macchia
+automatico
+bocciare
+perfino
+dettagliato
+incrociare
+protestare
+maglietta
+professionale
+governare
+morso
+disastro
+informatico
+bestia
+rivoluzione
+marcia
+sedermare
+contraddire
+riscaldamento
+agnello
+luminoso
+gigante
+vigile
+cretino
+pugnalare
+pony
+Dna
+babysitter
+asino
+agosto
+temporale
+pronuncia
+100
+apprendere
+dirle
+rinnovare
+energico
+pro
+gallina
+indagare
+elementare
+avanzato
+distratto
+infrantare
+montare
+dicembre
+ala
+rana
+immergere
+sciarpa
+venditore
+immenso
+casco
+smarrire
+maionese
+shampoo
+caramella
+tennista
+mattinata
+jeans
+villa
+diver
+Bassi
+isolato
+pittura
+scaldare
+affilato
+malvagio
+mucchio
+gomma
+allegro
+catena
+siedere
+femminile
+chiarire
+imprudente
+ruota
+benessere
+mais
+maschio
+scommessa
+mungere
+gallese
+mahjong
+autorizzare
+cortesia
+austriaco
+forbice
+ripagare
+Betty
+confrontare
+architetto
+sofferenza
+previsione
+gentiluomo
+soccorso
+unghia
+cuffia
+presso
+$
+tono
+escursione
+supportare
+flauto
+Los
+aggiornamento
+passire
+saporito
+annuncio
+avido
+stronzata
+cavare
+terrorista
+gioventù
+guadagno
+tartaruga
+seguito
+intanto
+corrispondere
+sciopero
+operare
+ragazzino
+verbale
+studioso
+lusso
+prato
+lampada
+motivazione
+riva
+prudenza
+camino
+sconvolgere
+invidia
+gratuitamente
+Angeles
+posare
+stampare
+doloroso
+aggiustare
+opposto
+giraffa
+database
+amaro
+corpus
+razzismo
+ciotola
+scontato
+diminuire
+insulto
+applicazione
+Nancy
+jazz.
+dialetto
+dono
+meteo
+creatura
+taglia
+tragedia
+quinto
+infermiere
+digitale
+intellettuale
+indagine
+fallo
+balena
+orientale
+materno
+ipotesi
+scherzi
+letterario
+concedere
+disonesto
+trappola
+chitarrista
+onorare
+inevitabile
+ricevuta
+compromesso
+teso
+armeno
+filippino
+stessere
+pari
+Taro
+consistere
+raffreddare
+costa
+solido
+modulo
+romano
+realmente
+combinazione
+Jean
+caratteristica
+lodare
+petrolio
+costituire
+eccezionale
+polmone
+scadere
+racchetta
+portata
+freno
+riavviare
+lavorativo
+fumatore
+turistico
+arrossire
+programmare
+affermazione
+sino
+ufficialmente
+colombiano
+apertura
+soddisfazione
+opporre
+drogare
+scioccato
+mirare
+anatra
+sforzare
+Taiwan
+yoga
+cicatore
+Fuji
+universale
+respingere
+lasagna
+Paesi
+sussurrare
+confusione
+tomba
+Sicilia
+casuale
+gestione
+evoluzione
+comitato
+mosca
+trarre
+atmosferico
+lasciale
+senape
+Baya
+2
+California
+sentiero
+zampa
+perplesso
+spugna
+dotare
+lieto
+cittadina
+cocktail
+favoloso
+interiore
+organo
+inaspettato
+farmacia
+notturno
+vago
+Mark
+vecchiaia
+realistico
+delegato
+sostenibile
+istituzione
+avventuroso
+bielorusso
+Instagram
+ingiusto
+faccenda
+somma
+Firenze
+calendario
+soffocare
+mito
+dunque
+ostinato
+aspirina
+contagioso
+ripartire
+aquila
+pulere
+spia
+reddito
+conquistare
+fisso
+spettacolare
+deporre
+compassione
+lana
+piantina
+cessare
+ampio
+belga
+muratore
+attrezzo
+dritto
+regno
+effettivamente
+fucile
+rimpiante
+motivato
+meschino
+invidioso
+respiro
+Repubblica
+amministratore
+agitare
+frequentemente
+legna
+filosofia
+selvaggio
+tasso
+punizione
+radice
+pentola
+fantasia
+impero
+logica
+patria
+binario
+contemporaneo
+raccolta
+nuotatore
+confidare
+costituzione
+ministro
+tentazione
+distare
+Felice
+riordinare
+appropriato
+investimento
+terrorismo
+determinato
+cartello
+unità
+riconoscente
+gustare
+misto
+notevole
+infastidito
+allergia
+Napoleone
+professionalità
+spiare
+dategliare
+offeso
+nucleare
+telefonico
+Nagoya
+marzo
+macellaio
+scambio
+mento
+asilo
+suicidio
+iniziativa
+desidero
+georgiano
+tensione
+calare
+intervistare
+preghiera
+bugiarda
+spedizione
+sede
+igienico
+broccolo
+ascolto
+truccare
+testamento
+croato
+gelosia
+variare
+distribuire
+passante
+incapace
+standard
+obiezione
+seduta
+abbigliamento
+mensa
+indispensabile
+traditore
+creazione
+Okinawa
+magia
+scandalo
+sanguigno
+parlante
+stupidità
+ratto
+tumore
+argentino
+partecipante
+maestria
+macedone
+episodio
+Obama
+fortemente
+decedere
+mazza
+team
+chiacchierata
+adolescente
+tremendo
+banjo
+israeliano
+tossire
+croce
+50
+impressionante
+gliene
+Scrisse
+inchiostro
+colloquio
+alimento
+commercio
+insoddisfatto
+accidentalmente
+protagonista
+microscopio
+infantile
+Corsica
+beneficio
+leono
+programmatore
+industriale
+Carlos
+sezione
+alzato
+altrui
+T-shirt
+marocchino
+borsetta
+Oriente
+cerca
+innamorato
+spam
+cellula
+equo
+selezionare
+smalto
+credibilità
+divorare
+alcolico
+convincente
+assegnare
+25
+regolamento
+messa
+russare
+tollerante
+mago
+Pinocchio
+tantissimo
+sereno
+compere
+orfano
+armato
+frequente
+infastidere
+marmellata
+odorare
+allevare
+inciampare
+maltese
+neozelandese
+sparere
+arco
+armadietto
+Ivan
+Sardegna
+libanese
+sessanta
+separato
+Mayuko
+chiacchierare
+formica
+estrarre
+occidentale
+vivente
+studierare
+siedire
+gita
+spettatore
+osservazione
+concreto
+altamente
+raccolto
+procedura
+nobile
+condizionato
+notevolmente
+rasare
+calzino
+diversità
+rimedio
+fazzoletto
+parlamento
+visibile
+ambientale
+cetriolo
+conservatore
+lojban
+sudafricano
+orecchino
+armare
+determinazione
+senzatetto
+battito
+orizzonte
+Peter
+scemo
+ovest
+immediato
+alieno
+Michael
+riservato
+seno
+commestibile
+immigrato
+lunghezza
+thailandese
+pretendere
+insegnamento
+temporaneo
+mestiere
+interpretazione
+zaino
+sottolineare
+veicolo
+certezza
+accedere
+elicottero
+liscio
+cantina
+elevato
+liberamente
+apparecchiare
+debolezza
+apparenza
+acciaio
+abile
+ri
+vela
+acquisire
+percepire
+drink
+spaccare
+accogliente
+tienile
+record
+esibizione
+Laurie
+lussemburghese
+strangolare
+8
+massa
+Rio
+corrotto
+orchestra
+4
+filosofo
+ostaggio
+invernale
+compagna
+giovinezza
+follia
+facilitare
+corona
+Antonio
+carrozza
+“
+marinaio
+qu
+stiare
+accurato
+attrazione
+ribellare
+petizione
+diligente
+duemila
+arresto
+rigoroso
+fraintendere
+Cristo
+–
+evidentemente
+schermo
+scalzo
+aderire
+biologico
+sofisticato
+FBI.
+azero
+Leonid
+congratulazione
+sgradevole
+cervo
+Pietro
+usato
+sedici
+cesto
+delfino
+devastare
+vicinanza
+procurare
+reggere
+tosse
+Yokohama
+sacrificio
+pancia
+inquinamento
+15
+colorato
+padroneggiare
+associare
+fortunatamente
+melodia
+chiodo
+fallare
+Groenlandia
+obbligo
+regime
+voltare
+ebraico
+convenire
+femmina
+nuziale
+tratto
+solitario
+iPad
+ospitare
+lavastoviglia
+stabile
+volgere
+rischioso
+purè
+invenzione
+Lucy
+mostra
+precipitare
+ossigeno
+assorbire
+normalmente
+dignità
+scarso
+lente
+contributo
+nido
+flessibile
+legittimo
+ereditare
+convinzione
+gesso
+risparmio
+yacht
+cocco
+sbarra
+spaziale
+calcolo
+litro
+lancio
+volgare
+dosso
+rilassante
+minerale
+scadenza
+produttivo
+terapia
+coro
+franco
+vulnerabile
+esperantista
+soffitta
+dispiaciuta
+mediocro
+contrassegnare
