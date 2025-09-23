@@ -10,14 +10,14 @@
 
     <!-- Colored sentence -->
     <text x="50%" y="80" class="text">
-      <tspan fill="#FF8C00">毎日 </tspan>
-      <tspan text-decoration="underline" fill="#B22222">食べる </tspan>
-      <tspan fill="#2E8B57">野菜 </tspan>
-      <tspan fill="#696969">を </tspan>
+      <tspan>毎日 </tspan>
       <tspan fill="#B22222">食べる </tspan>
-      <tspan fill="#696969">こと が </tspan>
-      <tspan fill="#1E90FF">大切 </tspan>
-      <tspan fill="#696969">です。</tspan>
+      <tspan>野菜 </tspan>
+      <tspan>を </tspan>
+      <tspan>食べる </tspan>
+      <tspan>こと が </tspan>
+      <tspan>大切 </tspan>
+      <tspan>です。</tspan>
     </text>
   </g>
 </svg>

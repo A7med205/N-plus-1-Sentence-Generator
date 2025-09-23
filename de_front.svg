@@ -11,12 +11,12 @@
 
     <!-- Second line -->
     <text x="50%" y="70" class="text">
-      <tspan fill="#008080">Er </tspan>
-      <tspan fill="#B22222">kauft </tspan>
-      <tspan fill="#696969">ein </tspan>
-      <tspan text-decoration="underline" fill="#2E8B57">Haus</tspan>
-      <tspan fill="#696969"> für seine </tspan>
-      <tspan fill="#2E8B57">Familie</tspan>.
+      <tspan>Er </tspan>
+      <tspan>kauft </tspan>
+      <tspan>ein </tspan>
+      <tspan fill="#2E8B57">Haus</tspan>
+      <tspan>für seine </tspan>
+      <tspan>Familie</tspan>.
     </text>
   </g>
 </svg>
