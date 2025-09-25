@@ -154,7 +154,7 @@ def call_openai_generate_sentences(lemma: str, model: str = "gpt-5-mini") -> Lis
         "You're an expert AI language assistant, analyse the user provided prompt and answer accordingly."
     )
     user_text = (
-        f"Produce 10 simple {word_count}-word sentences that must all include the word {lemma}. "
+        f"Produce 10 simple {word_count}-word sentences that must all include the word {lemma} in one of its forms. "
         "Return only the sentences in the JSON fields as specified."
     )
 
