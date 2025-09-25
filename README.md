@@ -28,18 +28,18 @@ This open project aims to provides **3,000 frequency-based vocabulary flashcards
 4. Generate sentences (via corpus or LLM)
 5. Final human review
 
-| Language          | Status |
-|-------------------|--------|
-| English           | ✅✅❌❌❌ |
-| French            | ✅✅❌❌❌ |
-| Mandarin Chinese  | ✅✅❌❌❌ |
-| Spanish           | ✅✅❌❌❌ |
-| German            | ✅✅❌❌❌ |
-| Italian           | ✅✅❌❌❌ |
-| Japanese          | ✅✅❌❌❌ |
-| Russian           | ✅❌❌❌❌ |
-| Portuguese        | ✅✅❌❌❌ |
-| Korean            | ✅✅❌❌❌ |
+| Language         | 1 | 2 | 3 | 4 | 5 |
+| ---------------- | - | - | - | - | - |
+| English          | ✅ | ✅ | 50% | ❌ | ❌ |
+| French           | ✅ | ✅ | 50% | ❌ | ❌ |
+| Mandarin Chinese | ✅ | ✅ | 50% | ❌ | ❌ |
+| Spanish          | ✅ | ✅ | 50% | ❌ | ❌ |
+| German           | ✅ | ✅ | 50% | ❌ | ❌ |
+| Italian          | ✅ | ✅ | 50% | ❌ | ❌ |
+| Japanese         | ✅ | ✅ | 50% | ❌ | ❌ |
+| Russian          | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Portuguese       | ✅ | ✅ | 50% | ❌ | ❌ |
+| Korean           | ✅ | ✅ | 50% | ❌ | ❌ |
 
 
 ### Phase Two – Deck Building
