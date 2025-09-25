@@ -2,16 +2,17 @@
 
 ## Overview
 
-This open project aims to provides **3,000 frequency-based vocabulary flashcards** for multiple languages, built on the **n+1 principle**:
+This open project aims to provides **3,000 frequency-based vocabulary flashcards** for language learners for multiple languages, built on the **n+1 principle**:
 
-> Each new sentence should contain only *one* additional unknown word compared to the learner’s current vocabulary.
+> Each new sentence should introduce only *one* new unknown word compared to the learner’s current vocabulary.
 
 ### Features
 
 * Covers **10 languages**:
 
   * English, French, Mandarin Chinese, Spanish, German, Italian, Japanese, Russian, Portuguese, Korean
-* Sentences and vocabulary are sourced from large corpora or generated via language models, followed by human review
+* Cards contain words, definitions, example sentences, translations and audio
+* Example sentences are sourced, based on the rules, from large corpora or generated via language models, followed by human review [Read More](generator/README.md)
 * **3K curated cards per language**
 * Repository includes corpora, frequency lists, and flashcard decks
 * At a pace of **25 new cards/day**, a beginner can finish the full deck in \~4 months
@@ -22,11 +23,11 @@ This open project aims to provides **3,000 frequency-based vocabulary flashcards
 
 ### Phase One – Sentence Lists
 
-1. Collect corpora
-2. Build lemma frequency lists
-3. Human vetting of lists
-4. Generate sentences (via corpus or LLM)
-5. Final human review
+1. **Collect corpora:** Public sentence banks such as Tatoeba and OpenSubtitles are sourced for each language.
+2. **Build lemma frequency lists:** Usine Stanza (a context aware NLP model) the most frequent lemmas (base or dictionary forms of each word) are extracted from the dataset and sorted by frequency, and part of speech information / multiple definitions for each word are pulled from Wiktionary.
+3. **Human vetting of lists:** Erreneous entries are removed and the best definitions are chosen for each word.
+4. **Generate sentences:** For each new word, a sentence that contains only preveuously learned words is either sourced from the sentence bank or machine generated.
+5. **Final human review:** The quality/naturalness of each example sentence is reviewed by a native speaker.
 
 | Language         | 1 | 2 | 3 | 4 | 5 |
 | ---------------- | - | - | - | - | - |
@@ -45,21 +46,21 @@ This open project aims to provides **3,000 frequency-based vocabulary flashcards
 ### Phase Two – Deck Building
 
 
-1. Generate translations & audio
-2. Human review
+1. **Generate translations, audio and properly formatted flashcards**.
+2. **Human review**.
 
-| Language          | Status |
-|-------------------|--------|
-| English           | ❌❌ |
-| French            | ❌❌ |
-| Mandarin Chinese  | ❌❌ |
-| Spanish           | ❌❌ |
-| German            | ❌❌ |
-| Italian           | ❌❌ |
-| Japanese          | ❌❌ |
-| Russian           | ❌❌ |
-| Portuguese        | ❌❌ |
-| Korean            | ❌❌ |
+| Language          | 1 | 2 |
+|-------------------| - | - |
+| English           | ❌ | ❌ |
+| French            | ❌ | ❌ |
+| Mandarin Chinese  | ❌ | ❌ |
+| Spanish           | ❌ | ❌ |
+| German            | ❌ | ❌ |
+| Italian           | ❌ | ❌ |
+| Japanese          | ❌ | ❌ |
+| Russian           | ❌ | ❌ |
+| Portuguese        | ❌ | ❌ |
+| Korean            | ❌ | ❌ |
 ---
 
 ## Flashcard Format
